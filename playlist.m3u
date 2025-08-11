@@ -120,8 +120,6 @@ https://video-auth1.iol.pt/beachcam/bccarcavelosnortefixa/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/parcos/playlist.m3u8
 #EXTINF:-1,Santo Amaro | Estática
 https://video-auth1.iol.pt/beachcam/santoamarofixa/playlist.m3u8
-#EXTINF:-1,Costa de Caparica | São João | Cova do Vapor
-https://video-auth1.iol.pt/beachcam/bccostasaojoao/playlist.m3u8
 #EXTINF:-1,Costa de Caparica | CDS NORTE | Estática
 https://video-auth1.iol.pt/beachcam/bccaparicanortefixa/playlist.m3u8
 #EXTINF:-1,Costa de Caparica | Praia Nova | Estática
@@ -142,3 +140,5 @@ https://video-auth1.iol.pt/beachcam/bcmadeiraseixal/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/bcpauldomar2/playlist.m3u8
 #EXTINF:-1,T.S.M
 https://youtu.be/tcRuF_Utng8?list=RDtcRuF_Utng8
+#EXTINF:-1,Heaven on Earth
+https://youtu.be/WgzQAd5OoUY?list=RDWgzQAd5OoUY
