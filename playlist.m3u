@@ -38,8 +38,6 @@ https://video-auth1.iol.pt/beachcam/praiaguinchosul/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/praiadospescadores/playlist.m3u8
 #EXTINF:-1,São João do Estoril
 https://video-auth1.iol.pt/beachcam/saojoaodoestoril/playlist.m3u8
-#EXTINF:-1,Praia das Avencas
-https://video-auth1.iol.pt/beachcam/praiadasavencas/playlist.m3u8
 #EXTINF:-1,Carcavelos – Calhau
 https://video-auth1.iol.pt/beachcam/carcavelos2/playlist.m3u8
 #EXTINF:-1,Costa de Caparica - CDS Norte
@@ -136,3 +134,5 @@ https://video-auth1.iol.pt/beachcam/bcfaropraia/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/bcmadeiraseixal/playlist.m3u8
 #EXTINF:-1,Madeira | Paul do Mar
 https://video-auth1.iol.pt/beachcam/bcpauldomar2/playlist.m3u8
+#EXTINF:-1,Summer Morning Energy
+https://youtu.be/XZMuSgEPf_M
