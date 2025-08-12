@@ -486,3 +486,236 @@ https://video-auth1.iol.pt/beachcam/bcmadeiraseixal/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/bcfaja/playlist.m3u8
 #EXTINF:-1,Madeira | Paul do Mar
 https://video-auth1.iol.pt/beachcam/bcpauldomar2/playlist.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logo/radyo7.png",Radyo 7 Arabesk 7
+http://radyo7.stream.radyotvonline.net:80/stream/298/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logo/kralfm.png",KRAL FM
+https://youtu.be/A49bKX8gb-8
+#EXTINF:-1,Radyo 7 Türkü
+https://moondigitaledge2.radyotvonline.net/radyo7turku/playlist.m3u8
+#EXTINF:-1,RADYO7 SLOW
+https://moondigitaledge2.radyotvonline.net/radyo7slow/playlist.m3u8
+#EXTINF:-1,RADYO7 ARABESK
+https://moondigitaledge2.radyotvonline.net/radyo7arabesk/playlist.m3u8
+#EXTINF:-1,RADYO7 TURKU
+https://moondigitaledge2.radyotvonline.net/radyo7turku/playlist.m3u8
+#EXTINF:-1,RADYO7 FMO
+https://moondigitaledge2.radyotvonline.net/radyo7fmo/playlist.m3u8
+#EXTINF:-1,MUHTESEM 4LU
+https://moondigitaledge2.radyotvonline.net/radyo7muhtesem4lu/playlist.m3u8
+#EXTINF:-1,B1
+https://monciskes.jaunimas.lt/kamera/monciskes_hi/index.m3u8
+#EXTINF:-1,BEACH1
+https://usw01-smr04-relay.ozolio.com/hls-live/_definst_/relay01.wyscerq.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt23850.rc0.edge.basic.stream/chunklist_w1643503037.m3u8
+#EXTINF:-1,NİZUC
+https://s81.ipcamlive.com/streams_timeshift/285cbf3053597caa2/stream.m3u8
+#EXTINF:-1,Espinho
+https://video-auth1.iol.pt/beachcam/espinho/playlist.m3u8
+#EXTINF:-1,Esmoriz
+https://video-auth1.iol.pt/beachcam/esmoriz/playlist.m3u8
+#EXTINF:-1,Furadouro
+https://video-auth1.iol.pt/beachcam/furadouro/playlist.m3u8
+#EXTINF:-1,Praia da Torreira
+https://video-auth1.iol.pt/beachcam/torreira/playlist.m3u8
+#EXTINF:-1,Praia da Barra
+https://video-auth1.iol.pt/beachcam/aveiro/playlist.m3u8
+#EXTINF:-1,Costa Nova
+https://video-auth1.iol.pt/beachcam/costanova/playlist.m3u8
+#EXTINF:-1,Praia de Mira
+https://video-auth1.iol.pt/beachcam/bcmira/playlist.m3u8
+#EXTINF:-1,Figueira da Foz
+https://video-auth1.iol.pt/beachcam/figueiradafoz/playlist.m3u8
+#EXTINF:-1,Figueira da Foz - Buarcos
+https://video-auth1.iol.pt/beachcam/bcfigueiradois/playlist.m3u8
+#EXTINF:-1,Praia Osso da Baleia
+https://video-auth1.iol.pt/beachcam/ossodabaleia/playlist.m3u8
+#EXTINF:-1,Praia do Pedrógão
+https://video-auth1.iol.pt/beachcam/praiapedrogao/playlist.m3u8
+#EXTINF:-1,São Pedro de Moel
+https://video-auth1.iol.pt/beachcam/bcsaopedromoel/playlist.m3u8
+#EXTINF:-1,Nazaré - Forte S. Miguel Arcanjo
+https://video-auth1.iol.pt/beachcam/bcarcanjo3/playlist.m3u8
+#EXTINF:-1,Nazaré - Forte S. Miguel Arcanjo – Baía
+https://video-auth1.iol.pt/beachcam/bcarcanjo1/playlist.m3u8
+#EXTINF:-1,Nazaré - Praia do Norte
+https://video-auth1.iol.pt/beachcam/canhaonazare/playlist.m3u8
+#EXTINF:-1,Nazaré - Praia do Norte panorâmica
+https://video-auth1.iol.pt/beachcam/nazareparadonorte/playlist.m3u8
+#EXTINF:-1,Nazaré - Praia da Vila
+https://video-auth1.iol.pt/beachcam/nazarepraiadavila/playlist.m3u8
+#EXTINF:-1,Nazaré - Porto de Abrigo
+https://video-auth1.iol.pt/beachcam/bcportodeabrigo/playlist.m3u8
+#EXTINF:-1,Foz do Arelho
+https://video-auth1.iol.pt/beachcam/bcfozdoarelho/playlist.m3u8
+#EXTINF:-1,Peniche – Lagide
+https://video-auth1.iol.pt/beachcam/lagide/playlist.m3u8
+#EXTINF:-1,Peniche – Supertubos
+https://video-auth1.iol.pt/beachcam/supertubos/playlist.m3u8
+#EXTINF:-1,Areia Branca
+https://video-auth1.iol.pt/beachcam/bcareiabranca/playlist.m3u8
+#EXTINF:-1,Praia de Santa Rita
+https://video-auth1.iol.pt/beachcam/vimeiro/playlist.m3u8
+#EXTINF:-1,Santa Cruz
+https://video-auth1.iol.pt/beachcam/santacruz/playlist.m3u8
+#EXTINF:-1,Santa Cruz - Praia Azul
+https://video-auth1.iol.pt/beachcam/bcpraiaazul/playlist.m3u8
+#EXTINF:-1,Praia da Calada
+https://video-auth1.iol.pt/beachcam/praiadacalada/playlist.m3u8
+#EXTINF:-1,Ericeira
+https://video-auth1.iol.pt/beachcam/ericeiraspots/playlist.m3u8
+#EXTINF:-1,Praia dos Pescadores
+https://video-auth1.iol.pt/beachcam/bcpescadores/playlist.m3u8
+#EXTINF:-1,Ericeira - Praia do Sul
+https://video-auth1.iol.pt/beachcam/praiadosulericeira/playlist.m3u8
+#EXTINF:-1,Praia das Maçãs
+https://video-auth1.iol.pt/beachcam/praiadasmacas/playlist.m3u8
+#EXTINF:-1,Praia Pequena
+https://video-auth1.iol.pt/beachcam/bcpraiapequena/playlist.m3u8
+#EXTINF:-1,Praia Grande – Norte
+https://video-auth1.iol.pt/beachcam/praiagrande/playlist.m3u8
+#EXTINF:-1,Praia Grande – Sul
+https://video-auth1.iol.pt/beachcam/praiagrande2/playlist.m3u8
+#EXTINF:-1,Praia do Guincho – Sul
+https://video-auth1.iol.pt/beachcam/praiaguinchosul/playlist.m3u8
+#EXTINF:-1,Praia da Cresmina
+https://video-auth1.iol.pt/beachcam/crismina/playlist.m3u8
+#EXTINF:-1,Baía de Cascais
+https://video-auth1.iol.pt/beachcam/praiadospescadores/playlist.m3u8
+#EXTINF:-1,Praia da Conceição e Duquesa
+https://video-auth1.iol.pt/beachcam/conceicao/playlist.m3u8
+#EXTINF:-1,São João do Estoril
+https://video-auth1.iol.pt/beachcam/saojoaodoestoril/playlist.m3u8
+#EXTINF:-1,São Pedro do Estoril
+https://video-auth1.iol.pt/beachcam/saopedroestoria/playlist.m3u8
+#EXTINF:-1,Praia das Avencas
+https://video-auth1.iol.pt/beachcam/praiadasavencas/playlist.m3u8
+#EXTINF:-1,Carcavelos
+https://video-auth1.iol.pt/beachcam/carcavelos/playlist.m3u8
+#EXTINF:-1,Carcavelos – Calhau
+https://video-auth1.iol.pt/beachcam/carcavelos2/playlist.m3u8
+#EXTINF:-1,Santo Amaro
+https://video-auth1.iol.pt/beachcam/santoamaro/playlist.m3u8
+#EXTINF:-1,Costa de Caparica - CDS Norte
+https://video-auth1.iol.pt/beachcam/costacaparicacds/playlist.m3u8
+#EXTINF:-1,Costa de Caparica - CDS Sul
+https://video-auth1.iol.pt/beachcam/costacaparicabernard/playlist.m3u8
+#EXTINF:-1,Costa de Caparica - Praia Nova
+https://video-auth1.iol.pt/beachcam/bccaparicanovapria/playlist.m3u8
+#EXTINF:-1,Costa de Caparica – Riviera
+https://video-auth1.iol.pt/beachcam/riviera/playlist.m3u8
+#EXTINF:-1,Lagoa de Albufeira
+https://video-auth1.iol.pt/beachcam/bclagoaalbufeira/playlist.m3u8
+#EXTINF:-1,Praia do Meco
+https://video-auth1.iol.pt/beachcam/bcmeco/playlist.m3u8
+#EXTINF:-1,Praia das Bicas
+https://video-auth1.iol.pt/beachcam/bcpraiadasbicas/playlist.m3u8
+#EXTINF:-1,Praia Sesimbra
+https://video-auth1.iol.pt/beachcam/sesimbra/playlist.m3u8
+#EXTINF:-1,Portinho da Arrábida
+https://video-auth1.iol.pt/beachcam/bcportinho/playlist.m3u8
+#EXTINF:-1,Albarquel
+https://video-auth1.iol.pt/beachcam/bcalbarquel/playlist.m3u8
+#EXTINF:-1,Troia
+https://video-auth1.iol.pt/beachcam/bctroia/playlist.m3u8
+#EXTINF:-1,Praia do Carvalhal
+https://video-auth1.iol.pt/beachcam/carvalhal/playlist.m3u8
+#EXTINF:-1,S. Torpes
+https://video-auth1.iol.pt/beachcam/saotorpes/playlist.m3u8
+#EXTINF:-1,Vila Nova de Milfontes – Franquia
+https://video-auth1.iol.pt/beachcam/bcfranquia/playlist.m3u8
+#EXTINF:-1,Vila Nova de Milfontes – Farol
+https://video-auth1.iol.pt/beachcam/bcfarol/playlist.m3u8
+#EXTINF:-1,Vila Nova de Milfontes - Furnas Mar
+https://video-auth1.iol.pt/beachcam/furnasmar/playlist.m3u8
+#EXTINF:-1,Almograve
+https://video-auth1.iol.pt/beachcam/bcalmograve/playlist.m3u8
+#EXTINF:-1,Zambujeira do Mar
+https://video-auth1.iol.pt/beachcam/zambujeira/playlist.m3u8
+#EXTINF:-1,Odeceixe
+https://video-auth1.iol.pt/beachcam/bcodeceixe/playlist.m3u8
+#EXTINF:-1,Monte Clérigo
+https://video-auth1.iol.pt/beachcam/bcmonteclerigo/playlist.m3u8
+#EXTINF:-1,Arrifana
+https://video-auth1.iol.pt/beachcam/arrifana/playlist.m3u8
+#EXTINF:-1,Praia do Amado
+https://video-auth1.iol.pt/beachcam/bcamado/playlist.m3u8
+#EXTINF:-1,Praia da Luz
+https://video-auth1.iol.pt/beachcam/luz/playlist.m3u8
+#EXTINF:-1,Alvor
+https://video-auth1.iol.pt/beachcam/alvor/playlist.m3u8
+#EXTINF:-1,Alvor Nascente
+https://video-auth1.iol.pt/beachcam/bcalvornascente/playlist.m3u8
+#EXTINF:-1,Praia da Rocha
+https://video-auth1.iol.pt/beachcam/praiadarocha/playlist.m3u8
+#EXTINF:-1,Ferragudo - Praia Grande
+https://video-auth1.iol.pt/beachcam/ferragudo/playlist.m3u8
+#EXTINF:-1,Carvoeiro
+https://video-auth1.iol.pt/beachcam/carvoeiro/playlist.m3u8
+#EXTINF:-1,Senhora da Rocha e Praia Nova
+https://video-auth1.iol.pt/beachcam/bcigreja/playlist.m3u8
+#EXTINF:-1,Armação de Pêra
+https://video-auth1.iol.pt/beachcam/armacaodepera/playlist.m3u8
+#EXTINF:-1,Praia da Galé
+https://video-auth1.iol.pt/beachcam/bcgale/playlist.m3u8
+#EXTINF:-1,Praia do Peneco
+https://video-auth1.iol.pt/beachcam/praiadopeneco/playlist.m3u8
+#EXTINF:-1,Vilamoura
+https://video-auth1.iol.pt/beachcam/vilamoura/playlist.m3u8
+#EXTINF:-1,Faro
+https://video-auth1.iol.pt/beachcam/bcfaro/playlist.m3u8
+#EXTINF:-1,Alagoa – Altura
+https://video-auth1.iol.pt/beachcam/bcalagoa/playlist.m3u8
+#EXTINF:-1,Praia Verde - Castro Marim
+https://video-auth1.iol.pt/beachcam/bcpraiaverde/playlist.m3u8
+#EXTINF:-1,Madeira - Ponta Pequena – Paul
+https://video-auth1.iol.pt/beachcam/madeirajardimdomar/playlist.m3u8
+#EXTINF:-1,Madeira - Jardim do Mar
+https://video-auth1.iol.pt/beachcam/jardimdomardois/playlist.m3u8
+#EXTINF:-1,Madeira - Porto Santo
+https://video-auth1.iol.pt/beachcam/bcportosanto/playlist.m3u8
+#EXTINF:-1,Praia das Rocas
+https://video-auth1.iol.pt/beachcam/praiadasrocas/playlist.m3u8
+#EXTINF:-1,Ferreira do Zêzere - Lago Azul
+https://video-auth1.iol.pt/beachcam/bclagoazul/playlist.m3u8
+#EXTINF:-1,Ferreira do Zêzere – Dornes
+https://video-auth1.iol.pt/beachcam/bcdornes/playlist.m3u8
+#EXTINF:-1,Viana do Castelo | Afife | Arda
+https://video-auth1.iol.pt/beachcam/bcafife/playlist.m3u8
+#EXTINF:-1,Viana do Castelo | Cabedelo
+https://video-auth1.iol.pt/beachcam/bccabedeloviana/playlist.m3u8
+#EXTINF:-1,Esposende - Foz Do Rio Cávado
+https://video-auth1.iol.pt/beachcam/bcfarolesposende/playlist.m3u8
+#EXTINF:-1,Apúlia
+https://video-auth1.iol.pt/beachcam/bcapulia/playlist.m3u8
+#EXTINF:-1,Madeira | Seixal
+https://video-auth1.iol.pt/beachcam/bcmadeiraseixal/playlist.m3u8
+#EXTINF:-1,Madeira | Fajã da Areia
+https://video-auth1.iol.pt/beachcam/bcfaja/playlist.m3u8
+#EXTINF:-1,Madeira | Paul do Mar
+https://video-auth1.iol.pt/beachcam/bcpauldomar2/playlist.m3u8
+#EXTINF:-1 tvg-logo="",ANKARA HV
+https://hls.ibb.gov.tr/ls/cam_turistik/b_ankara.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="",USKUDAR
+https://hls.ibb.gov.tr/ls/cam_turistik/b_uskudar.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="",DRAGOS
+https://hls.ibb.gov.tr/ls/cam_turistik/b_dragos.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="",METROHAN
+https://hls.ibb.gov.tr/ls/cam_turistik/b_metrohan.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="",CAMLICA
+https://hls.ibb.gov.tr/ls/cam_turistik/b_buyukcamlica.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="",SARAÇHANE
+https://hls3.ibb.gov.tr/ls/cam_turistik/b_sarachane.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="",KAPALI ÇARŞI
+https://hls.ibb.gov.tr/ls/cam_turistik/b_kapalicarsi.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="",EMİNÖNÜ
+https://hls.ibb.gov.tr/ls/cam_turistik/b_eminonu.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="",KIZ KULESİ
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_kiz_kulesi_1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="",EYÜP SULTAN
+https://hls.ibb.gov.tr/ls/cam_turistik/b_eyupsultan.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="",TAKSİM
+https://hls.ibb.gov.tr/ls/cam_turistik/b_taksim_meydan.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="",KADIKÖY
+https://hls.ibb.gov.tr/tkm1/hls/224.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="",BOSTANCI
+https://hls.ibb.gov.tr/tkm1/hls/260.stream/playlist.m3u8
