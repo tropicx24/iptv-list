@@ -21,3 +21,72 @@ http://radyo7.stream.radyotvonline.net:80/stream/298/
 https://youtu.be/A49bKX8gb-8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logo/radyo7.png",Radyo 7 Arabesk 7
 http://radyo7.stream.radyotvonline.net:80/stream/298/
+#EXTM3U
+#EXTINF:-1,B1
+https://monciskes.jaunimas.lt/kamera/monciskes_hi/index.m3u8
+#EXTINF:-1,BEACH1
+https://usw01-smr04-relay.ozolio.com/hls-live/_definst_/relay01.wyscerq.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt23850.rc0.edge.basic.stream/chunklist_w1643503037.m3u8
+#EXTINF:-1,NİZUC
+https://s81.ipcamlive.com/streams_timeshift/285cbf3053597caa2/stream.m3u8
+#EXTINF:-1,Espinho
+https://video-auth1.iol.pt/beachcam/espinho/playlist.m3u8
+#EXTINF:-1,Esmoriz
+https://video-auth1.iol.pt/beachcam/esmoriz/playlist.m3u8
+#EXTINF:-1,Furadouro
+https://video-auth1.iol.pt/beachcam/furadouro/playlist.m3u8
+#EXTINF:-1,Praia da Torreira
+https://video-auth1.iol.pt/beachcam/torreira/playlist.m3u8
+#EXTINF:-1,Praia da Barra,
+https://video-auth1.iol.pt/beachcam/aveiro/playlist.m3u8
+#EXTINF:-1,Costa Nova
+https://video-auth1.iol.pt/beachcam/costanova/playlist.m3u8
+#EXTINF:-1,Praia de Mira
+https://video-auth1.iol.pt/beachcam/bcmira/playlist.m3u8
+#EXTINF:-1,Figueira da Foz
+https://video-auth1.iol.pt/beachcam/figueiradafoz/playlist.m3u8
+#EXTINF:-1,Figueira da Foz - Buarcos
+https://video-auth1.iol.pt/beachcam/bcfigueiradois/playlist.m3u8
+#EXTINF:-1,Praia Osso da Baleia
+https://video-auth1.iol.pt/beachcam/ossodabaleia/playlist.m3u8
+#EXTINF:-1,Praia do Pedrógão
+https://video-auth1.iol.pt/beachcam/praiapedrogao/playlist.m3u8
+#EXTINF:-1,São Pedro de Moel
+https://video-auth1.iol.pt/beachcam/bcsaopedromoel/playlist.m3u8
+#EXTINF:-1,Nazaré - Forte S. Miguel Arcanjo
+https://video-auth1.iol.pt/beachcam/bcarcanjo3/playlist.m3u8
+#EXTINF:-1,Nazaré - Forte S. Miguel Arcanjo – Baía
+https://video-auth1.iol.pt/beachcam/bcarcanjo1/playlist.m3u8
+#EXTINF:-1,Nazaré - Praia do Norte
+https://video-auth1.iol.pt/beachcam/canhaonazare/playlist.m3u8
+#EXTINF:-1,Nazaré - Praia do Norte panorâmica
+https://video-auth1.iol.pt/beachcam/nazareparadonorte/playlist.m3u8
+#EXTINF:-1,Nazaré - Porto de Abrigo
+https://video-auth1.iol.pt/beachcam/bcportodeabrigo/playlist.m3u8
+#EXTINF:-1,Foz do Arelho
+https://video-auth1.iol.pt/beachcam/bcfozdoarelho/playlist.m3u8
+#EXTINF:-1,Peniche – Lagide
+https://video-auth1.iol.pt/beachcam/lagide/playlist.m3u8
+#EXTINF:-1,Peniche – Supertubos
+https://video-auth1.iol.pt/beachcam/supertubos/playlist.m3u8
+#EXTINF:-1,Praia de Santa Rita
+https://video-auth1.iol.pt/beachcam/vimeiro/playlist.m3u8
+#EXTINF:-1,Santa Cruz - Praia Azul
+https://video-auth1.iol.pt/beachcam/bcpraiaazul/playlist.m3u8
+#EXTINF:-1,Praia da Calada
+https://video-auth1.iol.pt/beachcam/praiadacalada/playlist.m3u8
+#EXTINF:-1,Ericeira
+https://video-auth1.iol.pt/beachcam/ericeiraspots/playlist.m3u8
+#EXTINF:-1,Praia dos Pescadores
+https://video-auth1.iol.pt/beachcam/bcpescadores/playlist.m3u8
+#EXTINF:-1,Ericeira - Praia do Sul
+https://video-auth1.iol.pt/beachcam/praiadosulericeira/playlist.m3u8
+#EXTINF:-1,Praia das Maçãs
+https://video-auth1.iol.pt/beachcam/praiadasmacas/playlist.m3u8
+#EXTINF:-1,Praia Grande – Norte
+https://video-auth1.iol.pt/beachcam/praiagrande/playlist.m3u8
+#EXTINF:-1,Praia do Guincho – Sul
+https://video-auth1.iol.pt/beachcam/praiaguinchosul/playlist.m3u8
+#EXTINF:-1,Baía de Cascais
+https://video-auth1.iol.pt/beachcam/praiadospescadores/playlist.m3u8
+#EXTINF:-1,São João do Estoril
+https://video-auth1.iol.pt/beachcam/saojoaodoestoril/playlist.m3u8
