@@ -3,3 +3,6 @@
 ✅ Çalışıyor
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logo/kralfm.png",KRAL FM
 https://youtu.be/A49bKX8gb-8
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://example.com/logo.png",Test Kanal
+https://example.com/test_stream
