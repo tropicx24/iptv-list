@@ -16,3 +16,8 @@ http://radyo7.stream.radyotvonline.net:80/stream/298/
 https://youtu.be/A49bKX8gb-8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logo/radyo7.png",Radyo 7 Arabesk 7
 http://radyo7.stream.radyotvonline.net:80/stream/298/
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logo/kralfm.png",KRAL FM
+https://youtu.be/A49bKX8gb-8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logo/radyo7.png",Radyo 7 Arabesk 7
+http://radyo7.stream.radyotvonline.net:80/stream/298/
