@@ -3,8 +3,6 @@
 https://youtu.be/A49bKX8gb-8
 #EXTINF:-1 tvg-logo="https://example.com/logo.png",Test Kanal
 https://example.com/test_stream
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logo/radyo7.png",Radyo 7 Arabesk 7
-http://radyo7.stream.radyotvonline.net:80/stream/298/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tropicx24/iptv-list/main/logos/b1.PNG",B1
 https://monciskes.jaunimas.lt/kamera/monciskes_hi/index.m3u8
 #EXTINF:-1,ANKARA HV
