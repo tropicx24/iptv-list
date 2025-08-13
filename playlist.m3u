@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTM3U
 #EXTM3U
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logo/kralfm.png",KRAL FM
 https://youtu.be/A49bKX8gb-8
 #EXTINF:-1 tvg-logo="https://example.com/logo.png",Test Kanal
@@ -413,5 +414,6 @@ https://video-auth1.iol.pt/beachcam/bcfaja/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/bcpauldomar2/playlist.m3u8
 #EXTINF:-1,Costa de Caparica - Praia Nova
 https://video-auth1.iol.pt/beachcam/bccaparicanovapria/playlist.m3u8
+#EXTM3U
 #EXTM3U
 #EXTM3U
