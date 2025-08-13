@@ -9,7 +9,7 @@ http://radyo7.stream.radyotvonline.net:80/stream/298/
 https://monciskes.jaunimas.lt/kamera/monciskes_hi/index.m3u8
 #EXTINF:-1,ANKARA HV
 https://hls.ibb.gov.tr/ls/cam_turistik/b_ankara.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.kanal7.com/radyo7/newsite/large/2022/19/20c70314b9a6833d2f82fc1f2427ac1678a4e3a2.png",Radyo 7 Arabesk 7
+#EXTINF:-1,Radyo 7 Arabesk 7
 https://moondigitaledge2.radyotvonline.net/radyo7turku/playlist.m3u8
 #EXTINF:-1,RADYO7 SLOW
 https://moondigitaledge2.radyotvonline.net/radyo7slow/playlist.m3u8
