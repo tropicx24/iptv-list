@@ -5,8 +5,8 @@ https://youtu.be/A49bKX8gb-8
 https://example.com/test_stream
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tropicx24/iptv-list/main/logos/b1.PNG",B1
 https://monciskes.jaunimas.lt/kamera/monciskes_hi/index.m3u8
-#EXTINF:-1,ANKARA HV
-https://hls.ibb.gov.tr/ls/cam_turistik/b_ankara.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.kanal7.com/radyo7/newsite/big/2023/21/3f6dd0947d67221e72701c5c0681327dbedbf360.png",ANKARA HV
+https://moondigitaledge2.radyotvonline.net/radyo7ankara/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tropicx24/iptv-list/main/logos/radyo_7_arabesk_7.PNG",Radyo 7 Arabesk 7
 https://moondigitaledge2.radyotvonline.net/radyo7turku/playlist.m3u8
 #EXTINF:-1,RADYO7 SLOW
@@ -19,8 +19,6 @@ https://moondigitaledge2.radyotvonline.net/radyo7arabesk/playlist.m3u8
 https://moondigitaledge2.radyotvonline.net/radyo7fmo/playlist.m3u8
 #EXTINF:-1,MUHTESEM 4LU
 https://moondigitaledge2.radyotvonline.net/radyo7muhtesem4lu/playlist.m3u8
-#EXTINF:-1,ANKARA HV
-https://moondigitaledge2.radyotvonline.net/radyo7ankara/playlist.m3u8
 #EXTINF:-1,CAMLICA
 https://hls.ibb.gov.tr/ls/cam_turistik/b_buyukcamlica.stream/playlist.m3u8
 #EXTINF:-1,USKUDAR
