@@ -409,3 +409,7 @@ https://youtu.be/TKrUIFMoThk
 https://youtu.be/XzxWrdI1mk4
 #EXTINF:-1,TRT
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1,TRT NAĞME
+https://rd-trtnagme.medya.trt.com.tr/master_128.m3u8
+Request Method
+GET
