@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logo/kralfm.png",KRAL FM
 https://youtu.be/A49bKX8gb-8
-#EXTINF:-1 tvg-logo="https://example.com/logo.png",Test Kanal
-https://example.com/test_stream
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tropicx24/iptv-list/main/logos/b1.PNG",B1
 https://monciskes.jaunimas.lt/kamera/monciskes_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.kanal7.com/radyo7/newsite/big/2023/21/3f6dd0947d67221e72701c5c0681327dbedbf360.png",ANKARA HV
@@ -411,5 +409,3 @@ https://youtu.be/XzxWrdI1mk4
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1,TRT NAĞME
 https://rd-trtnagme.medya.trt.com.tr/master_128.m3u8
-Request Method
-GET
