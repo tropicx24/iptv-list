@@ -8,32 +8,43 @@ on:
 
 permissions:
   contents: write
+  actions: read
 
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v4
+    - name: Checkout
+      uses: actions/checkout@v4
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
+        fetch-depth: 0
         
-    - uses: actions/setup-python@v4
+    - name: Setup Python
+      uses: actions/setup-python@v4
       with:
         python-version: '3.11'
         
-    - run: pip install requests
+    - name: Install dependencies
+      run: pip install requests
     
     - name: Update playlist
       run: python check_links.py
       
-    - name: Commit and push changes
+    - name: Check for changes
+      id: verify-changed-files
       run: |
-        git config user.email "action@github.com"
-        git config user.name "GitHub Action"
-        git add playlist.m3u
-        if ! git diff --staged --quiet; then
-          git commit -m "🔄 Playlist updated - $(date '+%Y-%m-%d %H:%M')"
-          git push
+        if [ -n "$(git status --porcelain)" ]; then
+          echo "changed=true" >> $GITHUB_OUTPUT
         else
-          echo "No changes to commit"
+          echo "changed=false" >> $GITHUB_OUTPUT
         fi
+      
+    - name: Commit and push changes
+      if: steps.verify-changed-files.outputs.changed == 'true'
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add playlist.m3u
+        git commit -m "🔄 Playlist updated - $(date '+%Y-%m-%d %H:%M')"
+        git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
