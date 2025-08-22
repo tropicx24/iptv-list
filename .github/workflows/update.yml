@@ -16,12 +16,10 @@ jobs:
         python-version: '3.11'
     - run: pip install requests
     - name: Update playlist
-      run: |
-        cd "Yeni klasör"
-        python check_links.py
+      run: python check_links.py
     - name: Commit
       run: |
         git config user.email "bot@github.com"
         git config user.name "IPTV Bot"
-        git add "Yeni klasör/playlist.m3u"
+        git add playlist.m3u
         git diff --staged --quiet || (git commit -m "🔄 Updated $(date)" && git push)
