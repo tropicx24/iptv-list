@@ -1,39 +1,27 @@
-﻿name: Auto Update IPTV
+﻿name: "Auto Update IPTV"
 
 on:
+  workflow_dispatch:
   schedule:
-    - cron: '0 6 * * *'  # Her gün 09:00 (Türkiye saati)
-    - cron: '0 18 * * *' # Her gün 21:00 (Türkiye saati)
-  workflow_dispatch:     # Manuel çalıştırma
+    - cron: '0 6 * * *'
+    - cron: '0 18 * * *'
 
 jobs:
   update:
     runs-on: ubuntu-latest
-    
     steps:
     - uses: actions/checkout@v4
-    
-    - name: Setup Python
-      uses: actions/setup-python@v4
+    - uses: actions/setup-python@v4
       with:
         python-version: '3.11'
-    
-    - name: Install requests
-      run: pip install requests
-    
+    - run: pip install requests
     - name: Update playlist
       run: |
         cd "Yeni klasör"
         python check_links.py
-    
-    - name: Commit changes
+    - name: Commit
       run: |
-        git config --local user.email "bot@github.com"
-        git config --local user.name "IPTV Bot"
+        git config user.email "bot@github.com"
+        git config user.name "IPTV Bot"
         git add "Yeni klasör/playlist.m3u"
-        if ! git diff --staged --quiet; then
-          git commit -m "🔄 Playlist updated $(date '+%Y-%m-%d %H:%M')"
-          git push
-        else
-          echo "No changes to commit"
-        fi
+        git diff --staged --quiet || (git commit -m "🔄 Updated $(date)" && git push)
