@@ -1,48 +1,39 @@
-﻿name: "IPTV Playlist Update"
+﻿name: Auto Update IPTV
 
 on:
   schedule:
-    - cron: '0 3 * * *'
-    - cron: '0 15 * * *'
-  workflow_dispatch:
-
-permissions:
-  contents: write
+    - cron: '0 6 * * *'  # Her gün 09:00 (Türkiye saati)
+    - cron: '0 18 * * *' # Her gün 21:00 (Türkiye saati)
+  workflow_dispatch:     # Manuel çalıştırma
 
 jobs:
-  update-playlist:
+  update:
     runs-on: ubuntu-latest
-
+    
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v4
-
+    - uses: actions/checkout@v4
+    
     - name: Setup Python
       uses: actions/setup-python@v4
       with:
         python-version: '3.11'
-
-    - name: Install dependencies
+    
+    - name: Install requests
       run: pip install requests
-
-    - name: Run playlist checker
-      run: python ./check_links.py
-      working-directory: './Yeni klasör'
-
-    - name: Check for changes
-      id: changes
+    
+    - name: Update playlist
       run: |
-        if git diff --quiet './Yeni klasör/playlist.m3u'; then
-          echo "changed=false" >> $GITHUB_OUTPUT
-        else
-          echo "changed=true" >> $GITHUB_OUTPUT
-        fi
-
-    - name: Commit and push changes
-      if: steps.changes.outputs.changed == 'true'
+        cd "Yeni klasör"
+        python check_links.py
+    
+    - name: Commit changes
       run: |
-        git config --local user.email "action@github.com"
+        git config --local user.email "bot@github.com"
         git config --local user.name "IPTV Bot"
-        git add './Yeni klasör/playlist.m3u'
-        git commit -m "Auto update playlist - $(date)"
-        git push
+        git add "Yeni klasör/playlist.m3u"
+        if ! git diff --staged --quiet; then
+          git commit -m "🔄 Playlist updated $(date '+%Y-%m-%d %H:%M')"
+          git push
+        else
+          echo "No changes to commit"
+        fi
