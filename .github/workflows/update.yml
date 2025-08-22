@@ -6,20 +6,34 @@ on:
     - cron: '0 6 * * *'
     - cron: '0 18 * * *'
 
+permissions:
+  contents: write
+
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        
     - uses: actions/setup-python@v4
       with:
         python-version: '3.11'
+        
     - run: pip install requests
+    
     - name: Update playlist
       run: python check_links.py
-    - name: Commit
+      
+    - name: Commit and push changes
       run: |
-        git config user.email "bot@github.com"
-        git config user.name "IPTV Bot"
+        git config user.email "action@github.com"
+        git config user.name "GitHub Action"
         git add playlist.m3u
-        git diff --staged --quiet || (git commit -m "🔄 Updated $(date)" && git push)
+        if ! git diff --staged --quiet; then
+          git commit -m "🔄 Playlist updated - $(date '+%Y-%m-%d %H:%M')"
+          git push
+        else
+          echo "No changes to commit"
+        fi
