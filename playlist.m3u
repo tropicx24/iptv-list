@@ -5,8 +5,7 @@ https://tv-trt1.medya.trt.com.tr/master.m3u8
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="YouTube Live",CNN Türk Live
 https://www.youtube.com/@CNNTurk/live
-#EXTINF:-1 group-title="YouTube Live",Haber Global Live  
+#EXTINF:-1 group-title="YouTube Live",Haber Global Live
 https://www.youtube.com/@HaberGlobal/live
-#EXTINF:-1 group-title="YouTube Live",NTV Live
 #EXTINF:-1 group-title="YouTube Live",A Haber Live
 https://www.youtube.com/@AHaber/live
