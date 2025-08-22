@@ -12,36 +12,37 @@ permissions:
 jobs:
   update-playlist:
     runs-on: ubuntu-latest
-    
+
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
-      
+
     - name: Setup Python
       uses: actions/setup-python@v4
       with:
         python-version: '3.11'
-        
+
     - name: Install dependencies
       run: pip install requests
-        
+
     - name: Run playlist checker
-      run: python "Yeni klasör/check_links.py"
-        
+      run: python ./check_links.py
+      working-directory: './Yeni klasör'
+
     - name: Check for changes
       id: changes
       run: |
-        if git diff --quiet "Yeni klasör/playlist.m3u"; then
+        if git diff --quiet './Yeni klasör/playlist.m3u'; then
           echo "changed=false" >> $GITHUB_OUTPUT
         else
           echo "changed=true" >> $GITHUB_OUTPUT
         fi
-        
+
     - name: Commit and push changes
       if: steps.changes.outputs.changed == 'true'
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "IPTV Bot"
-        git add "Yeni klasör/playlist.m3u"
+        git add './Yeni klasör/playlist.m3u'
         git commit -m "Auto update playlist - $(date)"
         git push
