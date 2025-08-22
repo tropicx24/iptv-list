@@ -1,0 +1,128 @@
+﻿#EXTM3U
+
+# ANA KANALLAR
+#EXTINF:-1 group-title="Ana Kanal",CNN Türk
+https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
+#EXTINF:-1 group-title="Ana Kanal",NTV
+https://dogus-live.daioncdn.net/ntv/ntv.m3u8
+#EXTINF:-1 group-title="Ana Kanal",Show TV
+https://ciner-live.daioncdn.net/showtv/showtv.m3u8
+#EXTINF:-1 group-title="Ana Kanal",ATV
+https://trkvz-live.daioncdn.net/atv/atv.m3u8
+#EXTINF:-1 group-title="Ana Kanal",Star TV
+https://dogus-live.daioncdn.net/startv/startv.m3u8
+#EXTINF:-1 group-title="Ana Kanal",Kanal D
+https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
+#EXTINF:-1 group-title="Ana Kanal",TV8
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+
+# HABER KANALLARI
+#EXTINF:-1 group-title="Haber",Haber Türk
+https://tv.ensonhaber.com/haberturk/haberturk.m3u8
+#EXTINF:-1 group-title="Haber",24 TV
+https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
+#EXTINF:-1 group-title="Haber",A Haber
+https://trkvz-live.daioncdn.net/ahaber/ahaber.m3u8
+#EXTINF:-1 group-title="Haber",Halk TV
+https://halktv-live.daioncdn.net/halktv/halktv.m3u8
+
+# TRT KANALLARI
+#EXTINF:-1 group-title="TRT",TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TRT",TRT Haber
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TRT",TRT World
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TRT",TRT Spor
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TRT",TRT Çocuk
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TRT",TRT Müzik
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TRT",TRT Türk
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
+
+# BELGESEL KANALLARI (ÇALIŞAN)
+#EXTINF:-1 group-title="Belgesel - Yerli",TRT Belgesel
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Belgesel - Yerli",TRT Arabi
+https://tv-trtarabi.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Belgesel - Yerli",TRT Kurdî
+https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Belgesel - Yerli",TRT Avaz
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+
+# SPOR KANALLARI (ÇALIŞAN)
+#EXTINF:-1 group-title="Spor - Yerli",A Spor
+https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
+#EXTINF:-1 group-title="Spor - Yerli",TRT Spor Yıldız
+https://tv-trtspor2.medya.trt.com.tr/master.m3u8
+
+# ETM KANALLARI
+#EXTINF:-1 group-title="Eğitim",TRT EBA TV lkokul
+https://tv-e-okul00.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Eğitim",TRT EBA TV Ortaokul
+https://tv-e-okul01.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Eğitim",TRT EBA TV Lise
+https://tv-e-okul02.medya.trt.com.tr/master.m3u8
+
+# YABANCI HABER KANALLARI
+#EXTINF:-1 group-title="Haber - Yabancı",BBC World News
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+#EXTINF:-1 group-title="Haber - Yabancı",CNN International
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Haber - Yabancı",France 24 English
+https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1 group-title="Haber - Yabancı",Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 group-title="Haber - Yabancı",RT News
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1 group-title="Haber - Yabancı",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+# YABANCI BELGESEL KANALLARI
+#EXTINF:-1 group-title="Belgesel - Yabancı",BBC Earth
+https://d206rrc0yoyhpx.cloudfront.net/livestream/bbcearth/playlist.m3u8
+#EXTINF:-1 group-title="Belgesel - Yabancı",National Geographic
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Belgesel - Yabancı",Discovery Channel
+https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index.m3u8
+#EXTINF:-1 group-title="Belgesel - Yabancı",Animal Planet
+https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index.m3u8
+#EXTINF:-1 group-title="Belgesel - Yabancı",History Channel
+https://da8eq3kpws6wh.cloudfront.net/live/eds/HistoryHD/sa_dash_vmx/HistoryHD.mpd
+#EXTINF:-1 group-title="Belgesel - Yabancı",Love Nature
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+
+# YABANCI SPOR KANALLARI
+#EXTINF:-1 group-title="Spor - Yabancı",ESPN
+https://espn-live.hls.adaptive.level3.net/espn/ESPNOneHLS.m3u8
+#EXTINF:-1 group-title="Spor - Yabancı",Sky Sports News
+https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_sd/Live/channel(skysportsnews)/index_mob.m3u8
+#EXTINF:-1 group-title="Spor - Yabancı",Fox Sports
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:-1 group-title="Spor - Yabancı",Eurosport 1
+https://eurosport1.si.isimtescil.net/S01/HLS_LIVE/eurosport1/1000/prog_index.m3u8
+
+# YABANCI GENEL KANALLAR
+#EXTINF:-1 group-title="Genel - Yabancı",BBC One
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 group-title="Genel - Yabancı",ARD Das Erste
+https://mcdn.daserste.de/daserste/de/master.m3u8
+#EXTINF:-1 group-title="Genel - Yabancı",France 2
+https://shls-france2-prod-dub.shahid.net/out/v1/0635c5dd21e34ec9ad2bb98569089989/index.m3u8
+#EXTINF:-1 group-title="Genel - Yabancı",RAI 1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803
+#EXTINF:-1 group-title="Genel - Yabancı",TVE 1
+https://rtvelivestream.akamaized.net/segments/la1/la1_main.m3u8
+
+# YABANCI MÜZK KANALLARI
+#EXTINF:-1 group-title="Müzik - Yabancı",MTV
+https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1 group-title="Müzik - Yabancı",VH1
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+#EXTINF:-1 group-title="Müzik - Yabancı",Kiss TV
+https://kiss-tv.si.isimtescil.net/S01/HLS_LIVE/kiss/1000/prog_index.m3u8
+#EXTINF:-1 group-title="Müzik - Yabancı",Music Choice
+https://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC146/playlist.m3u8
+

@@ -1,0 +1,195 @@
+KRAL FM|YouTube|https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1755779199/ei/H7ymaKCLBKqt6dsP4Lqm4Qs/ip/176.42.136.153/id/A49bKX8gb-8.7/itag/270/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr7---sn-u0g3jxaa-n5fl.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/3600/manifest_duration/3600/bui/AY1jyLNlWnq-Kk5xjWAyF_tE8dTVt4Y5BWt5Yeweb65Wx_VysPNQdcJjnP6D8VpsxSfPiEKe12JLgK_o/spc/l3OVKQ7bGtT8K_IVBrTaUGj3sh-eyuS9RW_4tlFl4BSMkGbNEvuObvv5Aeo/vprv/1/playlist_type/DVR/initcwndbps/1396250/met/1755757599,/mh/A-/mm/44/mn/sn-u0g3jxaa-n5fl/ms/lva/mv/m/mvi/7/pcm2cms/yes/pl/20/rms/lva,lva/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/51548755,51552689,51565116,51565682,51580968/mt/1755757228/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRAIgZbRHNxNlCrp_vQidkrNyJwrOfPhV9xnfnTu8eZ2FNuwCIBlzOec07-AG1gN94QaCP-ocP8rn4EsLfF1HPjkEavnc/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pcm2cms,pl,rms/lsig/APaTxxMwRAIgAOUVsMDBExhs4AuVO1bqWPGNmh3L9-yh3qQE0dnBdS8CIE1qH9nRJrnxikbvpQwOU5Cl3RkzHtc17mLEUtmQe4ZR/playlist/index.m3u8||https://youtu.be/A49bKX8gb-8
+Radyo 7 Arabesk 7|YouTube|https://moondigitaledge2.radyotvonline.net/radyo7turku/playlist.m3u8||
+RADYO7 SLOW|YouTube|https://moondigitaledge2.radyotvonline.net/radyo7slow/playlist.m3u8||https://rr5---sn-u0g3jxaa-n5fs.googlevideo.com/videoplayback?expire=1755713295&ei=r7qlaIDPK56p6dsPjuvhmQc&ip=176.42.136.153&id=o-ALAiDX3xXoRpVOuO3-u52w5xGRlsQ2ks-82VJ5op6QXV&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1755691695%2C&mh=Od&mm=31%2C29&mn=sn-u0g3jxaa-n5fs%2Csn-nv47lnsr&ms=au%2Crdu&mv=m&mvi=5&pl=20&rms=au%2Cau&gcr=tr&initcwndbps=1646250&bui=AY1jyLPWm8GRL-vwE-WKZyw47uYQzQ5EfUB5CHmUqOXJgFrlhG10s7liWo4wHSrHxXR8K7Xnmoly6T3k&spc=l3OVKaRDZrZ7PCpgh_1C8aSHssS3myvxFienI3BsS7VeFDxsWXy7ebSaUwDbBP-pqqDtV416Hl8&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=135479837&ratebypass=yes&dur=3000.064&lmt=1753286314532135&mt=1755691052&fvip=3&fexp=51548755%2C51565116%2C51565682%2C51580968&c=ANDROID&txp=5438534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AJfQdSswRQIgCAKmB29NoYKI9ghlNt-y9bRbAmPjlKVoU2Qy0IGCqCUCIQDeTMNYFQGLQs0MB1aUEXkNZKacY6yNcbWbRQ0kjOSZLg%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAMd3pQwDY6yIvmTUGYmi-gHUMud_Or9e9P1z5pcz83H6AiEArWB5tae_xCTFSZGDYcYc_UD2rFBrLlt96ECFJDqyUGc%3D
+Radyo 7 Akustik|YouTube|https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1755607638/ei/9h2kaIz9B9zB6dsPhryaqQI/ip/176.42.136.153/id/jrlG94Vojy0.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-u0g3jxaa-n5fs.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AY1jyLNnVBIpooivG_xIhrocAnK2xYMR6FvXZzaQkEQZkx0RBuIgY9n-ff_bS9CuA-oKGI3bWAAID4EG/vprv/1/playlist_type/DVR/initcwndbps/1705000/met/1755586039,/mh/BL/mm/44/mn/sn-u0g3jxaa-n5fs/ms/lva/mv/m/mvi/4/pl/20/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51548755,51565116,51565681/mt/1755585629/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,vprv,playlist_type/sig/AJfQdSswRAIgVLA-DUFkgCh-uIfVdNATGhBK1UoentDqcxV5qXMn-QsCICKYMVbny3eajXs1Bk4vllff__qEkLDqAnWPCVP7-3Uo/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgOsEdVRJmadhHivdCoSyngF4S4LOCdPrDjEOh_vLucwACIGo0bLErD7BCOeY44dM5-tZCaU3nsir_mTiQ37fVKWc7/playlist/index.m3u8||https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1755713297/ei/sbqlaJ_6M_WFgMMPrMaY8A4/ip/176.42.136.153/id/jrlG94Vojy0.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-u0g3jxaa-n5fs.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AY1jyLPtCve4cxn4WOWabCcpAxQ67MraYiilZ5ErhEe-o_Dnac2vFvCTRs9BXu3czeOuL_Cw5Daymtz-/spc/l3OVKQQcr-8Mw5T8FIfNCdTPFiROs5H0ERyLdBuXKi5rRM4A1U1Ma5mgmHCcgTBpMFvsiObP/vprv/1/playlist_type/DVR/initcwndbps/1646250/met/1755691698,/mh/BL/mm/44/mn/sn-u0g3jxaa-n5fs/ms/lva/mv/m/mvi/4/pl/20/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51548755,51565115,51565681,51580968/mt/1755691002/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRgIhAL26_xxko7Tk-AyebDlsfOnu4daukGcM0zS4Y_SmyFnVAiEArggWPZGIXUuxsPOFpGyXPZgvygKFtbG-SXbfEyesYH0%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAKKopx5zRqlWMwWwx71IiY8fGQbelzzk2Gni-OSp6ypQAiBwMe9RYeSuGwB9DyvOi7SNXPlGxB3krVE8_e--_k3sGw%3D%3D/playlist/index.m3u8
+RADYO7 ARABESK|Diğer|https://moondigitaledge2.radyotvonline.net/radyo7arabesk/playlist.m3u8||
+RADYO7 FMO|Diğer|https://moondigitaledge2.radyotvonline.net/radyo7fmo/playlist.m3u8||
+MUHTESEM 4LU|Diğer|https://moondigitaledge2.radyotvonline.net/radyo7muhtesem4lu/playlist.m3u8||
+CAMLICA|Diğer|https://hls.ibb.gov.tr/ls/cam_turistik/b_buyukcamlica.stream/playlist.m3u8||
+USKUDAR|Diğer|https://hls.ibb.gov.tr/ls/cam_turistik/b_uskudar.stream/playlist.m3u8||
+DRAGOS|Diğer|https://hls.ibb.gov.tr/ls/cam_turistik/b_dragos.stream/playlist.m3u8||
+DRAGOS|Diğer|https://hls.ibb.gov.tr/ls/cam_turistik/b_dragos.stream/chunklist.m3u8||
+METROHAN|Diğer|https://hls.ibb.gov.tr/ls/cam_turistik/b_metrohan.stream/playlist.m3u8||
+CAMLICA|Diğer|https://hls.ibb.gov.tr/ls/cam_turistik/b_buyukcaml\u0131ca.stream/playlist.m3u8||
+SARAÇHANE|Diğer|https://hls3.ibb.gov.tr/ls/cam_turistik/b_sarachane.stream/chunklist.m3u8||
+KAPALI ÇARŞI|Diğer|https://hls.ibb.gov.tr/ls/cam_turistik/b_kapalicarsi.stream/playlist.m3u8||
+EMİNÖNÜ|Diğer|https://hls.ibb.gov.tr/ls/cam_turistik/b_eminonu.stream/playlist.m3u8||
+EMİNONU|Diğer|https://hls.ibb.gov.tr/ls/cam_turistik/b_eminonu.stream/chunklist.m3u8||
+KUZ KULESİ|Diğer|https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_kiz_kulesi_1.stream/playlist.m3u8||
+EYÜP SULTAN|Diğer|https://hls.ibb.gov.tr/ls/cam_turistik/b_eyupsultan.stream/playlist.m3u8||
+KADIKÖY|Diğer|https://hls.ibb.gov.tr/tkm1/hls/224.stream/playlist.m3u8||
+BOSTANCI|Diğer|https://hls.ibb.gov.tr/tkm1/hls/260.stream/playlist.m3u8||
+K.KOY|Diğer|https://hls.ibb.gov.tr/tkm1/hls/204.stream/chunklist.m3u8||
+DBAHCE|Diğer|https://hls.ibb.gov.tr/tkm4/hls/595.stream/chunklist.m3u8||
+UNKAP|Diğer|https://hls.ibb.gov.tr/tkm2/hls/399.stream/chunklist.m3u8||
+15TEM|Diğer|https://hls.ibb.gov.tr/tkm2/hls/81.stream/chunklist.m3u8||
+TAX|Diğer|https://hls.ibb.gov.tr/tkm1/hls/193.stream/playlist.m3u8||
+TAKSİM|Diğer|https://hls.ibb.gov.tr/ls/cam_turistik/b_taksim_meydan.stream/playlist.m3u8||
+UNKAPANI2|Diğer|https://hls.ibb.gov.tr/tkm2/hls/400.stream/chunklist.m3u8||
+FSKÖPRÜ|Diğer|https://hls.ibb.gov.tr/tkm1/hls/341.stream/chunklist.m3u8||
+PERPA|Diğer|https://hls.ibb.gov.tr/tkm2/hls/915.stream/media-uee67pvez_1092.m3u||
+BAHRİYE CAD|Diğer|https://hls.ibb.gov.tr/tkm1/hls/208.stream/chunklist.m3u8||
+UNKAPANI2|Diğer|https://hls.ibb.gov.tr/tkm1/hls/181.stream/media-uf9t48e94_243.m3u||
+BOĞAZKÖP|Diğer|https://hls.ibb.gov.tr/tkm1/hls/79.stream/media-ujdb1zi8d_2914.m3u||
+Greece 8K|Diğer|https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1755607639/ei/9x2kaLf8GaS2i9oPstqz4Qc/ip/176.42.136.153/id/jZFhl9pY1Ps.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-u0g3jxaa-n5fl.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AY1jyLPkvygAENp4IqMjISk1mRwDAovnvlbOvQEKHVi8VsMpU5xeJ6TM4UYHuZB96MZGD3150grj4zWI/vprv/1/playlist_type/DVR/initcwndbps/1596250/met/1755586040,/mh/L2/mm/44/mn/sn-u0g3jxaa-n5fl/ms/lva/mv/m/mvi/5/pl/20/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51548755,51565116,51565681/mt/1755585629/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,vprv,playlist_type/sig/AJfQdSswRgIhAN6wE4aCv3Yhxa_e7eVEe0Aw2mgUV5TB1pnb0pswlqztAiEAl8s7P-ADZAGXjZMrA3-JRPjHnoRrxuxkeVB_LR8ScjE%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgYTDyONl4WLy8vDyYSdS6vEj7EMsrFwnJh8IOYAVUZsQCIQCvjx-7tvRJeVKmMYyJIAtTUUWbnFiPus9iGZgzdZ5jSg%3D%3D/playlist/index.m3u8||
+NATURE|Diğer|https://cdn-002.whatsupcams.com/hls/hr_promajna01.m3u8||
+ZİVOGECA|Diğer|https://cdn-004.whatsupcams.com/hls/hr_zivogosce02.m3u8||
+BUDONİ|Diğer|https://cdn-006.whatsupcams.com/hls/it_budoni01.m3u8||
+OPUTA|Diğer|https://cdn-005.whatsupcams.com/hls/hr_opuzen1.m3u8||
+BEACH1|Diğer|https://usw01-smr04-relay.ozolio.com/hls-live/_definst_/relay01.wyscerq.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt23850.rc0.edge.basic.stream/chunklist_w1643503037.m3u8||
+BEACH2|Diğer|https://use01-smr03-relay.ozolio.com/hls-live/_definst_/relay01.drwger6.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt23850.rc0.edge.basic.stream/chunklist_w1680503665.m3u8||
+NİZUC|Diğer|https://s81.ipcamlive.com/streams_timeshift/285cbf3053597caa2/stream.m3u8||
+PALMAİT|Diğer|https://s2.ipcamlive.com/streams/02pjakweminpt03a8/stream.m3u8||
+Mallorca|Diğer|https://s147.ipcamlive.com/streams/93rhagwfvnujb1uxl/stream.m3u8||
+CAYMEN|Diğer|https://5ed7b8fd7bf40.streamlock.net:444/edgewater/edgewatercam/chunklist_w1262161648.m3u8||
+MALORCA|Diğer|https://s2.ipcamlive.com/streams/02kowivhcgalq3gxi/stream.m3u8||
+SHARKY|Diğer|https://s111.ipcamlive.com/streams/6fcg80rdlzcsexmef/stream.m3u8||
+DRAGE|Diğer|https://cdn-004.whatsupcams.com/hls/hr_drage03.m3u8||
+BCHK|Diğer|https://b12.hdrelay.com/camera/edd38a74-f4cf-4014-8a63-f3c080182b8d/relay/media_w1174949624_42773.m3u||
+BEA4|Diğer|https://hamptonbeachnhccn.b-cdn.net/sunba/hamptonbeachNH/chunklist.m3u8||
+GABBİANİ|Diğer|https://cdn-005.whatsupcams.com/hls/it_palau05.m3u8||
+Espinho|Diğer|https://video-auth1.iol.pt/beachcam/espinho/playlist.m3u8||
+Esmoriz|Diğer|https://video-auth1.iol.pt/beachcam/esmoriz/playlist.m3u8||
+Furadouro|Diğer|https://video-auth1.iol.pt/beachcam/furadouro/playlist.m3u8||
+Praia da Torreira|Diğer|https://video-auth1.iol.pt/beachcam/torreira/playlist.m3u8||
+Praia da Barra,|Diğer|https://video-auth1.iol.pt/beachcam/aveiro/playlist.m3u8||
+Costa Nova|Diğer|https://video-auth1.iol.pt/beachcam/costanova/playlist.m3u8||
+Praia de Mira|Diğer|https://video-auth1.iol.pt/beachcam/bcmira/playlist.m3u8||
+Figueira da Foz|Diğer|https://video-auth1.iol.pt/beachcam/figueiradafoz/playlist.m3u8||
+Figueira da Foz - Buarcos|Diğer|https://video-auth1.iol.pt/beachcam/bcfigueiradois/playlist.m3u8||
+Praia Osso da Baleia|Diğer|https://video-auth1.iol.pt/beachcam/ossodabaleia/playlist.m3u8||
+Praia do Pedrógão|Diğer|https://video-auth1.iol.pt/beachcam/praiapedrogao/playlist.m3u8||
+São Pedro de Moel|Diğer|https://video-auth1.iol.pt/beachcam/bcsaopedromoel/playlist.m3u8||
+Nazaré - Forte S. Miguel Arcanjo|Diğer|https://video-auth1.iol.pt/beachcam/bcarcanjo3/playlist.m3u8||
+Nazaré - Forte S. Miguel Arcanjo – Baía|Diğer|https://video-auth1.iol.pt/beachcam/bcarcanjo1/playlist.m3u8||
+Nazaré - Praia do Norte|Diğer|https://video-auth1.iol.pt/beachcam/canhaonazare/playlist.m3u8||
+Nazaré - Praia do Norte panorâmica|Diğer|https://video-auth1.iol.pt/beachcam/nazareparadonorte/playlist.m3u8||
+Nazaré - Porto de Abrigo|Diğer|https://video-auth1.iol.pt/beachcam/bcportodeabrigo/playlist.m3u8||
+Foz do Arelho|Diğer|https://video-auth1.iol.pt/beachcam/bcfozdoarelho/playlist.m3u8||
+Peniche – Lagide|Diğer|https://video-auth1.iol.pt/beachcam/lagide/playlist.m3u8||
+Peniche – Supertubos|Diğer|https://video-auth1.iol.pt/beachcam/supertubos/playlist.m3u8||
+Praia de Santa Rita|Diğer|https://video-auth1.iol.pt/beachcam/vimeiro/playlist.m3u8||
+Santa Cruz - Praia Azul|Diğer|https://video-auth1.iol.pt/beachcam/bcpraiaazul/playlist.m3u8||
+Praia da Calada|Diğer|https://video-auth1.iol.pt/beachcam/praiadacalada/playlist.m3u8||
+Ericeira|Diğer|https://video-auth1.iol.pt/beachcam/ericeiraspots/playlist.m3u8||
+Praia dos Pescadores|Diğer|https://video-auth1.iol.pt/beachcam/bcpescadores/playlist.m3u8||
+Ericeira - Praia do Sul|Diğer|https://video-auth1.iol.pt/beachcam/praiadosulericeira/playlist.m3u8||
+Praia das Maçãs|Diğer|https://video-auth1.iol.pt/beachcam/praiadasmacas/playlist.m3u8||
+Praia Grande – Norte|Diğer|https://video-auth1.iol.pt/beachcam/praiagrande/playlist.m3u8||
+Praia do Guincho – Sul|Diğer|https://video-auth1.iol.pt/beachcam/praiaguinchosul/playlist.m3u8||
+Baía de Cascais|Diğer|https://video-auth1.iol.pt/beachcam/praiadospescadores/playlist.m3u8||
+São João do Estoril|Diğer|https://video-auth1.iol.pt/beachcam/saojoaodoestoril/playlist.m3u8||
+Praia Canide Norte - Sul|Diğer|https://video-auth1.iol.pt/beachcam/bccanidelo/playlist.m3u8||
+Praia da Tocha|Diğer|https://video-auth1.iol.pt/beachcam/tocha/playlist.m3u8||
+Nazaré - Praia da Vila|Diğer|https://video-auth1.iol.pt/beachcam/nazarepraiadavila/playlist.m3u8||
+Areia Branca|Diğer|https://video-auth1.iol.pt/beachcam/bcareiabranca/playlist.m3u8||
+Santa Cruz|Diğer|https://video-auth1.iol.pt/beachcam/santacruz/playlist.m3u8||
+Praia Pequena|Diğer|https://video-auth1.iol.pt/beachcam/bcpraiapequena/playlist.m3u8||
+Praia Grande – Sul|Diğer|https://video-auth1.iol.pt/beachcam/praiagrande2/playlist.m3u8||
+Praia da Cresmina|Diğer|https://video-auth1.iol.pt/beachcam/crismina/playlist.m3u8||
+Praia da Conceição e Duquesa|Diğer|https://video-auth1.iol.pt/beachcam/conceicao/playlist.m3u8||
+São Pedro do Estoril|Diğer|http://video-auth1.iol.pt:1935/beachcam/saopedroestoria/playlist.m3u8||
+Praia das Avencas|Diğer|https://video-auth1.iol.pt/beachcam/praiadasavencas/playlist.m3u8||
+Carcavelos|Diğer|https://video-auth1.iol.pt/beachcam/carcavelos/playlist.m3u8||
+Carcavelos – Calhau|Diğer|https://video-auth1.iol.pt/beachcam/carcavelos2/playlist.m3u8||
+Santo Amaro|Diğer|https://video-auth1.iol.pt/beachcam/santoamaro/playlist.m3u8||
+Costa de Caparica - CDS Norte|Diğer|https://video-auth1.iol.pt/beachcam/costacaparicacds/playlist.m3u8||
+Costa de Caparica - CDS Sul|Diğer|https://video-auth1.iol.pt/beachcam/costacaparicabernard/playlist.m3u8||
+Costa de Caparica - Praia Nova|Diğer|https://video-auth1.iol.pt/beachcam/bccaparicanovapraia/playlist.m3u8||
+Costa de Caparica – Riviera|Diğer|https://video-auth1.iol.pt/beachcam/riviera/playlist.m3u8||
+Lagoa de Albufeira|Diğer|https://video-auth1.iol.pt/beachcam/bclagoaalbufeira/playlist.m3u8||
+Praia do Meco|Diğer|https://video-auth1.iol.pt/beachcam/bcmeco/playlist.m3u8||
+Praia das Bicas|Diğer|https://video-auth1.iol.pt/beachcam/bcpraiadasbicas/playlist.m3u8||
+Praia Sesimbra|Diğer|https://video-auth1.iol.pt/beachcam/sesimbra/playlist.m3u8||
+Portinho da Arrábida|Diğer|https://video-auth1.iol.pt/beachcam/bcportinho/playlist.m3u8||
+Albarquel|Diğer|https://video-auth1.iol.pt/beachcam/bcalbarquel/playlist.m3u8||
+Troia|Diğer|https://video-auth1.iol.pt/beachcam/bctroia/playlist.m3u8||
+Praia do Carvalhal|Diğer|https://video-auth1.iol.pt/beachcam/carvalhal/playlist.m3u8||
+S. Torpes|Diğer|https://video-auth1.iol.pt/beachcam/saotorpes/playlist.m3u8||
+Vila Nova de Milfontes – Franquia|Diğer|https://video-auth1.iol.pt/beachcam/bcfranquia/playlist.m3u8||
+Vila Nova de Milfontes – Farol|Diğer|https://video-auth1.iol.pt/beachcam/bcfarol/playlist.m3u8||
+Vila Nova de Milfontes - Furnas Mar|Diğer|https://video-auth1.iol.pt/beachcam/furnasmar/playlist.m3u8||
+Almograve|Diğer|https://video-auth1.iol.pt/beachcam/bcalmograve/playlist.m3u8||
+Zambujeira do Mar|Diğer|https://video-auth1.iol.pt/beachcam/zambujeira/playlist.m3u8||
+Odeceixe|Diğer|https://video-auth1.iol.pt/beachcam/bcodeceixe/playlist.m3u8||
+Monte Clérigo|Diğer|https://video-auth1.iol.pt/beachcam/bcmonteclerigo/playlist.m3u8||
+Arrifana|Diğer|https://video-auth1.iol.pt/beachcam/arrifana/playlist.m3u8||
+Praia do Amado|Diğer|https://video-auth1.iol.pt/beachcam/bcamado/playlist.m3u8||
+Praia da Luz|Diğer|https://video-auth1.iol.pt/beachcam/luz/playlist.m3u8||
+Alvor|Diğer|https://video-auth1.iol.pt/beachcam/alvor/playlist.m3u8||
+Alvor Nascente|Diğer|https://video-auth1.iol.pt/beachcam/bcalvornascente/playlist.m3u8||
+Praia da Rocha|Diğer|https://video-auth1.iol.pt/beachcam/praiadarocha/playlist.m3u8||
+Ferragudo - Praia Grande|Diğer|https://video-auth1.iol.pt/beachcam/ferragudo/playlist.m3u8||
+Carvoeiro|Diğer|https://video-auth1.iol.pt/beachcam/carvoeiro/playlist.m3u8||
+Senhora da Rocha e Praia Nova|Diğer|https://video-auth1.iol.pt/beachcam/bcigreja/playlist.m3u8||
+Armação de Pêra|Diğer|https://video-auth1.iol.pt/beachcam/armacaodepera/playlist.m3u8||
+Praia da Galé|Diğer|https://video-auth1.iol.pt/beachcam/bcgale/playlist.m3u8||
+Praia do Peneco|Diğer|https://video-auth1.iol.pt/beachcam/praiadopeneco/playlist.m3u8||
+Vilamoura|Diğer|https://video-auth1.iol.pt/beachcam/vilamoura/playlist.m3u8||
+Faro|Diğer|https://video-auth1.iol.pt/beachcam/bcfaro/playlist.m3u8||
+Alagoa – Altura|Diğer|https://video-auth1.iol.pt/beachcam/bcalagoa/playlist.m3u8||
+Praia Verde - Castro Marim|Diğer|https://video-auth1.iol.pt/beachcam/bcpraiaverde/playlist.m3u8||
+Madeira - Ponta Pequena – Paul|Diğer|https://video-auth1.iol.pt/beachcam/madeirajardimdomar/playlist.m3u8||
+Madeira - Jardim do Mar|Diğer|https://video-auth1.iol.pt/beachcam/jardimdomardois/playlist.m3u8||
+Madeira - Porto Santo|Diğer|https://video-auth1.iol.pt/beachcam/bcportosanto/playlist.m3u8||
+Praia das Rocas|Diğer|https://video-auth1.iol.pt/beachcam/praiadasrocas/playlist.m3u8||
+Ferreira do Zêzere - Lago Azul|Diğer|https://video-auth1.iol.pt/beachcam/bclagoazul/playlist.m3u8||
+Ferreira do Zêzere – Dornes|Diğer|https://video-auth1.iol.pt/beachcam/bcdornes/playlist.m3u8||
+Viana do Castelo|Afife|Arda|Diğer|https://video-auth1.iol.pt/beachcam/bcafife/chunks.m3u8?nimblesessionid=1095151943
+Esposende - Foz Do Rio Cávado|Diğer|https://video-auth1.iol.pt/beachcam/bcfarolesposende/playlist.m3u8||
+Apúlia|Diğer|https://video-auth1.iol.pt/beachcam/bcapulia/playlist.m3u8||
+Leça da Palmeira|Panorâmica|Aterro|Diğer|https://video-auth1.iol.pt/beachcam/bcfarolleca/chunks.m3u8?nimblesessionid=1095151975
+Espinho|Pico do casino|Estática|Diğer|https://video-auth1.iol.pt/beachcam/bcespinhofixa/chunks.m3u8?nimblesessionid=1095152021
+Espinho|Silvade|Estática||Diğer
+Murtinheira|Diğer|https://video-auth1.iol.pt/beachcam/bcmurtinheira/playlist.m3u8||
+Figueira da Foz|Buarcos|Estática|Diğer|https://video-auth1.iol.pt/beachcam/bcbuarcos/chunks.m3u8?nimblesessionid=1095152068
+Pedra do Ouro|Diğer|https://video-auth1.iol.pt/beachcam/bcpraiaouro/playlist.m3u8||
+Paredes da Vitória|Diğer|https://video-auth1.iol.pt/beachcam/bcparedesvitoria/playlist.m3u8||
+São Martinho do Porto|Diğer|https://video-auth1.iol.pt/beachcam/bcsaomartinho/playlist.m3u8||
+Peniche|Lagide|Estática|Diğer|https://video-auth1.iol.pt/beachcam/bclagidefixa/chunks.m3u8?nimblesessionid=1095152099
+Peniche|Cantinho da Baia|Estática|Diğer|https://video-auth1.iol.pt/beachcam/bcbalealcantinho/chunks.m3u8?nimblesessionid=1095152145
+Peniche|Baleal|Panorâmica|Diğer|https://video-auth1.iol.pt/beachcam/bcbalealgeral/chunks.m3u8?nimblesessionid=1095152191
+Peniche|Molhe Leste|Estática|Diğer|https://video-auth1.iol.pt/beachcam/bcmolheleste/chunks.m3u8?nimblesessionid=1095152236
+Peniche|Supertubos|Estática|Diğer|https://video-auth1.iol.pt/beachcam/bcsupertubosfixa/chunks.m3u8?nimblesessionid=1095152267
+Ribeira D´Ilhas|Diğer|https://video-auth1.iol.pt/beachcam/bcmafraribeira/playlist.m3u8||
+Foz do Lizandro|Diğer|https://video-auth1.iol.pt/beachcam/fozdolizandro/playlist.m3u8||
+São Pedro do Estoril|Diğer|https://video-auth1.iol.pt/beachcam/saopedroestoria/playlist.m3u8||
+Carcavelos|Norte|Estática|Diğer|https://video-auth1.iol.pt/beachcam/bccarcavelosnortefixa/chunks.m3u8?nimblesessionid=1095152308
+Carcavelos|Calhau|Estática|Diğer|https://video-auth1.iol.pt/beachcam/bccarcaveloscalhaufixa/chunks.m3u8?nimblesessionid=1095152365
+Paço de Arcos|Diğer|https://video-auth1.iol.pt/beachcam/parcos/playlist.m3u8||
+Costa de Caparica|YouTube|Estática|Diğer|https://video-auth1.iol.pt/beachcam/bccostasantoantonio/chunks.m3u8?nimblesessionid=1095152418
+Costa de Caparica|YouTube|Cova do Vapor|Diğer|https://video-auth1.iol.pt/beachcam/bccostasaojoao/chunks.m3u8?nimblesessionid=1095152470
+Costa de Caparica|CDS NORTE|Estática|Diğer|https://video-auth1.iol.pt/beachcam/bccaparicanortefixa/chunks.m3u8?nimblesessionid=1095152504
+Costa de Caparica|CDS SUL|Estática|Diğer|https://video-auth1.iol.pt/beachcam/bcdrbernard/chunks.m3u8?nimblesessionid=1095152546
+Costa de Caparica|Tarquínio|Estática|Diğer|https://video-auth1.iol.pt/beachcam/bctarquinho2/playlist.m3u8
+Costa de Caparica|Praia Nova|Estática|Diğer|https://video-auth1.iol.pt/beachcam/bcnovapraia/chunks.m3u8?nimblesessionid=1095152613
+Carvalhal|Diğer|https://video-auth1.iol.pt/beachcam/bccarvalhalodemira/playlist.m3u8||
+Praia da Amoreira|Diğer|https://video-auth1.iol.pt/beachcam/bcamoreira/playlist.m3u8||
+Praia do Vau|Diğer|https://video-auth1.iol.pt/beachcam/bcvauportimao/playlist.m3u8||
+Meia Praia|Diğer|https://video-auth1.iol.pt/beachcam/meiapraia/playlist.m3u8||
+Madeira|Paul do Mar|Diğer|https://video-auth1.iol.pt/beachcam/bcpauldomar2/playlist.m3u8|
+Costa de Caparica - Praia Nova|Diğer|https://video-auth1.iol.pt/beachcam/bccaparicanovapria/playlist.m3u8||https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1755711638/ei/NrSlaPixDdi36dsPwpflyQI/ip/176.42.136.153/id/k3dhjFBx41E.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-u0g3jxaa-n5fs.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AY1jyLOJg8LGB7B1jFdtipAn7n6LDDtq2K8wuGlPD-_dWCcJN5rJWUWld1NXDsjuwKVxHGsWI2iPZQl5/spc/l3OVKaaSSkbu_w1tIhnLLda83nlmjN713q6xTAL9E8J2YC4w_He0XgkvwWP2ESGZT_n5U9RBpHA/vprv/1/playlist_type/DVR/initcwndbps/1655000/met/1755690040,/mh/8d/mm/44/mn/sn-u0g3jxaa-n5fs/ms/lva/mv/m/mvi/2/pl/20/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51548755,51552688,51565116,51565681,51580968/mt/1755689798/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIgZrc81P4Fr2KOiPcN-ufMQw2ue4iPxG3hYIhChcXEsucCIQC_7TM-AsDKWaEFeB459rvf7qNAypUBy1DyHrZpURM9Cw%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgMwId48XU3i5GoRYAdDK7F1EOFU-kdbs4EKX4g_iVb98CIDCAChCGLiiaq8VXNEZ0_xX0NGLPM19DkwGpEnfIz_mI/playlist/index.m3u8
+Crystal Bay Yacht Club|YouTube|https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1755607641/ei/-R2kaKCEOba36dsPmdad2QI/ip/176.42.136.153/id/zMK-S8vXZpU.41/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr8---sn-u0g3jxaa-n5fz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AY1jyLPHBcXoYR7Bl06ToXOVNrpZpd0nIR4Em17gxJXCfPFAjmjXduiChFe253h7IkyxRjXFU3keIABq/vprv/1/playlist_type/DVR/initcwndbps/1685000/met/1755586043,/mh/1K/mm/44/mn/sn-u0g3jxaa-n5fz/ms/lva/mv/m/mvi/8/pl/20/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51548755,51565116,51565681/mt/1755585629/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,vprv,playlist_type/sig/AJfQdSswRQIhAKwi3HaQ8uzQOFr_mpLNOY-Br44qoKZc9rLPk7Xz6PBfAiBPDEPJ-mcGq_UD1dilGySNMwAYd4_J63KmbVByNe7vSQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgday5rlFm_cqIYExMa8mKN-LGX-7Bvee0lCqwVmxpmjgCID7iomWFjVSLGyW2CX3rpehVuMzUwswOUA8D1IBzVlfx/playlist/index.m3u8||https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1755711641/ei/ObSlaPfUILLwi9oPqOr44As/ip/176.42.136.153/id/zMK-S8vXZpU.41/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr8---sn-u0g3jxaa-n5fz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AY1jyLPbBaBd-wQ9YCEAw0w-STH2-7xEMIJ1S_yDdcD7TPoHp3D2Kpy_xnLoC3lNCCleQdYBtiaOJYy9/spc/l3OVKcy_OstIWZOoUKsmCgolD4TXpa86VaYnle_Wy7EWaRg9o0bXGBJweFMEM2AUjpb9sPLe-D4/vprv/1/playlist_type/DVR/initcwndbps/1707500/met/1755690043,/mh/1K/mm/44/mn/sn-u0g3jxaa-n5fz/ms/lva/mv/m/mvi/8/pl/20/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51548755,51565116,51565681,51580968/mt/1755689798/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRAIgDinq2BTuqaTdFstGdMVDboflQ5fquOmW0imLIGQBhbYCIHvDwPH_FBM1eaMJ9hoFi78kT3r_zh4Vp1xOjHRQnSUg/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgF3UUF2ikGEwwBvhfhWdVUP9N9kc4tNDTHSPt8Y4k0vMCIQCAqL36hD8WWBDfHhKjnXSVZfVz1xPpAtJ-SgLoJvF5Pg%3D%3D/playlist/index.m3u8
+TRT NAĞME|Diğer|https://rd-trtnagme.medya.trt.com.tr/master_128.m3u8||
+Radyo 7 Akustik|YouTube|https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1755276803/ei/oxGfaJGKBu2Ci9oPtrGrUQ/ip/176.42.136.153/id/jrlG94Vojy0.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-u0g3jxaa-n5fs.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AY1jyLMPutjd9xoTF9bLsGCntrRgYmqAGiUVCSK1x6eE0_5tFXSzQEJ-MCzbCCr4TxXnMY0hrbttNAoy/spc/l3OVKb1JUXmqWAKsUA8O1XDFFAk1vyGIOROFXGAfm1Mx2gt8bNXN/vprv/1/playlist_type/DVR/initcwndbps/1768750/met/1755255204,/mh/BL/mm/44/mn/sn-u0g3jxaa-n5fs/ms/lva/mv/m/mvi/4/pl/20/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51548755/mt/1755254673/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIhAOavehsHZMciw4bnE45o-XpWKxKbip-FcBtptME0_PIqAiAF4psthSUATSCMKsUlPOsDgYMjeJcdxN8-Cw11Qv8srw%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAPWe5ja8w-sn3cSVxNt6OSimvTFfPx2gschxjI3kizHQAiEA4RA0AxxXq4M_n5cGHOXE4Gnbx2zMqTMA52K-waO29n8%3D/playlist/index.m3u8||
+Coldplay|Diğer|https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1755280334/ei/bh-faOv9DJ-Z6dsPvaKt-Ak/ip/176.42.136.153/id/rbbFNNDymCs.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-u0g3jxaa-n5fs.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AY1jyLOz8uB5T-SoBj5zgiYxq1yEoJ7MTG1p4PhEnnj8UdlgKGqt4oiJ7FtDJ1EFly7q243Nz6LjWxfD/spc/l3OVKecmjjoCgIv2VzCBW_sqBUSIfLvi3p8Y8zxGk2Uk-1zHEjX5px_bC1H2/vprv/1/playlist_type/DVR/initcwndbps/1701250/met/1755258736,/mh/w8/mm/44/mn/sn-u0g3jxaa-n5fs/ms/lva/mv/m/mvi/4/pl/20/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51548755/mt/1755258277/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRgIhAPX8ilZmqjSa7VWhgMC44-Y_URQ-7ncVNwZ_AUYWrwAjAiEAzFmeKzG_SGK1gXUHJXPn5Prsh-4pnMyo49RWHGLbhA0%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgfgMzzsiZLGOO7iBI705RRs4H5BDrE22AGxPvFFr3ofUCIQC3hnvqyPNeK8rZXTfrC0hgRKSnm4NadPmZjaivOEctcQ%3D%3D/playlist/index.m3u8||
+TRT HABER|Diğer|https://tv-trtworld.medya.trt.com.tr/master_720.m3u8||
+TRT HABER|Diğer|https://tv-trthaber.medya.trt.com.tr/master_480.m3u8||
+HABER GLOBAL|Diğer|https://ensonhaber-live.ercdn.net/haberglobal/haberglobal_720p.m3u8||
+HABER TÜRK|Diğer|https://ciner-live.daioncdn.net/haberturktv/haberturktv_480p.m3u8||
+NTV|Diğer|https://dogus-live.daioncdn.net/ntv/ntv_480p.m3u8||
+TRT SPOR|Diğer|https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8||
+TV 24|Diğer|https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8||
+AKİT TV|Diğer|https://akittv-live.ercdn.net/akittv/akittv_360p.m3u8||
+TV NET|Diğer|https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8||
+National Geographic Wild (1080p) [Geo-blocked]|Diğer|https://saran-live.ercdn.net/natgeowild/index.m3u8||
+Viasat Explore Classic (720p)|Diğer|https://da9c49fa.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXBsX1ZpYXNhdEV4cGxvcmVfSExT/playlist.m3u8||
+TRT 2|Diğer|https://tv-trt2.medya.trt.com.tr/master_720.m3u8||
+TRT MUZİK|Diğer|https://tv-trtmuzik.medya.trt.com.tr/master_480.m3u8||
+TRT BELGEEL|Diğer|https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8||
+TRT 1|Diğer|https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=7oa1aqjq806i&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2||
+RADYO7 CANLI|YouTube|||https://moondigitaledge.radyotvonline.net/radyo7/playlist.m3u8?listeningSessionID=689a748acd700af6_738727_b0oSBW8u__0000000mOTv&downloadSessionID=0
+CNN TÜRK|YouTube|https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1755779201/ei/IbymaIOAEoHD6dsP4oPnqQs/ip/176.42.136.153/id/bdDfLLy9Y5k.119/itag/312/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hls_chunk_host/rr8---sn-u0g3jxaa-n5fl.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AY1jyLPq09Wli7JJNximA5R5HQBxOcQmp3jfogfdzdPATI5wb-EHE00vSHf9Gj0XVmPsLmrBKzaoXEg4/spc/l3OVKfiZvEEnNawCbIcRaT1qRzuR4viBarHdNvKqVSPYJteDv56HVxescs8/vprv/1/playlist_type/DVR/hcs/sd/initcwndbps/1396250/met/1755757601,/mh/ce/mm/44/mn/sn-u0g3jxaa-n5fl/ms/lva/mv/m/mvi/8/pl/20/rmhost/rr4---sn-u0g3jxaa-n5fl.googlevideo.com/rms/lva,lva/smhost/rr6---sn-u0g3jxaa-n5fs.googlevideo.com/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/51548755,51565115,51565681,51580968/mt/1755757228/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRAIgBSNmEWngi3PDgTYPqaHmseKZKoariAMrdS6xxzD898ACIGKhfm157m-gyTPqZunsDsvlrr375Fn72tdjSC7YUpK9/lsparams/hls_chunk_host,hcs,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rmhost,rms,smhost/lsig/APaTxxMwRQIhAKWJE8YHLUh43CVe8bueis1gEm7ruH61EHPnHo9g7WIpAiA8dqs0T00BOPxY1yOxKJ0vMvcVmT9tMbkEA51rD6OhUg%3D%3D/playlist/index.m3u8||https://youtu.be/bdDfLLy9Y5k
+ÜLKE TV|YouTube|https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1755779203/ei/I7ymaPqvKubk6dsP44K-8AY/ip/176.42.136.153/id/29m-jU_f8ls.1/itag/232/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hls_chunk_host/rr8---sn-u0g3jxaa-n5fl.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/900/manifest_duration/900/bui/AY1jyLMMkttXUmfgWcV8t9c4dqxIR6PNEUgrsf05VHG22_Y26wYQ0a6mHVryRhIS_2lQxVd9Jch1YRur/spc/l3OVKcxOE_ndmCOe44RJf7faFS5e_cusXochcWZwLjd6M8A6hrHz9XOflKM/vprv/1/playlist_type/DVR/initcwndbps/1396250/met/1755757604,/mh/Se/mm/44/mn/sn-u0g3jxaa-n5fl/ms/lva/mv/m/mvi/8/pl/20/rms/lva,lva/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/51548755,51552688,51565115,51565681,51580968/mt/1755757228/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRAIgb0WrwC-7fHcO42PBb-JFGrbLsZh1427L4zYpJJPzVHMCIFyloEGRsttNJzLOEkPZjkcIqDXyhH5HgVPEn_s0yjkB/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhANyuEaq_8AAL5eEE0-LzeerFbMC3GZ6HRkEYJLYmAEIAAiBOvy-gBuzoTelGHdElFUQzMEYmHMT1uwkO6dpch_PfHg%3D%3D/playlist/index.m3u8||https://youtu.be/29m-jU_f8ls
+NAZARÉ Extreme Surf|YouTube|https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1755779205/ei/JbymaM2XNt2EgMMPuurTgQw/ip/176.42.136.153/id/gyw7nhh0g-w.1/itag/270/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr8---sn-u0g3jxaa-n5fz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/3600/manifest_duration/3600/bui/AY1jyLNVAfymrPmtchB3W7AKKeV_Yyfkdud3S-_OCuZ2hs3SSiXMGUgFu5HrJYuLnVMYq4aA-JoAkg0k/spc/l3OVKfbsFYt7M-CkZRQPlnviSWh3dHK_LJlryjqk8vDjSTFSDi1akHyHiHM/vprv/1/playlist_type/DVR/initcwndbps/1646250/met/1755757606,/mh/Ha/mm/44/mn/sn-u0g3jxaa-n5fz/ms/lva/mv/m/mvi/8/pl/20/rms/lva,lva/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/51548755,51565115,51565682,51580968/mt/1755757228/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRAIgICYRO15PLOj3MbW5es_Xe4Nzvgory1dW0Gfvj-QejqUCIANNPzdnjK4UFnFZw2gXDdjuOaJdAOfZPJbEt3wvlpTn/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgcFT3oUkm4XTttUq1xXiXu477kRxyVTr2AFuUN6a0cLgCIQCVnbwd49Dd6CsH22gEuhdUtayOYIZYMqgX1QSvXAN-Lg%3D%3D/playlist/index.m3u8||https://youtu.be/gyw7nhh0g-w
+Breathtaking Nature Moments in 4K HDR|YouTube|https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1755779208/ei/KLymaPLwCdKsi9oP77OxwQg/ip/176.42.136.153/id/5189af1730ee3b99/itag/628/source/youtube/requiressl/yes/ratebypass/yes/pfa/1/wft/1/sgovp/clen%3D10424205022%3Bdur%3D3338.350%3Bgir%3Dyes%3Bitag%3D315%3Blmt%3D1754519286849928/rqh/1/hls_chunk_host/rr6---sn-u0g3jxaa-n5fe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/met/1755757608,/mh/wq/mm/31,29/mn/sn-u0g3jxaa-n5fe,sn-nv47znel/ms/au,rdu/mv/m/mvi/6/pl/20/rms/au,au/initcwndbps/1580000/bui/AY1jyLPDPstjHKe76KsmUwjC8jlmLZ6l5YpI_6Twsc7sLBrsw6c99s14A8cJj8_83d29EBkNCd8HE-_S/spc/l3OVKXgXaolBItGpBuvstW1zFW9ncVSem16SHHVT8viZNZvz0SuJTx4BTtfEwA/vprv/1/playlist_type/DVR/dover/13/txp/5532534/mt/1755757256/fvip/4/short_key/1/keepalive/yes/fexp/51548755,51565116,51565682,51580968/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,pfa,wft,sgovp,rqh,xpc,bui,spc,vprv,playlist_type/sig/AJfQdSswRgIhANwqgxmlcOl74xlT-IXGlNo1Qgr-Mx8mQipDRrgKOANXAiEAmNbp4FjIDGmKpti4pzQJkXJeQzTK_4ZJuWltEQL7NuE%3D/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms,initcwndbps/lsig/APaTxxMwRQIgTW3hJ9pahixzFrql5xM73Nd7n4f93tlZ0aMgx_1lYTACIQCtJQ0g48Qcl2j25vXK6yDrh-JeLoR0q8r9r1gCYDbhoA%3D%3D/playlist/index.m3u8||https://youtu.be/UYmvFzDuO5k

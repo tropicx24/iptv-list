@@ -58,13 +58,13 @@ https://hls.ibb.gov.tr/tkm2/hls/400.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Diğer",FSKÖPRÜ
 https://hls.ibb.gov.tr/tkm1/hls/341.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Diğer",PERPA
-https://hls.ibb.gov.tr/tkm2/hls/915.stream/media-uee67pvez_1092.m3u
+
 #EXTINF:-1 group-title="Diğer",BAHRİYE CAD
 https://hls.ibb.gov.tr/tkm1/hls/208.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Diğer",UNKAPANI2
-https://hls.ibb.gov.tr/tkm1/hls/181.stream/media-uf9t48e94_243.m3u
+
 #EXTINF:-1 group-title="Diğer",BOĞAZKÖP
-https://hls.ibb.gov.tr/tkm1/hls/79.stream/media-ujdb1zi8d_2914.m3u
+
 #EXTINF:-1 group-title="Diğer",Greece 8K
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1755607639/ei/9x2kaLf8GaS2i9oPstqz4Qc/ip/176.42.136.153/id/jZFhl9pY1Ps.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-u0g3jxaa-n5fl.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AY1jyLPkvygAENp4IqMjISk1mRwDAovnvlbOvQEKHVi8VsMpU5xeJ6TM4UYHuZB96MZGD3150grj4zWI/vprv/1/playlist_type/DVR/initcwndbps/1596250/met/1755586040,/mh/L2/mm/44/mn/sn-u0g3jxaa-n5fl/ms/lva/mv/m/mvi/5/pl/20/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51548755,51565116,51565681/mt/1755585629/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,vprv,playlist_type/sig/AJfQdSswRgIhAN6wE4aCv3Yhxa_e7eVEe0Aw2mgUV5TB1pnb0pswlqztAiEAl8s7P-ADZAGXjZMrA3-JRPjHnoRrxuxkeVB_LR8ScjE%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgYTDyONl4WLy8vDyYSdS6vEj7EMsrFwnJh8IOYAVUZsQCIQCvjx-7tvRJeVKmMYyJIAtTUUWbnFiPus9iGZgzdZ5jSg%3D%3D/playlist/index.m3u8
 #EXTINF:-1 group-title="Diğer",NATURE
@@ -94,7 +94,7 @@ https://s111.ipcamlive.com/streams/6fcg80rdlzcsexmef/stream.m3u8
 #EXTINF:-1 group-title="Diğer",DRAGE
 https://cdn-004.whatsupcams.com/hls/hr_drage03.m3u8
 #EXTINF:-1 group-title="Diğer",BCHK
-https://b12.hdrelay.com/camera/edd38a74-f4cf-4014-8a63-f3c080182b8d/relay/media_w1174949624_42773.m3u
+
 #EXTINF:-1 group-title="Diğer",BEA4
 https://hamptonbeachnhccn.b-cdn.net/sunba/hamptonbeachNH/chunklist.m3u8
 #EXTINF:-1 group-title="Diğer",GABBİANİ
@@ -339,6 +339,10 @@ https://video-auth1.iol.pt/beachcam/bcvauportimao/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/meiapraia/playlist.m3u8
 #EXTINF:-1 group-title="Paul do Mar" tvg-logo="https://video-auth1.iol.pt/beachcam/bcpauldomar2/playlist.m3u8",Madeira
 
+#EXTINF:-1 group-title="Diğer",Costa de Caparica - Praia Nova
+https://video-auth1.iol.pt/beachcam/bccaparicanovapria/playlist.m3u8
+#EXTINF:-1 group-title="YouTube",Crystal Bay Yacht Club
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1755607641/ei/-R2kaKCEOba36dsPmdad2QI/ip/176.42.136.153/id/zMK-S8vXZpU.41/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr8---sn-u0g3jxaa-n5fz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AY1jyLPHBcXoYR7Bl06ToXOVNrpZpd0nIR4Em17gxJXCfPFAjmjXduiChFe253h7IkyxRjXFU3keIABq/vprv/1/playlist_type/DVR/initcwndbps/1685000/met/1755586043,/mh/1K/mm/44/mn/sn-u0g3jxaa-n5fz/ms/lva/mv/m/mvi/8/pl/20/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51548755,51565116,51565681/mt/1755585629/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,vprv,playlist_type/sig/AJfQdSswRQIhAKwi3HaQ8uzQOFr_mpLNOY-Br44qoKZc9rLPk7Xz6PBfAiBPDEPJ-mcGq_UD1dilGySNMwAYd4_J63KmbVByNe7vSQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgday5rlFm_cqIYExMa8mKN-LGX-7Bvee0lCqwVmxpmjgCID7iomWFjVSLGyW2CX3rpehVuMzUwswOUA8D1IBzVlfx/playlist/index.m3u8
 #EXTINF:-1 group-title="Diğer",TRT NAĞME
 https://rd-trtnagme.medya.trt.com.tr/master_128.m3u8
 #EXTINF:-1 group-title="YouTube",Radyo 7 Akustik
@@ -374,7 +378,7 @@ https://tv-trtmuzik.medya.trt.com.tr/master_480.m3u8
 #EXTINF:-1 group-title="Diğer",TRT BELGEEL
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 group-title="Diğer",TRT 1
-https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=7oa1aqjq806i&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
+
 #EXTINF:-1 group-title="YouTube",RADYO7 CANLI
 https://moondigitaledge.radyotvonline.net/radyo7/playlist.m3u8?listeningSessionID=689a748acd700af6_738727_b0oSBW8u__0000000mOTv&downloadSessionID=0
 #EXTINF:-1 group-title="YouTube",CNN TÜRK
@@ -383,9 +387,5 @@ https://youtu.be/bdDfLLy9Y5k
 https://youtu.be/29m-jU_f8ls
 #EXTINF:-1 group-title="YouTube",NAZARÉ Extreme Surf
 https://youtu.be/gyw7nhh0g-w
-#EXTINF:-1 group-title="YouTube",Crystal Bay Yacht Club
-https://youtu.be/zMK-S8vXZpU
-#EXTINF:-1 group-title="YouTube",Crystal Bay Beach Resort
-https://youtu.be/Fw9hgttWzIg
-#EXTINF:-1 group-title="YouTube",Seychelles Ocean 4K
-https://youtu.be/Thtj8Ht7Z_c
+#EXTINF:-1 group-title="YouTube",Breathtaking Nature Moments in 4K HDR
+https://youtu.be/UYmvFzDuO5k

@@ -1,22 +1,20 @@
 #EXTM3U
-#EXTINF:-1 group-title="Diğer",KRAL FM
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1755276801/ei/oRGfaNLtKqiHgMMPiLbYuA4/ip/176.42.136.153/id/A49bKX8gb-8.7/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr7---sn-u0g3jxaa-n5fl.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AY1jyLMpkRccNR4SUtpfi0LsXVYojVSvNXN1npRInrXqQeWZ78SidPuru8R18f5Rmf2QaXE9DruTkU9O/spc/l3OVKVV2LQ4u_aBpXPYnQQk4XP15nFmkSqCDgaF65v2DgX0kVcp7sG6__xM8/vprv/1/playlist_type/DVR/initcwndbps/1795000/met/1755255202,/mh/A-/mm/44/mn/sn-u0g3jxaa-n5fl/ms/lva/mv/m/mvi/7/pl/20/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51548755/mt/1755254914/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIgfAU1n5jld9Q_8jRWL2m0xNwDMRqISfx9AasJyNoYARgCIQCWaSonjWPd-0ljsGpzP3SEVE12FHynOMjYYxWPPhc_Gg%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAOf_YVU0YGXMo3aapKyynrmUPdKq1zand8BtCydGH6QTAiBUeIRWFHKEg2-egU7nfdH4G6sOyuhxBYVDwZnxs11V6Q%3D%3D/playlist/index.m3u8
-#EXTINF:-1 group-title="Diğer",B1
-https://monciskes.jaunimas.lt/kamera/monciskes_hi/index.m3u8
-#EXTINF:-1 group-title="Diğer",Radyo 7 Arabesk 7
+#EXTINF:-1 group-title="YouTube",KRAL FM
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1755711605/ei/FbSlaKzVAvnIzPsP6qiA0Ac/ip/176.42.136.153/id/A49bKX8gb-8.7/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr7---sn-u0g3jxaa-n5fl.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AY1jyLMjV0iXJCQ9C6N6tPtWdvfbPvK6YcGOlNnbypPRBkzT_nzoQ5ipt77bQohY873OZDnKOq33KOM0/spc/l3OVKZJBOYyGJW1KpEWr3GhgNlYJSvmOUxveOvl8c9mNu4f66mkuF_ab_rJjlcMdfjHdDuiXx4s/vprv/1/playlist_type/DVR/initcwndbps/1541250/met/1755690006,/mh/A-/mm/44/mn/sn-u0g3jxaa-n5fl/ms/lva/mv/m/mvi/7/pl/20/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51548755,51565115,51565682,51580968/mt/1755689798/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIgOFQKsOD96cIh50nju2wPUtRjdOsXwOIQfud9XoDOyfYCIQDGtmU0sSkUW5crEQeld_iR8_abRke65FKg9dik7jv42w%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgOeYaCwTYrkQedo7411boAq5YeA7y6d-Gxz-eDwKFzxoCIF5Au-MalerHpqUo-IcktYUrHWexcvIamYYUGoNzkL5H/playlist/index.m3u8
+#EXTINF:-1 group-title="YouTube",KARIŞIK
+https://rr3---sn-u0g3jxaa-n5fz.googlevideo.com/videoplayback?expire=1755713293&ei=rbqlaNbSKp2y6dsP1Km3iQ0&ip=176.42.136.153&id=o-AKhgFKIsnF-8_iEkYiZCpyvmNazPU039J0jxagbc_--1&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1755691693%2C&mh=97&mm=31%2C29&mn=sn-u0g3jxaa-n5fz%2Csn-nv47zne7&ms=au%2Crdu&mv=m&mvi=3&pl=20&rms=au%2Cau&initcwndbps=1708750&bui=AY1jyLPBLv13KWUakwEuSmg7uhC-UoylWjxB318xvQ_RcyS04zbo1Ka5-T8BgqWVikvsBQjcO-y2q86F&spc=l3OVKTJgFHJy7OGkHb6JjwyiTUH2KKat1b42PY1WL8vvQalnmx__E_ek6bl30eid7_Fjh6PE8u8&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=222.052&lmt=1755416920293697&mt=1755691052&fvip=4&fexp=51548755%2C51565115%2C51565681%2C51580968&c=ANDROID&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AJfQdSswRAIgfsy046QqmwIa4Y-K73RRBWCtcKhi3UiEmyYTTJ_LkLECIG_PqgEI2tBCquUUH71m7QhbsWgDsnMIVdWMbcoTl9NR&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhAIR72CYoCVTM0GiYT85xzwk6FGsJp1liu-aSBNos3OXRAiBHkDRmr7IXMY7C9Th1MXbjWj_fXYGwKLXj7-Y4Qixlzg%3D%3D
+#EXTINF:-1 group-title="YouTube",Radyo 7 Arabesk 7
 https://moondigitaledge2.radyotvonline.net/radyo7turku/playlist.m3u8
-#EXTINF:-1 group-title="Diğer",RADYO7 SLOW
-https://moondigitaledge2.radyotvonline.net/radyo7slow/playlist.m3u8
-#EXTINF:-1 group-title="Diğer",Radyo 7 Akustik
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1755276803/ei/oxGfaJGKBu2Ci9oPtrGrUQ/ip/176.42.136.153/id/jrlG94Vojy0.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-u0g3jxaa-n5fs.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AY1jyLMPutjd9xoTF9bLsGCntrRgYmqAGiUVCSK1x6eE0_5tFXSzQEJ-MCzbCCr4TxXnMY0hrbttNAoy/spc/l3OVKb1JUXmqWAKsUA8O1XDFFAk1vyGIOROFXGAfm1Mx2gt8bNXN/vprv/1/playlist_type/DVR/initcwndbps/1768750/met/1755255204,/mh/BL/mm/44/mn/sn-u0g3jxaa-n5fs/ms/lva/mv/m/mvi/4/pl/20/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51548755/mt/1755254673/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIhAOavehsHZMciw4bnE45o-XpWKxKbip-FcBtptME0_PIqAiAF4psthSUATSCMKsUlPOsDgYMjeJcdxN8-Cw11Qv8srw%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAPWe5ja8w-sn3cSVxNt6OSimvTFfPx2gschxjI3kizHQAiEA4RA0AxxXq4M_n5cGHOXE4Gnbx2zMqTMA52K-waO29n8%3D/playlist/index.m3u8
+#EXTINF:-1 group-title="YouTube",RADYO7 SLOW
+https://rr5---sn-u0g3jxaa-n5fs.googlevideo.com/videoplayback?expire=1755713295&ei=r7qlaIDPK56p6dsPjuvhmQc&ip=176.42.136.153&id=o-ALAiDX3xXoRpVOuO3-u52w5xGRlsQ2ks-82VJ5op6QXV&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1755691695%2C&mh=Od&mm=31%2C29&mn=sn-u0g3jxaa-n5fs%2Csn-nv47lnsr&ms=au%2Crdu&mv=m&mvi=5&pl=20&rms=au%2Cau&gcr=tr&initcwndbps=1646250&bui=AY1jyLPWm8GRL-vwE-WKZyw47uYQzQ5EfUB5CHmUqOXJgFrlhG10s7liWo4wHSrHxXR8K7Xnmoly6T3k&spc=l3OVKaRDZrZ7PCpgh_1C8aSHssS3myvxFienI3BsS7VeFDxsWXy7ebSaUwDbBP-pqqDtV416Hl8&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=135479837&ratebypass=yes&dur=3000.064&lmt=1753286314532135&mt=1755691052&fvip=3&fexp=51548755%2C51565116%2C51565682%2C51580968&c=ANDROID&txp=5438534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AJfQdSswRQIgCAKmB29NoYKI9ghlNt-y9bRbAmPjlKVoU2Qy0IGCqCUCIQDeTMNYFQGLQs0MB1aUEXkNZKacY6yNcbWbRQ0kjOSZLg%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAMd3pQwDY6yIvmTUGYmi-gHUMud_Or9e9P1z5pcz83H6AiEArWB5tae_xCTFSZGDYcYc_UD2rFBrLlt96ECFJDqyUGc%3D
+#EXTINF:-1 group-title="YouTube",Radyo 7 Akustik
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1755713297/ei/sbqlaJ_6M_WFgMMPrMaY8A4/ip/176.42.136.153/id/jrlG94Vojy0.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-u0g3jxaa-n5fs.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AY1jyLPtCve4cxn4WOWabCcpAxQ67MraYiilZ5ErhEe-o_Dnac2vFvCTRs9BXu3czeOuL_Cw5Daymtz-/spc/l3OVKQQcr-8Mw5T8FIfNCdTPFiROs5H0ERyLdBuXKi5rRM4A1U1Ma5mgmHCcgTBpMFvsiObP/vprv/1/playlist_type/DVR/initcwndbps/1646250/met/1755691698,/mh/BL/mm/44/mn/sn-u0g3jxaa-n5fs/ms/lva/mv/m/mvi/4/pl/20/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51548755,51565115,51565681,51580968/mt/1755691002/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRgIhAL26_xxko7Tk-AyebDlsfOnu4daukGcM0zS4Y_SmyFnVAiEArggWPZGIXUuxsPOFpGyXPZgvygKFtbG-SXbfEyesYH0%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAKKopx5zRqlWMwWwx71IiY8fGQbelzzk2Gni-OSp6ypQAiBwMe9RYeSuGwB9DyvOi7SNXPlGxB3krVE8_e--_k3sGw%3D%3D/playlist/index.m3u8
 #EXTINF:-1 group-title="Diğer",RADYO7 ARABESK
 https://moondigitaledge2.radyotvonline.net/radyo7arabesk/playlist.m3u8
 #EXTINF:-1 group-title="Diğer",RADYO7 FMO
 https://moondigitaledge2.radyotvonline.net/radyo7fmo/playlist.m3u8
 #EXTINF:-1 group-title="Diğer",MUHTESEM 4LU
 https://moondigitaledge2.radyotvonline.net/radyo7muhtesem4lu/playlist.m3u8
-#EXTINF:-1 group-title="Diğer",ANKARA HV
-https://moondigitaledge2.radyotvonline.net/radyo7ankara/playlist.m3u8
 #EXTINF:-1 group-title="Diğer",CAMLICA
 https://hls.ibb.gov.tr/ls/cam_turistik/b_buyukcamlica.stream/playlist.m3u8
 #EXTINF:-1 group-title="Diğer",USKUDAR
@@ -70,15 +68,9 @@ https://hls.ibb.gov.tr/tkm1/hls/181.stream/media-uf9t48e94_243.m3u
 #EXTINF:-1 group-title="Diğer",BOĞAZKÖP
 https://hls.ibb.gov.tr/tkm1/hls/79.stream/media-ujdb1zi8d_2914.m3u
 #EXTINF:-1 group-title="Diğer",Greece 8K
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1755276804/ei/pBGfaOiqEMCFsvQPtKr4KA/ip/176.42.136.153/id/jZFhl9pY1Ps.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-u0g3jxaa-n5fl.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AY1jyLNK_t9584LvyRw-2s72l4BkOiqN38EyZb9mCOwzLfdth3wnXOzua9fOri5y9SR57p93bfwqya7Y/spc/l3OVKZBkksqURfe8JA1Wx5J9M20bvCjIzICQVBs1iYDlu3n539Mc/vprv/1/playlist_type/DVR/initcwndbps/1773750/met/1755255205,/mh/L2/mm/44/mn/sn-u0g3jxaa-n5fl/ms/lva/mv/m/mvi/5/pl/20/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51548755/mt/1755254673/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIhANvWaUcP4IqucvDBtw4Yzp47w_TK3WTxgHsq3vfBuNs2AiBjDz2kNgB0lcC2kzZY6CQ5MMT0J31HVFHy9jqB7uwYkQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAI08HbTWq6VHFOy9JKCWj8V-sbRHxjoB2AyQPZEw3FXNAiBlwl-grCaTIjMQxw3Nify-6mOfOhlt_3X0VEuWFx1a_g%3D%3D/playlist/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1755607639/ei/9x2kaLf8GaS2i9oPstqz4Qc/ip/176.42.136.153/id/jZFhl9pY1Ps.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-u0g3jxaa-n5fl.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AY1jyLPkvygAENp4IqMjISk1mRwDAovnvlbOvQEKHVi8VsMpU5xeJ6TM4UYHuZB96MZGD3150grj4zWI/vprv/1/playlist_type/DVR/initcwndbps/1596250/met/1755586040,/mh/L2/mm/44/mn/sn-u0g3jxaa-n5fl/ms/lva/mv/m/mvi/5/pl/20/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51548755,51565116,51565681/mt/1755585629/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,vprv,playlist_type/sig/AJfQdSswRgIhAN6wE4aCv3Yhxa_e7eVEe0Aw2mgUV5TB1pnb0pswlqztAiEAl8s7P-ADZAGXjZMrA3-JRPjHnoRrxuxkeVB_LR8ScjE%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgYTDyONl4WLy8vDyYSdS6vEj7EMsrFwnJh8IOYAVUZsQCIQCvjx-7tvRJeVKmMYyJIAtTUUWbnFiPus9iGZgzdZ5jSg%3D%3D/playlist/index.m3u8
 #EXTINF:-1 group-title="Diğer",NATURE
 https://cdn-002.whatsupcams.com/hls/hr_promajna01.m3u8
-#EXTINF:-1 group-title="Diğer",OCH
-https://s73.ipcamlive.com/streams/497mxerzjno1nc4pz/stream.m3u8
-#EXTINF:-1 group-title="Diğer",ASE
-https://s81.ipcamlive.com/streams/51jxqnot05frhu9kz/stream.m3u8
-#EXTINF:-1 group-title="Diğer",HC
-https://s90.ipcamlive.com/streams/5aevsrq9sq6o0p1kv/stream.m3u8
 #EXTINF:-1 group-title="Diğer",ZİVOGECA
 https://cdn-004.whatsupcams.com/hls/hr_zivogosce02.m3u8
 #EXTINF:-1 group-title="Diğer",BUDONİ
@@ -86,7 +78,7 @@ https://cdn-006.whatsupcams.com/hls/it_budoni01.m3u8
 #EXTINF:-1 group-title="Diğer",OPUTA
 https://cdn-005.whatsupcams.com/hls/hr_opuzen1.m3u8
 #EXTINF:-1 group-title="Diğer",Crystal Bay Beach Resort
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1755276805/ei/pRGfaMTYH4-o6dsP9qzBkAM/ip/176.42.136.153/id/Fw9hgttWzIg.326/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-u0g3jxaa-n5fl.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AY1jyLO6c4MqHPeQAY9CD0qfDQDyD5Dx98NDhwARcEqz6miL72kyEesvFMMcX54qeCA9Sql4XIgkJm33/spc/l3OVKSJYxy0jvHj4JYdkHUZng9QBjAs9DLu7qayxbiwYgUnkP7Xl/vprv/1/playlist_type/DVR/initcwndbps/1773750/met/1755255206,/mh/OW/mm/44/mn/sn-u0g3jxaa-n5fl/ms/lva/mv/m/mvi/4/pl/20/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51548755/mt/1755254673/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIhAJ9aMJMufZ27ufmJjKA8EiazE749AjfqRO6MU_0Q1VD7AiA2x8pWjLDw91r4KJsd32mpaMWVm3HK5_Mr-3WUOBUHIw%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhANgSGK0d8mkePZE16WTMB9CovVzXclqQ_xIPFjzIkByeAiEAmOmS53dB6tnJUpwRKniYwr37zKisq8UCPSxn8XdsfCA%3D/playlist/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1755607640/ei/-B2kaL-4KNbzi9oP8t3pmQY/ip/176.42.136.153/id/Fw9hgttWzIg.326/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-u0g3jxaa-n5fl.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AY1jyLO9dMzFRTzR7sqbMwIEsIjusLx0SI_U0uts17pRW0TALCqU8AH7IkmwYiZKAZtuszNeSM7FPQAK/vprv/1/playlist_type/DVR/initcwndbps/1596250/met/1755586041,/mh/OW/mm/44/mn/sn-u0g3jxaa-n5fl/ms/lva/mv/m/mvi/4/pl/20/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51548755,51565116,51565681/mt/1755585629/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,vprv,playlist_type/sig/AJfQdSswRQIgSorA1DjUd6G0bo6Wq39bu6EY8j-yCLKX7fPZPNGsnU8CIQD3nrTfYsmklo8K1_E0DVHdGw4HW37GCHSOK6ybH6t0yA%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAKyOFpSXiqjPClNskMiV_3jmMRGTgOOwDIxxwzz_JMT3AiEA6Xpsme0dlAM2ykXriwDAYE4E8ufzITxxXAlxjyOgTxw%3D/playlist/index.m3u8
 #EXTINF:-1 group-title="Diğer",BEACH1
 https://usw01-smr04-relay.ozolio.com/hls-live/_definst_/relay01.wyscerq.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt23850.rc0.edge.basic.stream/chunklist_w1643503037.m3u8
 #EXTINF:-1 group-title="Diğer",BEACH2
@@ -285,137 +277,147 @@ https://video-auth1.iol.pt/beachcam/praiadasrocas/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/bclagoazul/playlist.m3u8
 #EXTINF:-1 group-title="Diğer",Ferreira do Zêzere – Dornes
 https://video-auth1.iol.pt/beachcam/bcdornes/playlist.m3u8
-#EXTINF:-1 group-title="Diğer",Viana do Castelo | Afife | Arda
-https://video-auth1.iol.pt/beachcam/bcafife/playlist.m3u8
-#EXTINF:-1 group-title="Diğer",Viana do Castelo | Cabedelo
-https://video-auth1.iol.pt/beachcam/bccabedeloviana/playlist.m3u8
+#EXTINF:-1 group-title="Afife" tvg-logo="Diğer",Viana do Castelo
+https://video-auth1.iol.pt/beachcam/bcafife/chunks.m3u8?nimblesessionid=1095151943
 #EXTINF:-1 group-title="Diğer",Esposende - Foz Do Rio Cávado
 https://video-auth1.iol.pt/beachcam/bcfarolesposende/playlist.m3u8
 #EXTINF:-1 group-title="Diğer",Apúlia
 https://video-auth1.iol.pt/beachcam/bcapulia/playlist.m3u8
-#EXTINF:-1 group-title="Diğer",Leça da Palmeira | Panorâmica | Aterro
-https://video-auth1.iol.pt/beachcam/bcfarolleca/playlist.m3u8
-#EXTINF:-1 group-title="Diğer",Espinho | Pico do casino | Estática
-https://video-auth1.iol.pt/beachcam/bcespinhofixa/playlist.m3u8
-#EXTINF:-1 group-title="Diğer",Espinho | Silvade | Estática |
-https://video-auth1.iol.pt/beachcam/bcsilvadefixa/playlist.m3u8
-#EXTINF:-1 group-title="Diğer",Espinho | Silvade
-https://video-auth1.iol.pt/beachcam/bcsilvade/playlist.m3u8
-#EXTINF:-1 group-title="Diğer",Praia de São Jacinto | Barra
-https://video-auth1.iol.pt/beachcam/bcfarolbarra/playlist.m3u8
+#EXTINF:-1 group-title="Panorâmica" tvg-logo="Diğer",Leça da Palmeira
+https://video-auth1.iol.pt/beachcam/bcfarolleca/chunks.m3u8?nimblesessionid=1095151975
+#EXTINF:-1 group-title="Pico do casino" tvg-logo="Diğer",Espinho
+https://video-auth1.iol.pt/beachcam/bcespinhofixa/chunks.m3u8?nimblesessionid=1095152021
+#EXTINF:-1 group-title="Silvade",Espinho
+Diğer
 #EXTINF:-1 group-title="Diğer",Murtinheira
 https://video-auth1.iol.pt/beachcam/bcmurtinheira/playlist.m3u8
-#EXTINF:-1 group-title="Diğer",Figueira da Foz | Buarcos | Estática
-https://video-auth1.iol.pt/beachcam/bcbuarcos/playlist.m3u8
-#EXTINF:-1 group-title="Diğer",Figueira da Foz | Cabedelo
-https://video-auth1.iol.pt/beachcam/bcfigueiracabeledo/playlist.m3u8
+#EXTINF:-1 group-title="Buarcos" tvg-logo="Diğer",Figueira da Foz
+https://video-auth1.iol.pt/beachcam/bcbuarcos/chunks.m3u8?nimblesessionid=1095152068
 #EXTINF:-1 group-title="Diğer",Pedra do Ouro
 https://video-auth1.iol.pt/beachcam/bcpraiaouro/playlist.m3u8
 #EXTINF:-1 group-title="Diğer",Paredes da Vitória
 https://video-auth1.iol.pt/beachcam/bcparedesvitoria/playlist.m3u8
 #EXTINF:-1 group-title="Diğer",São Martinho do Porto
 https://video-auth1.iol.pt/beachcam/bcsaomartinho/playlist.m3u8
-#EXTINF:-1 group-title="Diğer",Peniche | Lagide | Estática
-https://video-auth1.iol.pt/beachcam/bclagidefixa/playlist.m3u8
-#EXTINF:-1 group-title="Diğer",Peniche | Cantinho da Baia | Estática
-https://video-auth1.iol.pt/beachcam/bcbalealcantinho/playlist.m3u8
-#EXTINF:-1 group-title="Diğer",Peniche | Baleal | Panorâmica
-https://video-auth1.iol.pt/beachcam/bcbalealgeral/playlist.m3u8
-#EXTINF:-1 group-title="Diğer",Peniche | Consolação
-https://video-auth1.iol.pt/beachcam/bcconsolacao/playlist.m3u8
-#EXTINF:-1 group-title="Diğer",Peniche | Molhe Leste | Estática
-https://video-auth1.iol.pt/beachcam/bcmolheleste/playlist.m3u8
-#EXTINF:-1 group-title="Diğer",Peniche | Supertubos | Estática
-https://video-auth1.iol.pt/beachcam/bcsupertubosfixa/playlist.m3u8
+#EXTINF:-1 group-title="Lagide" tvg-logo="Diğer",Peniche
+https://video-auth1.iol.pt/beachcam/bclagidefixa/chunks.m3u8?nimblesessionid=1095152099
+#EXTINF:-1 group-title="Cantinho da Baia" tvg-logo="Diğer",Peniche
+https://video-auth1.iol.pt/beachcam/bcbalealcantinho/chunks.m3u8?nimblesessionid=1095152145
+#EXTINF:-1 group-title="Baleal" tvg-logo="Diğer",Peniche
+https://video-auth1.iol.pt/beachcam/bcbalealgeral/chunks.m3u8?nimblesessionid=1095152191
+#EXTINF:-1 group-title="Molhe Leste" tvg-logo="Diğer",Peniche
+https://video-auth1.iol.pt/beachcam/bcmolheleste/chunks.m3u8?nimblesessionid=1095152236
+#EXTINF:-1 group-title="Supertubos" tvg-logo="Diğer",Peniche
+https://video-auth1.iol.pt/beachcam/bcsupertubosfixa/chunks.m3u8?nimblesessionid=1095152267
 #EXTINF:-1 group-title="Diğer",Ribeira D´Ilhas
 https://video-auth1.iol.pt/beachcam/bcmafraribeira/playlist.m3u8
-#EXTINF:-1 group-title="Diğer",Ribeira D´Ilhas | Estática
-https://video-auth1.iol.pt/beachcam/bcribeirafixa/playlist.m3u8
 #EXTINF:-1 group-title="Diğer",Foz do Lizandro
 https://video-auth1.iol.pt/beachcam/fozdolizandro/playlist.m3u8
-#EXTINF:-1 group-title="Diğer",Praia do Guincho | Norte
-https://video-auth1.iol.pt/beachcam/praiaguinchonorte/playlist.m3u8
-#EXTINF:-1 group-title="Diğer",Praia do Guincho | Estática
-https://video-auth1.iol.pt/beachcam/bcguinchofixa/playlist.m3u8
-#EXTINF:-1 group-title="Diğer",Praia das Moitas | Estática
-https://video-auth1.iol.pt/beachcam/bctamarizfixa/playlist.m3u8
-#EXTINF:-1 group-title="Diğer",Bafureira | Estática
-https://video-auth1.iol.pt/beachcam/bcbafureirafixa/playlist.m3u8
 #EXTINF:-1 group-title="Diğer",São Pedro do Estoril
 https://video-auth1.iol.pt/beachcam/saopedroestoria/playlist.m3u8
-#EXTINF:-1 group-title="Diğer",São Pedro do Estoril | Bico Estática
-https://video-auth1.iol.pt/beachcam/bcsaopedrofixa/playlist.m3u8
-#EXTINF:-1 group-title="Diğer",Carcavelos | Norte | Estática
-https://video-auth1.iol.pt/beachcam/bccarcavelosnortefixa/playlist.m3u8
-#EXTINF:-1 group-title="Diğer",Carcavelos | Calhau | Estática
-https://video-auth1.iol.pt/beachcam/bccarcaveloscalhaufixa/playlist.m3u8
+#EXTINF:-1 group-title="Norte" tvg-logo="Diğer",Carcavelos
+https://video-auth1.iol.pt/beachcam/bccarcavelosnortefixa/chunks.m3u8?nimblesessionid=1095152308
+#EXTINF:-1 group-title="Calhau" tvg-logo="Diğer",Carcavelos
+https://video-auth1.iol.pt/beachcam/bccarcaveloscalhaufixa/chunks.m3u8?nimblesessionid=1095152365
 #EXTINF:-1 group-title="Diğer",Paço de Arcos
 https://video-auth1.iol.pt/beachcam/parcos/playlist.m3u8
-#EXTINF:-1 group-title="Diğer",Paço de Arcos | Estática
-https://video-auth1.iol.pt/beachcam/pacodearcosfixa/playlist.m3u8
-#EXTINF:-1 group-title="Diğer",Santo Amaro | Estática
-https://video-auth1.iol.pt/beachcam/santoamarofixa/playlist.m3u8
-#EXTINF:-1 group-title="Diğer",Costa de Caparica | Praia Norte | Estática
-https://video-auth1.iol.pt/beachcam/bccostasantoantonio/playlist.m3u8
-#EXTINF:-1 group-title="Diğer",Costa de Caparica | São João | Cova do Vapor
-https://video-auth1.iol.pt/beachcam/bccostasaojoao/playlist.m3u8
-#EXTINF:-1 group-title="Diğer",Costa de Caparica | Praia do Norte
-https://video-auth1.iol.pt/beachcam/costacaparicasaojoao/playlist.m3u8
-#EXTINF:-1 group-title="Diğer",Costa de Caparica | CDS NORTE | Estática
-https://video-auth1.iol.pt/beachcam/bccaparicanortefixa/playlist.m3u8
-#EXTINF:-1 group-title="Diğer",Costa de Caparica | CDS SUL | Estática
-https://video-auth1.iol.pt/beachcam/bcdrbernard/playlist.m3u8
-#EXTINF:-1 group-title="Diğer",Costa de Caparica | Tarquínio | Estática
+#EXTINF:-1 group-title="YouTube" tvg-logo="Diğer",Costa de Caparica
+https://video-auth1.iol.pt/beachcam/bccostasantoantonio/chunks.m3u8?nimblesessionid=1095152418
+#EXTINF:-1 group-title="YouTube" tvg-logo="Diğer",Costa de Caparica
+https://video-auth1.iol.pt/beachcam/bccostasaojoao/chunks.m3u8?nimblesessionid=1095152470
+#EXTINF:-1 group-title="CDS NORTE" tvg-logo="Diğer",Costa de Caparica
+https://video-auth1.iol.pt/beachcam/bccaparicanortefixa/chunks.m3u8?nimblesessionid=1095152504
+#EXTINF:-1 group-title="CDS SUL" tvg-logo="Diğer",Costa de Caparica
+https://video-auth1.iol.pt/beachcam/bcdrbernard/chunks.m3u8?nimblesessionid=1095152546
+#EXTINF:-1 group-title="Tarquínio" tvg-logo="Diğer",Costa de Caparica
 https://video-auth1.iol.pt/beachcam/bctarquinho2/playlist.m3u8
-#EXTINF:-1 group-title="Diğer",Costa de Caparica | Tarquínio
-https://video-auth1.iol.pt/beachcam/bctarquinho/playlist.m3u8
-#EXTINF:-1 group-title="Diğer",Costa de Caparica | Praia Nova | Estática
-https://video-auth1.iol.pt/beachcam/bcnovapraia/playlist.m3u8
-#EXTINF:-1 group-title="Diğer",Costa de Caparica | Cabana do Pescador
-https://video-auth1.iol.pt/beachcam/bccabanadopescador/playlist.m3u8
-#EXTINF:-1 group-title="Diğer",Fonte da Telha | SUL
-https://video-auth1.iol.pt/beachcam/bcbambu/playlist.m3u8
-#EXTINF:-1 group-title="Diğer",São Torpes | Estática
-https://video-auth1.iol.pt/beachcam/bcsaotorpes2/playlist.m3u8
+#EXTINF:-1 group-title="Praia Nova" tvg-logo="Diğer",Costa de Caparica
+https://video-auth1.iol.pt/beachcam/bcnovapraia/chunks.m3u8?nimblesessionid=1095152613
 #EXTINF:-1 group-title="Diğer",Carvalhal
 https://video-auth1.iol.pt/beachcam/bccarvalhalodemira/playlist.m3u8
 #EXTINF:-1 group-title="Diğer",Praia da Amoreira
 https://video-auth1.iol.pt/beachcam/bcamoreira/playlist.m3u8
 #EXTINF:-1 group-title="Diğer",Praia do Vau
 https://video-auth1.iol.pt/beachcam/bcvauportimao/playlist.m3u8
-#EXTINF:-1 group-title="Diğer",Portimão | Praia do Amado
-https://video-auth1.iol.pt/beachcam/bcamadoportimao/playlist.m3u8
-#EXTINF:-1 group-title="Diğer",Praia da Rocha | Miradouro
-https://video-auth1.iol.pt/beachcam/bcmiradourorocha/playlist.m3u8
-#EXTINF:-1 group-title="Diğer",Praia da Rocha | Estática
-https://video-auth1.iol.pt/beachcam/bcrochaportimao/playlist.m3u8
-#EXTINF:-1 group-title="Diğer",Praia da Rocha | Marina
-https://video-auth1.iol.pt/beachcam/bcrochaportimao2/playlist.m3u8
 #EXTINF:-1 group-title="Diğer",Meia Praia
 https://video-auth1.iol.pt/beachcam/meiapraia/playlist.m3u8
-#EXTINF:-1 group-title="Diğer",Faro | Praia de Faro Oeste
-https://video-auth1.iol.pt/beachcam/bcfaropraia/playlist.m3u8
-#EXTINF:-1 group-title="Diğer",Faro | Ilha da Culatra
-https://video-auth1.iol.pt/beachcam/bcfarolfaro/playlist.m3u8
-#EXTINF:-1 group-title="Diğer",Madeira | Seixal
-https://video-auth1.iol.pt/beachcam/bcmadeiraseixal/playlist.m3u8
-#EXTINF:-1 group-title="Diğer",Madeira | Fajã da Areia
-https://video-auth1.iol.pt/beachcam/bcfaja/playlist.m3u8
-#EXTINF:-1 group-title="Diğer",Madeira | Paul do Mar
-https://video-auth1.iol.pt/beachcam/bcpauldomar2/playlist.m3u8
+#EXTINF:-1 group-title="Paul do Mar" tvg-logo="https://video-auth1.iol.pt/beachcam/bcpauldomar2/playlist.m3u8",Madeira
+Diğer
 #EXTINF:-1 group-title="Diğer",Costa de Caparica - Praia Nova
-https://video-auth1.iol.pt/beachcam/bccaparicanovapria/playlist.m3u8
-#EXTINF:-1 group-title="Diğer",ss3
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1755277100/ei/zBKfaPfXE7eJ6dsPjfPo4QI/ip/176.42.136.153/id/Fw9hgttWzIg.326/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-u0g3jxaa-n5fl.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AY1jyLOlXZ1OLIaBAIJTcKqTXfTABpBDKEM_7i2gXFkBzMsjhdUByC6St-DVODkfUbYiQitH6kZDh2Kk/spc/l3OVKW0v5xwxKUhroZ714-SjG11IJ9IsQ0gBryfE1d2-DLn6_xfhSlxsQDOT/vprv/1/playlist_type/DVR/initcwndbps/1776250/met/1755255501,/mh/OW/mm/44/mn/sn-u0g3jxaa-n5fl/ms/lva/mv/m/mvi/4/pl/20/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51548755,51552688/mt/1755255164/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIgBrZuXLoLNfZ3UUqoDdF2EwflbKrtYaS14JutjLMc-TkCIQDyqGvBov7__j3hMk79OL--tQllvdLACTR-PouK-PRCcw%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgFc26QELnCUj80U0MpEM3qcgvwxSeZgjB6Ot6E43J67UCIGC-14WJ6wPQDF5kGcAGi86q8escbjuJEXWrLunHLgPr/playlist/index.m3u8
-#EXTINF:-1 group-title="Diğer",ss4
-https://rr8---sn-u0g3jxaa-n5fs.googlevideo.com/videoplayback?expire=1755277102&ei=zhKfaIvMI4Dwi9oPv--goQE&ip=176.42.136.153&id=o-AJJHnURwzB5VJzC2DHrta-usVLs-Oip_e1GuxSqu3MHh&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1755255502%2C&mh=5O&mm=31%2C29&mn=sn-u0g3jxaa-n5fs%2Csn-nv47ln6e&ms=au%2Crdu&mv=m&mvi=8&pcm2cms=yes&pl=20&rms=au%2Cau&initcwndbps=1760000&bui=AY1jyLOcMwBvazUJs1EMgxkJAxhqGhQZ9vVJFWmT4nR190Z84kgRXa3VC_LyKywujFNj7_i9a3RfXbCe&vprv=1&svpuc=1&mime=video%2Fmp4&ns=7LcmVvxyksFSWd1gmYD_UXIQ&rqh=1&gir=yes&clen=31467910&ratebypass=yes&dur=611.242&lmt=1754234241428683&mt=1755254949&fvip=5&lmw=1&fexp=51548755%2C51557447&c=TVHTML5&sefc=1&txp=6209224&n=lsjuKZWFkPG39A&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AJfQdSswRQIgfRa6gvImdBah8zgTDIjQGu8DFWBlYHiVAseA3KYFZekCIQDYGAc-hyYb05xte4ikrofTy6vhLUo4pU-fcjrizd2wfw%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhANZa1aF1cbppprbtGcCtMV4sfxAuxmZid6Kon4YgwhttAiEAwW4yNZQ4bqDr03T3TxxHdCIiU9AW_NTE2OIACYo8dxI%3D
-#EXTINF:-1 group-title="Diğer",ss5
-https://rr9---sn-u0g3jxaa-n5fz.googlevideo.com/videoplayback?expire=1755277111&ei=1xKfaM7cLOnsi9oPm_LVYA&ip=176.42.136.153&id=o-AJ-gfKTofdzZfosnfIKoKtF32nC1ftp4-SzDrbkZHHb6&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1755255511%2C&mh=bH&mm=31%2C29&mn=sn-u0g3jxaa-n5fz%2Csn-nv47lnsd&ms=au%2Crdu&mv=m&mvi=9&pl=20&rms=au%2Cau&initcwndbps=1903750&bui=AY1jyLMCq4UUpNkR1aumK9s61tTRPxJS_ZxZNZJzrEB2YU9l_kEakrXTool6ejG9pniXnYGYK3n96Zny&vprv=1&svpuc=1&mime=video%2Fmp4&ns=7RkPD8Ivh2HSinFIkyZO-xAQ&rqh=1&gir=yes&clen=106971526&ratebypass=yes&dur=1246.516&lmt=1752121290158734&mt=1755255201&fvip=1&lmw=1&fexp=51548755%2C51557447&c=TVHTML5&sefc=1&txp=5438534&n=n_-OABhFv1-JaA&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AJfQdSswRgIhAOqFG7BUX-DghihgTP3bkfowO1Gv80eWU1CJlnBaFdFRAiEA5gDtW4niV-IbuzFae3aLmF9SoBhfzb6wOND8kEC71MM%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgZWzYs-DHtbj2Gd_MSGejt8EPak5JUB5Q1CGx2x5XvQgCIDF6aXoLRsfGfWF-SDZAGLZ1JBOmGzLkBQAcStCtHm43
-#EXTINF:-1 group-title="Diğer",ss3
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1755277100/ei/zBKfaPfXE7eJ6dsPjfPo4QI/ip/176.42.136.153/id/Fw9hgttWzIg.326/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-u0g3jxaa-n5fl.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AY1jyLOlXZ1OLIaBAIJTcKqTXfTABpBDKEM_7i2gXFkBzMsjhdUByC6St-DVODkfUbYiQitH6kZDh2Kk/spc/l3OVKW0v5xwxKUhroZ714-SjG11IJ9IsQ0gBryfE1d2-DLn6_xfhSlxsQDOT/vprv/1/playlist_type/DVR/initcwndbps/1776250/met/1755255501,/mh/OW/mm/44/mn/sn-u0g3jxaa-n5fl/ms/lva/mv/m/mvi/4/pl/20/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51548755,51552688/mt/1755255164/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIgBrZuXLoLNfZ3UUqoDdF2EwflbKrtYaS14JutjLMc-TkCIQDyqGvBov7__j3hMk79OL--tQllvdLACTR-PouK-PRCcw%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgFc26QELnCUj80U0MpEM3qcgvwxSeZgjB6Ot6E43J67UCIGC-14WJ6wPQDF5kGcAGi86q8escbjuJEXWrLunHLgPr/playlist/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1755711638/ei/NrSlaPixDdi36dsPwpflyQI/ip/176.42.136.153/id/k3dhjFBx41E.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-u0g3jxaa-n5fs.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AY1jyLOJg8LGB7B1jFdtipAn7n6LDDtq2K8wuGlPD-_dWCcJN5rJWUWld1NXDsjuwKVxHGsWI2iPZQl5/spc/l3OVKaaSSkbu_w1tIhnLLda83nlmjN713q6xTAL9E8J2YC4w_He0XgkvwWP2ESGZT_n5U9RBpHA/vprv/1/playlist_type/DVR/initcwndbps/1655000/met/1755690040,/mh/8d/mm/44/mn/sn-u0g3jxaa-n5fs/ms/lva/mv/m/mvi/2/pl/20/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51548755,51552688,51565116,51565681,51580968/mt/1755689798/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIgZrc81P4Fr2KOiPcN-ufMQw2ue4iPxG3hYIhChcXEsucCIQC_7TM-AsDKWaEFeB459rvf7qNAypUBy1DyHrZpURM9Cw%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgMwId48XU3i5GoRYAdDK7F1EOFU-kdbs4EKX4g_iVb98CIDCAChCGLiiaq8VXNEZ0_xX0NGLPM19DkwGpEnfIz_mI/playlist/index.m3u8
+#EXTINF:-1 group-title="YouTube",Crystal Bay Yacht Club
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1755711641/ei/ObSlaPfUILLwi9oPqOr44As/ip/176.42.136.153/id/zMK-S8vXZpU.41/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr8---sn-u0g3jxaa-n5fz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AY1jyLPbBaBd-wQ9YCEAw0w-STH2-7xEMIJ1S_yDdcD7TPoHp3D2Kpy_xnLoC3lNCCleQdYBtiaOJYy9/spc/l3OVKcy_OstIWZOoUKsmCgolD4TXpa86VaYnle_Wy7EWaRg9o0bXGBJweFMEM2AUjpb9sPLe-D4/vprv/1/playlist_type/DVR/initcwndbps/1707500/met/1755690043,/mh/1K/mm/44/mn/sn-u0g3jxaa-n5fz/ms/lva/mv/m/mvi/8/pl/20/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51548755,51565116,51565681,51580968/mt/1755689798/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRAIgDinq2BTuqaTdFstGdMVDboflQ5fquOmW0imLIGQBhbYCIHvDwPH_FBM1eaMJ9hoFi78kT3r_zh4Vp1xOjHRQnSUg/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgF3UUF2ikGEwwBvhfhWdVUP9N9kc4tNDTHSPt8Y4k0vMCIQCAqL36hD8WWBDfHhKjnXSVZfVz1xPpAtJ-SgLoJvF5Pg%3D%3D/playlist/index.m3u8
+#EXTINF:-1 group-title="YouTube",SURF CAM
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1755711644/ei/PLSlaLDDFaK6zPsP1feQoAc/ip/176.42.136.153/id/EmulKlmaXrQ.2/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hls_chunk_host/rr2---sn-u0g3jxaa-n5fs.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AY1jyLNNOLwHIhNXdOSGwDyNkqRCBAL0BkEu4eaFo2wKImz9OLN0JyEnXHAtThMSPGCXI4keMOeSLAvd/spc/l3OVKb7IXxx9XCENLFN2FVDXjpkd1GhBqBJnu93UHahNQGPxEZMdSDRLG_q1BtKHrABP3ZLCIFQ/vprv/1/playlist_type/LIVE/initcwndbps/1660000/met/1755690046,/mh/p7/mm/44/mn/sn-u0g3jxaa-n5fs/ms/lva/mv/m/mvi/2/pl/20/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51548755,51565115,51565682,51580968/mt/1755689559/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,playlist_type/sig/AJfQdSswRgIhAJD0JS6B5Rp3xD8Sbf2nxrAjBDKVy3aEB5xJ8M6KYDguAiEA0MUGyDX7ZLykUL6t669dAEHuk9A_uSlaT6iFIlDmU4k%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgIXScYeowf56hjc7ljEUQIwfjYW6GCZAJWyJHqk2vZ_oCICm4yl5hkFjsXVA9RtX1rOO4ot-hReIiJMTlmzkr9U-C/playlist/index.m3u8
+#EXTINF:-1 group-title="YouTube",Breathtaking Nature Moments in 4K HDR
+https://rr8---sn-u0g3jxaa-n5fs.googlevideo.com/videoplayback?expire=1755711649&ei=QbSlaMuNDYvTmLAP0sz0kQ0&ip=176.42.136.153&id=o-AGw98D-7Ca1vIvleA1NFJ3P6jtkoXHnW4KbeIuawVBhR&itag=701&aitags=133%2C134%2C135%2C136%2C160%2C242%2C243%2C244%2C247%2C278%2C298%2C299%2C302%2C303%2C308%2C315%2C330%2C331%2C332%2C333%2C334%2C335%2C336%2C337%2C694%2C695%2C696%2C697%2C698%2C699%2C700%2C701&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1755690049%2C&mh=a6&mm=31%2C29&mn=sn-u0g3jxaa-n5fs%2Csn-nv47ln6e&ms=au%2Crdu&mv=m&mvi=8&pl=20&rms=au%2Cau&initcwndbps=1660000&bui=AY1jyLNv8P2D_sSKDo894SW_mnUfZtO3daOgNVJ6lXl1BrXuhNdCYWXeJ1jM_H8IKeKJHfimWsOTxXOC&vprv=1&svpuc=1&mime=video%2Fmp4&ns=tMVrx6hXW43hDuW0yFlkwgEQ&rqh=1&gir=yes&clen=10410278294&dur=3326.066&lmt=1731915233703830&mt=1755689603&fvip=5&keepalive=yes&lmw=1&fexp=51548755%2C51557447%2C51565116%2C51565681%2C51580970&c=TVHTML5&sefc=1&txp=5532434&n=r0uyVb52wj2XQA&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIhAJyNevK0E5mGuqN2QQNHaH3G7GsgKNeQSk8n0wwu8UPWAiBni41-mR6q0g0cilTmiXZpRnlE43ZyEU2ZbswdboclxQ%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhALYhyIig0jcWGzw5z8ohfJNY_CWSL5CJFVgiu7rQ-diIAiAriLBSmxwbVCUtcHUNKsTuTVk_QtEc5TTKPVA4ljUApA%3D%3D
+#EXTINF:-1 group-title="Diğer",TRT
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="Diğer",TRT NAĞME
+https://rd-trtnagme.medya.trt.com.tr/master_128.m3u8
+#EXTINF:-1 group-title="YouTube",Radyo 7 Akustik
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1755276803/ei/oxGfaJGKBu2Ci9oPtrGrUQ/ip/176.42.136.153/id/jrlG94Vojy0.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-u0g3jxaa-n5fs.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AY1jyLMPutjd9xoTF9bLsGCntrRgYmqAGiUVCSK1x6eE0_5tFXSzQEJ-MCzbCCr4TxXnMY0hrbttNAoy/spc/l3OVKb1JUXmqWAKsUA8O1XDFFAk1vyGIOROFXGAfm1Mx2gt8bNXN/vprv/1/playlist_type/DVR/initcwndbps/1768750/met/1755255204,/mh/BL/mm/44/mn/sn-u0g3jxaa-n5fs/ms/lva/mv/m/mvi/4/pl/20/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51548755/mt/1755254673/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIhAOavehsHZMciw4bnE45o-XpWKxKbip-FcBtptME0_PIqAiAF4psthSUATSCMKsUlPOsDgYMjeJcdxN8-Cw11Qv8srw%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAPWe5ja8w-sn3cSVxNt6OSimvTFfPx2gschxjI3kizHQAiEA4RA0AxxXq4M_n5cGHOXE4Gnbx2zMqTMA52K-waO29n8%3D/playlist/index.m3u8
+#EXTINF:-1 group-title="YouTube",Greece 8K
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1755276804/ei/pBGfaOiqEMCFsvQPtKr4KA/ip/176.42.136.153/id/jZFhl9pY1Ps.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-u0g3jxaa-n5fl.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AY1jyLNK_t9584LvyRw-2s72l4BkOiqN38EyZb9mCOwzLfdth3wnXOzua9fOri5y9SR57p93bfwqya7Y/spc/l3OVKZBkksqURfe8JA1Wx5J9M20bvCjIzICQVBs1iYDlu3n539Mc/vprv/1/playlist_type/DVR/initcwndbps/1773750/met/1755255205,/mh/L2/mm/44/mn/sn-u0g3jxaa-n5fl/ms/lva/mv/m/mvi/5/pl/20/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51548755/mt/1755254673/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIhANvWaUcP4IqucvDBtw4Yzp47w_TK3WTxgHsq3vfBuNs2AiBjDz2kNgB0lcC2kzZY6CQ5MMT0J31HVFHy9jqB7uwYkQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAI08HbTWq6VHFOy9JKCWj8V-sbRHxjoB2AyQPZEw3FXNAiBlwl-grCaTIjMQxw3Nify-6mOfOhlt_3X0VEuWFx1a_g%3D%3D/playlist/index.m3u8
+#EXTINF:-1 group-title="Diğer",OCH
+https://s73.ipcamlive.com/streams/497mxerzjno1nc4pz/stream.m3u8
+#EXTINF:-1 group-title="Diğer",ASE
+https://s81.ipcamlive.com/streams/51jxqnot05frhu9kz/stream.m3u8
+#EXTINF:-1 group-title="Diğer",HC
+https://s90.ipcamlive.com/streams/5aevsrq9sq6o0p1kv/stream.m3u8
+#EXTINF:-1 group-title="YouTube",ALASKA
+https://rr8---sn-u0g3jxaa-n5fe.googlevideo.com/videoplayback?expire=1755711657&ei=SLSlaO2ZO_OEgMMP4bOd0QI&ip=176.42.136.153&id=o-AFMwEfUnkPjdUrrKCduT93k5UiwtHTkKkNbX3i6wKV58&itag=702&aitags=133%2C134%2C135%2C136%2C160%2C242%2C243%2C244%2C247%2C278%2C298%2C299%2C302%2C303%2C308%2C315%2C330%2C331%2C332%2C333%2C334%2C335%2C336%2C337%2C694%2C695%2C696%2C697%2C698%2C699%2C700%2C701%2C702&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1755690056%2C&mh=Vc&mm=31%2C29&mn=sn-u0g3jxaa-n5fe%2Csn-nv47znee&ms=au%2Crdu&mv=m&mvi=8&pl=20&rms=au%2Cau&initcwndbps=1678750&bui=AY1jyLOqLBTckmdtqoYyq-Er5_-W0ALoEzaWsgv3Q6byau2_VaIUP_vMUQhub7m9VlY27sp6voA0oMR0&vprv=1&svpuc=1&mime=video%2Fmp4&ns=a09tLHkWkJSPyZ3XWg09xOEQ&rqh=1&gir=yes&clen=1676990974&dur=267.583&lmt=1754284514840077&mt=1755689603&fvip=1&keepalive=yes&lmw=1&fexp=51548755%2C51557447%2C51565116%2C51565682%2C51580970&c=TVHTML5&sefc=1&txp=5532534&n=m3EWHBBEUZ2hhA&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIhAOLrzy6_Vnxn_h7pCdkQYXL_qJxI6sdIQtljyXz1cKb-AiAfrPREhdwRakTkkbc48x9ZQUpMw73aG1c7KEIl1avsvA%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgZdLMsI65XOiRWEGmKL4fyvZQQHkwWs6POS3jeTmyHFUCIQD4jYGC0U5PkNbTz7Pkg_ItGlphvDEh26lFvB4UliUldw%3D%3D
+#EXTINF:-1 group-title="YouTube",24/7 Live from the
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1755711663/ei/T7SlaJTjBa-kzPsP-4LC-AE/ip/176.42.136.153/id/0FBiyFpV__g.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-u0g3jxaa-n5fz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AY1jyLM2Z5-xHo1I9HOD-Npr8gsi8duuQwKBehD3jlAMzWFoQAeYYU038MFeUJRppTC2C65xYEEg24YI/spc/l3OVKe-eEq0Ll1NKjXU-qwNOOWicOIJzhK_p3aLT1wLZl41VfR6UxR7HB0jJGxvn3jJO5J4mNwY/vprv/1/playlist_type/DVR/initcwndbps/1730000/met/1755690065,/mh/0v/mm/44/mn/sn-u0g3jxaa-n5fz/ms/lva/mv/m/mvi/4/pl/20/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51514993,51548755,51565115,51565682,51580968/mt/1755689559/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRAIgYa1UuhIyqH8udXLH9CV6X7QqM5DVwrNrUkyQsIA3kUECIEb5rQmjFGfnsu--2OXACqtkq9AMHMA5f6DdvPx0uoLK/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgbPQSe5RgSThAyVpQjHWDRT0V8WLjUJtt-y1xB_4vkxwCIQDYlril7nILrg7McDKArYWFS1lbC3FSfiBckgnKYrsMXw%3D%3D/playlist/index.m3u8
+#EXTINF:-1 group-title="YouTube",Beautiful Relaxing
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1755711666/ei/UrSlaI26Lrj46dsP2bzA8Q4/ip/176.42.136.153/id/dXIyMS61B68.34/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hls_chunk_host/rr2---sn-u0g3jxaa-n5fz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AY1jyLPq1cuj-OiXmPtl3Oje-fqZBv9dTRroMy6jfWlAtwTGjC2D1doBLVN4MCXK0YQhf9ku3bVCK8Mn/spc/l3OVKdEKLmbg5JkO-r6qMaWb1c3UzdJMKxuIi2si2MWFrpQ4h9C-v11xARQdwAMtjCBjwPudJkU/vprv/1/playlist_type/DVR/initcwndbps/1707500/met/1755690068,/mh/G_/mm/44/mn/sn-u0g3jxaa-n5fz/ms/lva/mv/m/mvi/2/pl/20/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51548755,51565116,51565682,51580968/mt/1755689798/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIgM3GyKvYHdhGZ8Lvyx7HuyQrOrolD6AFijTOHdNbTNGACIQDznHNIZTx2jksXkWz9u5v6VJuxaLxM01lSqH6kv5z0BA%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgfgyeAFoGXJgGS1OVQeDN8bwJQg_X3pCI9-Qs588y3nkCIQDyVvl1c8alEQSJ5-5B6XHGBZerIlBrRmYnHlWGI1V0Cw%3D%3D/playlist/index.m3u8
 #EXTINF:-1 group-title="Diğer",Coldplay
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1755280334/ei/bh-faOv9DJ-Z6dsPvaKt-Ak/ip/176.42.136.153/id/rbbFNNDymCs.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-u0g3jxaa-n5fs.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AY1jyLOz8uB5T-SoBj5zgiYxq1yEoJ7MTG1p4PhEnnj8UdlgKGqt4oiJ7FtDJ1EFly7q243Nz6LjWxfD/spc/l3OVKecmjjoCgIv2VzCBW_sqBUSIfLvi3p8Y8zxGk2Uk-1zHEjX5px_bC1H2/vprv/1/playlist_type/DVR/initcwndbps/1701250/met/1755258736,/mh/w8/mm/44/mn/sn-u0g3jxaa-n5fs/ms/lva/mv/m/mvi/4/pl/20/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51548755/mt/1755258277/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRgIhAPX8ilZmqjSa7VWhgMC44-Y_URQ-7ncVNwZ_AUYWrwAjAiEAzFmeKzG_SGK1gXUHJXPn5Prsh-4pnMyo49RWHGLbhA0%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgfgMzzsiZLGOO7iBI705RRs4H5BDrE22AGxPvFFr3ofUCIQC3hnvqyPNeK8rZXTfrC0hgRKSnm4NadPmZjaivOEctcQ%3D%3D/playlist/index.m3u8
-#EXTINF:-1 group-title="Diğer",Radyo 7 Arabesk 7
-https://moondigitaledge2.radyotvonline.net/radyo7turku/playlist.m3u8
-#EXTINF:-1 group-title="YouTube",TRT HABER
+#EXTINF:-1 group-title="Diğer",TRT HABER
 https://tv-trtworld.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="YouTube",Greece 8K
+https://rr8---sn-u0g3jxaa-n5fe.googlevideo.com/videoplayback?expire=1755711671&ei=V7SlaMiHEdWIzPsP3_XkwAs&ip=176.42.136.153&id=o-AL_YCZWMpQGCEhb_SPqpCHnsHaeVdpcfiA7biSkD5TqW&itag=571&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C271%2C278%2C313%2C394%2C395%2C396%2C397%2C398%2C399%2C400%2C401%2C571&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1755690071%2C&mh=Z_&mm=31%2C29&mn=sn-u0g3jxaa-n5fe%2Csn-nv47ln6e&ms=au%2Crdu&mv=m&mvi=8&pl=20&rms=au%2Cau&initcwndbps=1678750&bui=AY1jyLOSbuog6hyDEVmrq6igfajxcqbxrobU7ZZ_jXcfIiMnAtdavOnd8BGgXdxoUWaBzJbDKWSK7t4A&vprv=1&svpuc=1&mime=video%2Fmp4&ns=EGaVtW0w2Rj1x8WCZfouJYwQ&rqh=1&gir=yes&clen=76261879085&dur=14390.233&lmt=1736673490626072&mt=1755689603&fvip=4&keepalive=yes&lmw=1&fexp=51548755%2C51557447%2C51565115%2C51565681%2C51580970&c=TVHTML5&sefc=1&txp=543G534&n=cIK4Ou81iHX0Zw&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIgZsgTGJwJXBtJanYJunTHSxVYTrtCvagn6vo2ORg_H2ACIQCdaT3579o4AZQh2a5TCmb6Y79mjCl19UjOWKXlkUOO3w%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgVTndBtH53_eocitHpnNlGtVtBAgfi8SQiqv4IQsyFzMCIH85I86EKKCHJyS7ULymmmTsI65uWtJWzUWHT7W1UHuB
+#EXTINF:-1 group-title="YouTube",Crystal Bay Beach Resort
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1755711677/ei/XbSlaIaQMv7zi9oP3a_XiAY/ip/176.42.136.153/id/Fw9hgttWzIg.326/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-u0g3jxaa-n5fl.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AY1jyLPzSgbcrpRF_B6d6L1CDuTTxWoU9tHzZKm9a_Dp0liNJERVqmwB5Ygv1U6g3km-bAPkPSIQZ7xQ/spc/l3OVKT2AAlepiETtD4kfbV3h6ZiIWg9Uq4DtRRyj_QSWJq5mg-qPtNgcfSymmDno1ohtE2T9ll8/vprv/1/playlist_type/DVR/initcwndbps/1541250/met/1755690079,/mh/OW/mm/44/mn/sn-u0g3jxaa-n5fl/ms/lva/mv/m/mvi/4/pl/20/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51548755,51565115,51565682,51580968/mt/1755689798/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRAIgZFH-tozbwLpnWS9eUnVXXPwcf5U-U1jodI06j72lma4CIF4jms5bULxmJtyoaMbyoRYLdGUfcb3aTBbaw9XueFQC/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAN9Bt8EKqY88f2PjLpJv3904XSAHME_C5kIU6koa6-NJAiBRg9mdA_uTDV8wNQusi0u3MulEst5xLHKWcGq__h4IrQ%3D%3D/playlist/index.m3u8
+#EXTINF:-1 group-title="YouTube",Crystal Bay Yacht Club
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1755711681/ei/YbSlaOmyCc-gzPsPn9nK4Ac/ip/176.42.136.153/id/zMK-S8vXZpU.41/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr8---sn-u0g3jxaa-n5fz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AY1jyLMpMpsl-GuyBHT2uhsSGGHqUlcDjnCk5Rmdgb3YWZy45xorVBqd5t8HFi1O1f66iEjF9WnMoASf/spc/l3OVKTAPi3FTnBrzXse93Wid58FcJ_2Vz0wn1MOo8Hn15dYztyahA53QVhlnQXdIf3zNddAowCo/vprv/1/playlist_type/DVR/initcwndbps/1730000/met/1755690084,/mh/1K/mm/44/mn/sn-u0g3jxaa-n5fz/ms/lva/mv/m/mvi/8/pl/20/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51548755,51565115,51565681,51580968/mt/1755689559/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRAIgLSP7JRDV3XX5AFd-RLGjaen6iFp-OM6SEzqrQmpi6J4CICSJ1YXRdGNMxXKdnqCcVibpAVAP0DA6cpZkMHdFUySX/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgW5gN1QsqmAzcpCoBsaSZSePKCgWO6Vk6tHc66Q8briQCIFkDojEGiYYtRdFBQgCuWuZRoXoDaCLlTjkFzd3cIsnc/playlist/index.m3u8
+#EXTINF:-1 group-title="YouTube",Jacksonville Beach Fishing Pier
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1755711686/ei/ZrSlaNWlFrD46dsPh_32wQg/ip/176.42.136.153/id/8jnnBtZC8nY.1~45677213/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-u0g3jxaa-n5fl.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AY1jyLPBUHw-Z1scCxvOQtqmhJ2SdqfLicER1Ip2mdMpTCmlX0qEE_XRW6s-33IGR4JQkAj9fQz_H6im/spc/l3OVKTxRKZvaDzpAuJRDxURc-rhVKg_OJinq_6TvluslVnoL7A45LjePEgzmWW1U-htxavE2yc4/vprv/1/playlist_type/DVR/initcwndbps/1541250/met/1755690088,/mh/u_/mm/44/mn/sn-u0g3jxaa-n5fl/ms/lva/mv/m/mvi/5/pl/20/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51548755,51565115,51565681,51580968/mt/1755689798/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIhALIkYBzbY7t_THasUA8KTPYOZAOqFlH8WNE0NQ1iNIcVAiBbkRCjHofxZ3npAttGO1-h_0jp_TERC1tSnJCvXg1jLw%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAPMc73IOrptaI-zwHZLH2g3Azng0TOu_Q-luH-AEKKghAiEAj9qFUapD8PuEb-AdWrs9-4yovrAViPiG_cZFQvSN8xM%3D/playlist/index.m3u8
+#EXTINF:-1 group-title="YouTube",Breathtaking Nature Moments in 4K HDR
+https://rr8---sn-u0g3jxaa-n5fs.googlevideo.com/videoplayback?expire=1755711691&ei=a7SlaMCqNsiQzPsPreaZ0Q0&ip=176.42.136.153&id=o-ADcVGueL_XlTP_ILgN2yuGQ4z6tweCvIsGxYTGHpQV4U&itag=701&aitags=133%2C134%2C135%2C136%2C160%2C242%2C243%2C244%2C247%2C278%2C298%2C299%2C302%2C303%2C308%2C315%2C330%2C331%2C332%2C333%2C334%2C335%2C336%2C337%2C694%2C695%2C696%2C697%2C698%2C699%2C700%2C701&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1755690091%2C&mh=a6&mm=31%2C29&mn=sn-u0g3jxaa-n5fs%2Csn-nv47znel&ms=au%2Crdu&mv=m&mvi=8&pcm2cms=yes&pl=20&rms=au%2Cau&initcwndbps=1660000&bui=AY1jyLPYS6O60vTMz-TkmVMOrmVxZS2Wx0eXtUXPvLkpIilzwXPWdfRbjw28FoGP67K0suZM-TYHrTv7&vprv=1&svpuc=1&mime=video%2Fmp4&ns=dUpcL7Ad7ef8mapKe3uHlqIQ&rqh=1&gir=yes&clen=10410278294&dur=3326.066&lmt=1731915233703830&mt=1755689603&fvip=5&keepalive=yes&lmw=1&fexp=51548755%2C51557447%2C51565115%2C51565681%2C51580970&c=TVHTML5&sefc=1&txp=5532434&n=8vfWbAbS3yrzuQ&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIgdIx3dnhQB9p8xBDRgmy189J7SyimIEOVeIR_6pQi1NECIQCPhcjbbGirAYg9i6Dg38GZPL0mCYVDff-fFSy72Xny3Q%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgPlugtko82YLIYxWxEEQLnqANlRhjq6CyWkSZlFbi2ZgCIQD97hyrkbl9xCc6hNbKScd0DfQU9C2PhkuBWgMyDY1z5A%3D%3D
+#EXTINF:-1 group-title="Diğer",TRT HABER
+https://tv-trthaber.medya.trt.com.tr/master_480.m3u8
+#EXTINF:-1 group-title="Diğer",HABER GLOBAL
+https://ensonhaber-live.ercdn.net/haberglobal/haberglobal_720p.m3u8
+#EXTINF:-1 group-title="Diğer",HABER TÜRK
+https://ciner-live.daioncdn.net/haberturktv/haberturktv_480p.m3u8
+#EXTINF:-1 group-title="Diğer",NTV
+https://dogus-live.daioncdn.net/ntv/ntv_480p.m3u8
+#EXTINF:-1 group-title="Diğer",TRT SPOR
+https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="Diğer",TV 24
+https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8
+#EXTINF:-1 group-title="YouTube",ÜLKE TV
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1755711698/ei/crSlaO_4GICgi9oPgJeI0Qc/ip/176.42.136.153/id/29m-jU_f8ls.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hls_chunk_host/rr8---sn-u0g3jxaa-n5fl.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AY1jyLNf-D36FZhmrFtC4brCBOAcGBbYzZkptS8SSbZ_WgdySsgC7uNoOwz_qk66fxUCmmrKnhpILhHe/spc/l3OVKdiHHrQ4xZoCAPkoAGRzSwC6wTuyK-pW_btQQQGvBFb67fpdARyVIpMo0XwCvSH55V8uNc8/vprv/1/playlist_type/DVR/initcwndbps/1575000/met/1755690100,/mh/Se/mm/44/mn/sn-u0g3jxaa-n5fl/ms/lva/mv/m/mvi/8/pcm2cms/yes/pl/20/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51548755,51565116,51565681,51580968/mt/1755689559/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRAIgV8ipKsh6t1xoP3YByn90u2rIX3h7QVLOuJvCdz2OfSECIG3Of8rZekcxvUP7Gls-46e2FLDf5vDXDfAn-2bSyoli/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pcm2cms,pl,rms/lsig/APaTxxMwRQIhAL2JHkPV9_VuTzYusK_FdwSVhNq46Q-7Ff1mr_bUOBXzAiAce7u2wmqJ5LwVZc9pGz8FJRUmxL7XXpG_ZpOl866taA%3D%3D/playlist/index.m3u8
+#EXTINF:-1 group-title="Diğer",AKİT TV
+https://akittv-live.ercdn.net/akittv/akittv_360p.m3u8
+#EXTINF:-1 group-title="Diğer",TV NET
+https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
+#EXTINF:-1 group-title="YouTube",CNN TÜRK
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1755711702/ei/drSlaJWKEP6bsvQPjrv3wAs/ip/176.42.136.153/id/bdDfLLy9Y5k.118/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hls_chunk_host/rr3---sn-u0g3jxaa-n5fz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AY1jyLN59vyU24dSp_JOdU5VBA6z4rXXtJx576Id8EYo6TaiD-Ofk6I2mCK1bjYqdbzQyry0WSW9qBA9/spc/l3OVKYd0tP-9PBHEefqlJtZE6H6YasdH4Rvdf25MHn93DcyneTFp-MNOj_zEt7LSg7Xl9N4EzaM/vprv/1/playlist_type/DVR/hcs/sd/initcwndbps/1707500/met/1755690105,/mh/ce/mm/44/mn/sn-u0g3jxaa-n5fz/ms/lva/mv/m/mvi/3/pl/20/rmhost/rr8---sn-u0g3jxaa-n5fz.googlevideo.com/rms/lva,lva/smhost/rr6---sn-u0g3jxaa-n5fs.googlevideo.com/dover/11/pacing/0/keepalive/yes/fexp/51355912,51548755,51565116,51565681,51580968/mt/1755689798/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIgOVR5sCS9-oIYDH4atHifynoOQwpnM5-K48joKKx_xtACIQC_p-U3nqvsLcFUh0Bz18e5bn5RXgOoXY_7CCzfpolocQ%3D%3D/lsparams/hls_chunk_host,hcs,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rmhost,rms,smhost/lsig/APaTxxMwRAIgdBhCGHHSFKxRnqCfdS4KNUcI-XRzY3WLoTUgHK2Ii1kCIF0csqXaKKxo3QfmDJ3q0j0PsEUqy_Nkr631Rpf3HmE9/playlist/index.m3u8
+#EXTINF:-1 group-title="Diğer",National Geographic Wild (1080p) [Geo-blocked]
+https://saran-live.ercdn.net/natgeowild/index.m3u8
+#EXTINF:-1 group-title="Diğer",Viasat Explore Classic (720p)
+https://da9c49fa.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXBsX1ZpYXNhdEV4cGxvcmVfSExT/playlist.m3u8
+#EXTINF:-1 group-title="Diğer",TRT 2
+https://tv-trt2.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="Diğer",TRT MUZİK
+https://tv-trtmuzik.medya.trt.com.tr/master_480.m3u8
+#EXTINF:-1 group-title="Diğer",TRT BELGEEL
+https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="Diğer",TRT 1
+https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=7oa1aqjq806i&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
+#EXTINF:-1 group-title="YouTube",NAZARÉ Extreme Surf
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1755711706/ei/erSlaLe8KqfV6dsPyeTsqAw/ip/176.42.136.153/id/gyw7nhh0g-w.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr8---sn-u0g3jxaa-n5fz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AY1jyLPQ6-D8C5h_HxT_uLOvwJCJH9dm_8aPjZgJEC3kOWMW_cFbHLMW0fRSuUrJWUVLujm35mQ_DXe0/spc/l3OVKe6WLEyxacJcDHO_wkItcWmVG1SG29NnaqzpiK2AnGd-wHb55MxUJu7YpU7JmDxrb4AXb2s/vprv/1/playlist_type/DVR/initcwndbps/1707500/met/1755690108,/mh/Ha/mm/44/mn/sn-u0g3jxaa-n5fz/ms/lva/mv/m/mvi/8/pl/20/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51548755,51552689,51565116,51565681,51580968/mt/1755689798/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRgIhAM9D4XNZCfxJAsMZzCb1zPlK5IUkB5HMdrpDSna8XQJpAiEAnxNN7dz-WsWg6elDGGn4eIRmEorRpGvcgK1OHyVtNeA%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgF-fx0Pfa2Axm_fkvdySn-v-5oiTOfTEiRWahrqflclMCICmfCThrQu1xh1Qg1AIPoFUWVRQfocDWyF2UmzdjGqj9/playlist/index.m3u8
+#EXTINF:-1 group-title="YouTube",RADYO7 CANLI
+https://moondigitaledge.radyotvonline.net/radyo7/playlist.m3u8?listeningSessionID=689a748acd700af6_738727_b0oSBW8u__0000000mOTv&downloadSessionID=0
