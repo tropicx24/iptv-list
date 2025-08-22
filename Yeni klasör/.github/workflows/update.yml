@@ -1,32 +1,47 @@
-name: Update M3U Playlist
+﻿name: "IPTV Playlist Update"
 
 on:
   schedule:
-    - cron: "0 3 * * *"   # Her gün sabah 03:00'te çalışır
-  workflow_dispatch:       # Manuel tetikleme seçeneği
+    - cron: '0 3 * * *'
+    - cron: '0 15 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
-  build:
+  update-playlist:
     runs-on: ubuntu-latest
+    
     steps:
-      - name: Repo'yu çek
-        uses: actions/checkout@v3
-
-      - name: Python kur
-        uses: actions/setup-python@v4
-        with:
-          python-version: "3.10"
-
-      - name: Gerekli paketleri yükle
-        run: pip install requests
-
-      - name: Script çalıştır
-        run: python check_links.py
-
-      - name: Değişiklikleri commit et
-        run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
-          git add playlist.m3u
-          git commit -m "🔄 Otomatik playlist güncellendi" || echo "No changes"
-          git push
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Setup Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+        
+    - name: Install dependencies
+      run: pip install requests
+        
+    - name: Run playlist checker
+      run: python "Yeni klasör/check_links.py"
+        
+    - name: Check for changes
+      id: changes
+      run: |
+        if git diff --quiet "Yeni klasör/playlist.m3u"; then
+          echo "changed=false" >> $GITHUB_OUTPUT
+        else
+          echo "changed=true" >> $GITHUB_OUTPUT
+        fi
+        
+    - name: Commit and push changes
+      if: steps.changes.outputs.changed == 'true'
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "IPTV Bot"
+        git add "Yeni klasör/playlist.m3u"
+        git commit -m "Auto update playlist - $(date)"
+        git push
