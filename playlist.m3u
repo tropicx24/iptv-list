@@ -106,7 +106,6 @@ https://video-auth1.iol.pt/beachcam/canhaonazare/playlist.m3u8
 #EXTINF:-1,Nazaré - Praia do Norte panorâmica
 https://video-auth1.iol.pt/beachcam/nazareparadonorte/playlist.m3u8
 #EXTINF:-1,Nazaré - Porto de Abrigo
-https://video-auth1.iol.pt/beachcam/bcportodeabrigo/playlist.m3u8
 #EXTINF:-1,Foz do Arelho
 https://video-auth1.iol.pt/beachcam/bcfozdoarelho/playlist.m3u8
 #EXTINF:-1,Peniche – Lagide
@@ -273,7 +272,6 @@ https://video-auth1.iol.pt/beachcam/parcos/playlist.m3u8
 #EXTINF:-1,Carvalhal
 https://video-auth1.iol.pt/beachcam/bccarvalhalodemira/playlist.m3u8
 #EXTINF:-1,Praia da Amoreira
-https://video-auth1.iol.pt/beachcam/bcamoreira/playlist.m3u8
 #EXTINF:-1,Praia do Vau
 https://video-auth1.iol.pt/beachcam/bcvauportimao/playlist.m3u8
 #EXTINF:-1,Meia Praia
@@ -366,7 +364,6 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803
 #EXTINF:-1,TVE 1
 #EXTINF:-1,Praia Canide Norte - Sul
-https://video-auth1.iol.pt/beachcam/bccanidelo/playlist.m3u8
 #EXTINF:-1,Praia da Tocha
 #EXTINF:-1,Praia Pequena
 #EXTINF:-1,Praia da Conceição e Duquesa
