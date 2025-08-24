@@ -20,44 +20,68 @@ https://trkvz-live.daioncdn.net/atv/atv.m3u8
 https://www.youtube.com/@HaberGlobal/live
 #EXTINF:-1,Haber Global Live
 https://www.youtube.com/@AHaber/live
-#EXTINF:-1,KRAL FM
-#EXTINF:-1,KARIŞIK
-#EXTINF:-1,Radyo 7 Arabesk 7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DRl5bXq.png", Radyo 7 Arabesk 7
 https://moondigitaledge2.radyotvonline.net/radyo7turku/playlist.m3u8
-#EXTINF:-1,RADYO7 SLOW
-#EXTINF:-1,Radyo 7 Akustik
-#EXTINF:-1,RADYO7 ARABESK
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oh3uRzP.png", RADYO7 SLOW
+https://moondigitaledge2.radyotvonline.net/radyo7slow/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DRl5bXq.png", RADYO7 ARABESK
 https://moondigitaledge2.radyotvonline.net/radyo7arabesk/playlist.m3u8
-#EXTINF:-1,RADYO7 FMO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/difKxpu.png", RADYO7 TURKU
+https://moondigitaledge2.radyotvonline.net/radyo7turku/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oh3uRzP.png", RADYO7 SLOW
+https://moondigitaledge2.radyotvonline.net/radyo7slow/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6lNq1rS.png", RADYO7 FMO
 https://moondigitaledge2.radyotvonline.net/radyo7fmo/playlist.m3u8
-#EXTINF:-1,MUHTESEM 4LU
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qH2M0Nf.png", MUHTESEM 4LU
 https://moondigitaledge2.radyotvonline.net/radyo7muhtesem4lu/playlist.m3u8
-#EXTINF:-1,CAMLICA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4uJ6dSu.png", ANKARA HV
+https://moondigitaledge2.radyotvonline.net/radyo7ankara/playlist.m3u8
 #EXTINF:-1,USKUDAR
+https://hls.ibb.gov.tr/ls/cam_turistik/b_uskudar.stream/playlist.m3u8
 #EXTINF:-1,DRAGOS
+https://hls.ibb.gov.tr/ls/cam_turistik/b_dragos.stream/playlist.m3u8
 #EXTINF:-1,DRAGOS
+https://hls.ibb.gov.tr/ls/cam_turistik/b_dragos.stream/chunklist.m3u8
 #EXTINF:-1,METROHAN
+https://hls.ibb.gov.tr/ls/cam_turistik/b_metrohan.stream/playlist.m3u8
 #EXTINF:-1,CAMLICA
+https://hls.ibb.gov.tr/ls/cam_turistik/b_buyukcaml\u0131ca.stream/playlist.m3u8
 #EXTINF:-1,SARAÇHANE
+https://hls3.ibb.gov.tr/ls/cam_turistik/b_sarachane.stream/chunklist.m3u8
 #EXTINF:-1,KAPALI ÇARŞI
+https://hls.ibb.gov.tr/ls/cam_turistik/b_kapalicarsi.stream/playlist.m3u8
 #EXTINF:-1,EMİNÖNÜ
+https://hls.ibb.gov.tr/ls/cam_turistik/b_eminonu.stream/playlist.m3u8
 #EXTINF:-1,EMİNONU
+https://hls.ibb.gov.tr/ls/cam_turistik/b_eminonu.stream/chunklist.m3u8
 #EXTINF:-1,KUZ KULESİ
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_kiz_kulesi_1.stream/playlist.m3u8
 #EXTINF:-1,EYÜP SULTAN
+https://hls.ibb.gov.tr/ls/cam_turistik/b_eyupsultan.stream/playlist.m3u8
 #EXTINF:-1,KADIKÖY
+https://hls.ibb.gov.tr/tkm1/hls/224.stream/playlist.m3u8
 #EXTINF:-1,BOSTANCI
+https://hls.ibb.gov.tr/tkm1/hls/260.stream/playlist.m3u8
 #EXTINF:-1,K.KOY
+https://hls.ibb.gov.tr/tkm1/hls/204.stream/chunklist.m3u8
 #EXTINF:-1,DBAHCE
+https://hls.ibb.gov.tr/tkm4/hls/595.stream/chunklist.m3u8
 #EXTINF:-1,UNKAP
+https://hls.ibb.gov.tr/tkm2/hls/399.stream/chunklist.m3u8
 #EXTINF:-1,15TEM
+https://hls.ibb.gov.tr/tkm2/hls/81.stream/chunklist.m3u8
 #EXTINF:-1,TAX
+https://hls.ibb.gov.tr/tkm1/hls/193.stream/playlist.m3u8
 #EXTINF:-1,TAKSİM
+https://hls.ibb.gov.tr/ls/cam_turistik/b_taksim_meydan.stream/playlist.m3u8
 #EXTINF:-1,UNKAPANI2
+https://hls.ibb.gov.tr/tkm2/hls/400.stream/chunklist.m3u8
 #EXTINF:-1,FSKÖPRÜ
+https://hls.ibb.gov.tr/tkm1/hls/341.stream/chunklist.m3u8
 #EXTINF:-1,PERPA
+https://hls.ibb.gov.tr/tkm2/hls/915.stream/media-uee67pvez_1092.m3u
 #EXTINF:-1,BAHRİYE CAD
-#EXTINF:-1,UNKAPANI2
-#EXTINF:-1,BOĞAZKÖP
+https://hls.ibb.gov.tr/tkm1/hls/208.stream/chunklist.m3u8
 #EXTINF:-1,NATURE
 https://cdn-002.whatsupcams.com/hls/hr_promajna01.m3u8
 #EXTINF:-1,ZİVOGECA
