@@ -37,51 +37,28 @@ https://moondigitaledge2.radyotvonline.net/radyo7muhtesem4lu/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4uJ6dSu.png", ANKARA HV
 https://moondigitaledge2.radyotvonline.net/radyo7ankara/playlist.m3u8
 #EXTINF:-1,USKUDAR
-https://hls.ibb.gov.tr/ls/cam_turistik/b_uskudar.stream/playlist.m3u8
 #EXTINF:-1,DRAGOS
-https://hls.ibb.gov.tr/ls/cam_turistik/b_dragos.stream/playlist.m3u8
 #EXTINF:-1,DRAGOS
-https://hls.ibb.gov.tr/ls/cam_turistik/b_dragos.stream/chunklist.m3u8
 #EXTINF:-1,METROHAN
-https://hls.ibb.gov.tr/ls/cam_turistik/b_metrohan.stream/playlist.m3u8
 #EXTINF:-1,CAMLICA
-https://hls.ibb.gov.tr/ls/cam_turistik/b_buyukcaml\u0131ca.stream/playlist.m3u8
 #EXTINF:-1,SARAÇHANE
-https://hls3.ibb.gov.tr/ls/cam_turistik/b_sarachane.stream/chunklist.m3u8
 #EXTINF:-1,KAPALI ÇARŞI
-https://hls.ibb.gov.tr/ls/cam_turistik/b_kapalicarsi.stream/playlist.m3u8
 #EXTINF:-1,EMİNÖNÜ
-https://hls.ibb.gov.tr/ls/cam_turistik/b_eminonu.stream/playlist.m3u8
 #EXTINF:-1,EMİNONU
-https://hls.ibb.gov.tr/ls/cam_turistik/b_eminonu.stream/chunklist.m3u8
 #EXTINF:-1,KUZ KULESİ
-https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_kiz_kulesi_1.stream/playlist.m3u8
 #EXTINF:-1,EYÜP SULTAN
-https://hls.ibb.gov.tr/ls/cam_turistik/b_eyupsultan.stream/playlist.m3u8
 #EXTINF:-1,KADIKÖY
-https://hls.ibb.gov.tr/tkm1/hls/224.stream/playlist.m3u8
 #EXTINF:-1,BOSTANCI
-https://hls.ibb.gov.tr/tkm1/hls/260.stream/playlist.m3u8
 #EXTINF:-1,K.KOY
-https://hls.ibb.gov.tr/tkm1/hls/204.stream/chunklist.m3u8
 #EXTINF:-1,DBAHCE
-https://hls.ibb.gov.tr/tkm4/hls/595.stream/chunklist.m3u8
 #EXTINF:-1,UNKAP
-https://hls.ibb.gov.tr/tkm2/hls/399.stream/chunklist.m3u8
 #EXTINF:-1,15TEM
-https://hls.ibb.gov.tr/tkm2/hls/81.stream/chunklist.m3u8
 #EXTINF:-1,TAX
-https://hls.ibb.gov.tr/tkm1/hls/193.stream/playlist.m3u8
 #EXTINF:-1,TAKSİM
-https://hls.ibb.gov.tr/ls/cam_turistik/b_taksim_meydan.stream/playlist.m3u8
 #EXTINF:-1,UNKAPANI2
-https://hls.ibb.gov.tr/tkm2/hls/400.stream/chunklist.m3u8
 #EXTINF:-1,FSKÖPRÜ
-https://hls.ibb.gov.tr/tkm1/hls/341.stream/chunklist.m3u8
 #EXTINF:-1,PERPA
-https://hls.ibb.gov.tr/tkm2/hls/915.stream/media-uee67pvez_1092.m3u
 #EXTINF:-1,BAHRİYE CAD
-https://hls.ibb.gov.tr/tkm1/hls/208.stream/chunklist.m3u8
 #EXTINF:-1,NATURE
 https://cdn-002.whatsupcams.com/hls/hr_promajna01.m3u8
 #EXTINF:-1,ZİVOGECA
@@ -403,7 +380,6 @@ https://youtu.be/bdDfLLy9Y5k
 #EXTINF:-1,ÜLKE TV
 https://youtu.be/29m-jU_f8ls
 #EXTINF:-1,Cine 1 (720p)
-https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
 #EXTINF:-1,HTSpor TV (1080p)
 https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
 #EXTINF:-1,HTSpor TV (1080p)
