@@ -5,7 +5,6 @@ https://www.youtube.com/@CNNTurk/live
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT 1 HD
 #EXTINF:-1,,A Haber (576p)
-http://185.234.111.229:8000/play/a019
 #EXTINF:-1,ATV
 http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
 #EXTINF:-1,ATV (720p)
@@ -205,7 +204,6 @@ https://video-auth1.iol.pt/beachcam/bcmonteclerigo/playlist.m3u8
 #EXTINF:-1,Arrifana
 https://video-auth1.iol.pt/beachcam/arrifana/playlist.m3u8
 #EXTINF:-1,Praia do Amado
-https://video-auth1.iol.pt/beachcam/bcamado/playlist.m3u8
 #EXTINF:-1,Praia da Luz
 https://video-auth1.iol.pt/beachcam/luz/playlist.m3u8
 #EXTINF:-1,Alvor
@@ -282,7 +280,6 @@ https://video-auth1.iol.pt/beachcam/parcos/playlist.m3u8
 #EXTINF:-1,Carvalhal
 https://video-auth1.iol.pt/beachcam/bccarvalhalodemira/playlist.m3u8
 #EXTINF:-1,Praia da Amoreira
-https://video-auth1.iol.pt/beachcam/bcamoreira/playlist.m3u8
 #EXTINF:-1,Praia do Vau
 https://video-auth1.iol.pt/beachcam/bcvauportimao/playlist.m3u8
 #EXTINF:-1,Meia Praia
