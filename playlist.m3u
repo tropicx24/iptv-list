@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Diğer",TRT SPOR
+https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 group-title="Diğer",NTV
 https://dogus-live.daioncdn.net/ntv/ntv_480p.m3u8
