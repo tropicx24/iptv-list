@@ -57,9 +57,6 @@ https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web
 https://bcovlive-a.akamaihd.net/8fe5dabcdbcd4af0ace7b991a12a6a4c/eu-central-1/6415845530001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y4tR1tTm/Ekolsports.jpg",EKOL SPORTS
 https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/F0Tsz1v/htsportr.png",HT SPOR
-https://ciner-live.ercdn.net/htspor/htspor.m3u8
-https://rr3---sn-u0g3jxaa-n5fz.googlevideo.com/videoplayback?expire=1755713293&ei=rbqlaNbSKp2y6dsP1Km3iQ0&ip=176.42.136.153&id=o-AKhgFKIsnF-8_iEkYiZCpyvmNazPU039J0jxagbc_--1&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1755691693%2C&mh=97&mm=31%2C29&mn=sn-u0g3jxaa-n5fz%2Csn-nv47zne7&ms=au%2Crdu&mv=m&mvi=3&pl=20&rms=au%2Cau&initcwndbps=1708750&bui=AY1jyLPBLv13KWUakwEuSmg7uhC-UoylWjxB318xvQ_RcyS04zbo1Ka5-T8BgqWVikvsBQjcO-y2q86F&spc=l3OVKTJgFHJy7OGkHb6JjwyiTUH2KKat1b42PY1WL8vvQalnmx__E_ek6bl30eid7_Fjh6PE8u8&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=222.052&lmt=1755416920293697&mt=1755691052&fvip=4&fexp=51548755%2C51565115%2C51565681%2C51580968&c=ANDROID&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AJfQdSswRAIgfsy046QqmwIa4Y-K73RRBWCtcKhi3UiEmyYTTJ_LkLECIG_PqgEI2tBCquUUH71m7QhbsWgDsnMIVdWMbcoTl9NR&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhAIR72CYoCVTM0GiYT85xzwk6FGsJp1liu-aSBNos3OXRAiBHkDRmr7IXMY7C9Th1MXbjWj_fXYGwKLXj7-Y4Qixlzg%3D%3D
 #EXTINF:-1 group-title="Diğer",Radyo 7 Arabesk 7
 https://moondigitaledge2.radyotvonline.net/radyo7turku/playlist.m3u8
 #EXTINF:-1 group-title="Diğer",RADYO7 SLOW
@@ -124,8 +121,6 @@ https://hls.ibb.gov.tr/tkm1/hls/208.stream/chunklist.m3u8
 https://hls.ibb.gov.tr/tkm2/hls/400.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Diğer",BOĞAZKÖP
 https://hls.ibb.gov.tr/tkm1/hls/79.stream/media-ujdb1zi8d_2914.m3u
-#EXTINF:-1 group-title="Diğer",Greece 8K
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1755607639/ei/9x2kaLf8GaS2i9oPstqz4Qc/ip/176.42.136.153/id/jZFhl9pY1Ps.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-u0g3jxaa-n5fl.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AY1jyLPkvygAENp4IqMjISk1mRwDAovnvlbOvQEKHVi8VsMpU5xeJ6TM4UYHuZB96MZGD3150grj4zWI/vprv/1/playlist_type/DVR/initcwndbps/1596250/met/1755586040,/mh/L2/mm/44/mn/sn-u0g3jxaa-n5fl/ms/lva/mv/m/mvi/5/pl/20/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51548755,51565116,51565681/mt/1755585629/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,vprv,playlist_type/sig/AJfQdSswRgIhAN6wE4aCv3Yhxa_e7eVEe0Aw2mgUV5TB1pnb0pswlqztAiEAl8s7P-ADZAGXjZMrA3-JRPjHnoRrxuxkeVB_LR8ScjE%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgYTDyONl4WLy8vDyYSdS6vEj7EMsrFwnJh8IOYAVUZsQCIQCvjx-7tvRJeVKmMYyJIAtTUUWbnFiPus9iGZgzdZ5jSg%3D%3D/playlist/index.m3u8
 #EXTINF:-1 group-title="Diğer",NATURE
 https://cdn-002.whatsupcams.com/hls/hr_promajna01.m3u8
 #EXTINF:-1 group-title="Diğer",ZİVOGECA
@@ -134,8 +129,6 @@ https://cdn-004.whatsupcams.com/hls/hr_zivogosce02.m3u8
 https://cdn-006.whatsupcams.com/hls/it_budoni01.m3u8
 #EXTINF:-1 group-title="Diğer",OPUTA
 https://cdn-005.whatsupcams.com/hls/hr_opuzen1.m3u8
-#EXTINF:-1 group-title="Diğer",Crystal Bay Beach Resort
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1755607640/ei/-B2kaL-4KNbzi9oP8t3pmQY/ip/176.42.136.153/id/Fw9hgttWzIg.326/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-u0g3jxaa-n5fl.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AY1jyLO9dMzFRTzR7sqbMwIEsIjusLx0SI_U0uts17pRW0TALCqU8AH7IkmwYiZKAZtuszNeSM7FPQAK/vprv/1/playlist_type/DVR/initcwndbps/1596250/met/1755586041,/mh/OW/mm/44/mn/sn-u0g3jxaa-n5fl/ms/lva/mv/m/mvi/4/pl/20/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51548755,51565116,51565681/mt/1755585629/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,vprv,playlist_type/sig/AJfQdSswRQIgSorA1DjUd6G0bo6Wq39bu6EY8j-yCLKX7fPZPNGsnU8CIQD3nrTfYsmklo8K1_E0DVHdGw4HW37GCHSOK6ybH6t0yA%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAKyOFpSXiqjPClNskMiV_3jmMRGTgOOwDIxxwzz_JMT3AiEA6Xpsme0dlAM2ykXriwDAYE4E8ufzITxxXAlxjyOgTxw%3D/playlist/index.m3u8
 #EXTINF:-1 group-title="Diğer",BEACH1
 https://usw01-smr04-relay.ozolio.com/hls-live/_definst_/relay01.wyscerq.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt23850.rc0.edge.basic.stream/chunklist_w1643503037.m3u8
 #EXTINF:-1 group-title="Diğer",BEACH2
@@ -150,10 +143,6 @@ https://s2.ipcamlive.com/streams/02kowivhcgalq3gxi/stream.m3u8
 https://s111.ipcamlive.com/streams/6fcg80rdlzcsexmef/stream.m3u8
 #EXTINF:-1 group-title="Diğer",DRAGE
 https://cdn-004.whatsupcams.com/hls/hr_drage03.m3u8
-#EXTINF:-1 group-title="Diğer",BCHK
-https://b12.hdrelay.com/camera/edd38a74-f4cf-4014-8a63-f3c080182b8d/relay/media_w1174949624_42773.m3u
-#EXTINF:-1 group-title="Diğer",BEA4
-https://hamptonbeachnhccn.b-cdn.net/sunba/hamptonbeachNH/chunklist.m3u8
 #EXTINF:-1 group-title="Diğer",GABBİANİ
 https://cdn-005.whatsupcams.com/hls/it_palau05.m3u8
 #EXTINF:-1 group-title="Diğer",Espinho
