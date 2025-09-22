@@ -443,93 +443,38 @@ https://video-auth1.iol.pt/beachcam/bcvauportimao/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/meiapraia/playlist.m3u8
 #EXTINF:-1 group-title="Diğer",Costa de Caparica - Praia Nova
 https://video-auth1.iol.pt/beachcam/bccaparicanovapraia/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/?q=bein" group-title="Deportes", Bein Sports Xtra Español
-https://aegis-cloudfront-1.tubi.video/82c7f2de-f4ea-44a4-8200-069c5c0bb639/playlist.m3u8
-#EXTINF:-1 cuid="899" tvg-name="bein sports" tvg-id="beIN.SPORTS.1.fr" tvg-logo="https://logo.m3uassets.com/beinsports1.png" group-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/iconsGrups/sportsBetclic.png" group-title="Liga Betclic 🌍",bEIN Sports1 🇫🇷
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={b6362975ca29d0685b7cac721b6faa26:da04d180e9028af27482b6a37c81e020,6ca2f2c822444ff76d9570741dec7b2b:9fc3d71ab30e8d33f09ee29e5e453608,3cf686dc4246f19bc4419c54da0f90bc:b40f599266c8a262ccf4a384dadce08a,6ca2f2c822444ff76d9570741dec7b2b:9fc3d71ab30e8d33f09ee29e5e453608}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/966/1/live.mpd
-#EXTINF:-1 cuid="901" tvg-name="bein sports" tvg-id="beIN.SPORTS.3.fr" tvg-logo="https://logo.m3uassets.com/aubeinsports3.png" group-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/iconsGrups/sportsBetclic.png" group-title="Liga Betclic 🌍",bEIN Sports3 🇫🇷
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={441100b7de65d7c582a9c71140e46f79:ef37dadc14bdade17224ef4bc9f87ce6,92e8cc9527c7f56a10777278cb801027:4ce3f3e2234f00b21ba77006f197832a}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/971/1/live.mpd
-#EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/539be808-86e7-4ed2-aa0b-130dbc1ac450.png" group-title="BELGESEL KANALLARI", ID (3)
-https://goldvod.org/tv/vavoo?id=20954040600611bde9e160
-#EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/539be808-86e7-4ed2-aa0b-130dbc1ac450.png" group-title="BELGESEL KANALLARI", ID (4)
-https://goldvod.org/tv/vavoo?id=9700986623c97a7651f69
-#EXTINF:-1 tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/history_hd_05736FE8-FA67-4E96-AED2-35A1366F5E77.png" group-title="BELGESEL KANALLARI", HISTORY CHANNEL (1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/6856/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/history_hd_05736FE8-FA67-4E96-AED2-35A1366F5E77.png" group-title="BELGESEL KANALLARI", HISTORY CHANNEL (3)
-https://goldvod.org/tv/vavoo?id=461893028cb81fdc7223c
-#EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/c9bbb2de-204b-48f6-a62f-94fa4252a6b0.png" group-title="BELGESEL KANALLARI", VIASAT HISTORY (3)
-https://goldvod.org/tv/vavoo?id=348046896213b84ce9a729
-#EXTINF:-1 tvg-logo="https://digiturkpaketler.com/img/kanallar/national-geographic-hd.png" group-title="BELGESEL KANALLARI", NATIONAL GEOGRAPHIC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-https://saran-live.ercdn.net/natgeohd/index.m3u8
-#EXTINF:-1 tvg-logo="https://digiturkpaketler.com/img/kanallar/nat-geo-wild-hd.png" group-title="BELGESEL KANALLARI", NAT GEO WILD (2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-https://saran-live.ercdn.net/natgeowild/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bbc-earth-hd-buyuk.png" group-title="BELGESEL KANALLARI", BBC EARTH (1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/6854/index.m3u8
-#EXTINF:-1 tvg-logo="https://blueantmedia.com/wp-content/uploads/2020/01/love-nature_transparent.png" group-title="BELGESEL KANALLARI", LOVE NATURE
-https://goldvod.org/tv/vavoo?id=10782221721cd1db332b6b
-#EXTINF:-1 tvg-logo="https://digiturkpaketler.com/img/kanallar/da-vinci.png" group-title="BELGESEL KANALLARI", DA VINCI LEARNING
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/6857/index.m3u8
-#EXTINF:-1 tvg-logo="https://tr.wikipedia.org/wiki/Dosya:CGTN_Documentary_logo.png" group-title="BELGESEL KANALLARI", CGTN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://digiturkpaketler.com/img/kanallar/bein-iz-hd.png" group-title="BELGESEL KANALLARI", BEIN IZ (1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/19078/index.m3u8
-#EXTINF:-1 tvg-logo="https://digiturkpaketler.com/img/kanallar/bein-iz-hd.png" group-title="BELGESEL KANALLARI", BEIN IZ (2)
-https://goldvod.org/tv/vavoo?id=16912230784a73b11d66ed
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b199a733ed1ced4e5a12ec6aaade62bd.png" group-title="BELGESEL KANALLARI", VIASAT EXPLORE
 https://goldvod.org/tv/vavoo?id=10982410761d6faced1faa
-#EXTINF:-1,TR: BEIN BOX OFFICE 1 4K
-http://delta8k.xyz/play/live.php?mac=00:1A:79:48:7D:3A&stream=200328&extension=ts
-#EXTINF:-1,TR: BEIN BOX OFFICE 2 4K
-http://delta8k.xyz/play/live.php?mac=00:1A:79:48:7D:3A&stream=200327&extension=ts
-#EXTINF:-1,TR: BEIN BOX OFFICE 3 4K
-http://delta8k.xyz/play/live.php?mac=00:1A:79:48:7D:3A&stream=200326&extension=ts
-#EXTINF:-1,TR: BEIN MOVIES ACTION 4K
-http://delta8k.xyz/play/live.php?mac=00:1A:79:48:7D:3A&stream=200306&extension=ts
-#EXTINF:-1,TR: Bein MOVIES ACTION 2 4K
-http://delta8k.xyz/play/live.php?mac=00:1A:79:48:7D:3A&stream=409738&extension=ts
-#EXTINF:-1,TR: BEIN MOVIES STARS 4K
-http://delta8k.xyz/play/live.php?mac=00:1A:79:48:7D:3A&stream=200304&extension=ts
-#EXTINF:-1,TR: BEIN MOVIES TURK 4K
-http://delta8k.xyz/play/live.php?mac=00:1A:79:48:7D:3A&stream=200303&extension=ts
-#EXTINF:-1,TR: BEIN MOVIES FAMILY 4K
-http://delta8k.xyz/play/live.php?mac=00:1A:79:48:7D:3A&stream=200305&extension=ts
-#EXTINF:-1,TR: Bein MOVIES FAMILY 4K
-http://delta8k.xyz/play/live.php?mac=00:1A:79:48:7D:3A&stream=409739&extension=ts
-#EXTINF:-1,TR: Bein MOVIES PRMIERE 4K
-http://delta8k.xyz/play/live.php?mac=00:1A:79:48:7D:3A&stream=409741&extension=ts
-#EXTINF:-1,TR: Bein MOVIES PREMIERE 2 4K
-http://delta8k.xyz/play/live.php?mac=00:1A:79:48:7D:3A&stream=409740&extension=ts
-#EXTINF:-1,TR: BEIN SERIES COMEDY 4K
-http://delta8k.xyz/play/live.php?mac=00:1A:79:48:7D:3A&stream=200309&extension=ts
-#EXTINF:-1,TR: BEIN SERIES DRAMA 4K
-http://delta8k.xyz/play/live.php?mac=00:1A:79:48:7D:3A&stream=200308&extension=ts
-#EXTINF:-1,TR: BEIN SERIES VICE 4K
-http://delta8k.xyz/play/live.php?mac=00:1A:79:48:7D:3A&stream=200307&extension=ts
-#EXTINF:-1,TR: Bein SERIES SCI-FI 4K
-http://delta8k.xyz/play/live.php?mac=00:1A:79:48:7D:3A&stream=409743&extension=ts
-#EXTINF:-1,TR: BEIN IZ 4K
-http://delta8k.xyz/play/live.php?mac=00:1A:79:48:7D:3A&stream=423534&extension=ts
-#EXTINF:-1,TR: MOVIE SMART PREMIUM 1 4K
-http://delta8k.xyz/play/live.php?mac=00:1A:79:48:7D:3A&stream=200321&extension=ts
-#EXTINF:-1,TR: MOVIE SMART CLASSIC 4K
-http://delta8k.xyz/play/live.php?mac=00:1A:79:48:7D:3A&stream=200318&extension=ts
-#EXTINF:-1,TR: MOVIE SMART TURK 4K
-http://delta8k.xyz/play/live.php?mac=00:1A:79:48:7D:3A&stream=200313&extension=ts
+#EXTINF:-1,##### TR SINEMA/DIZI #####
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913334&extension=ts
+#EXTINF:-1,TR| BEIN MOVIES TURK HD
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913333&extension=ts
+#EXTINF:-1,TR| BEIN MOVIES FAMILY HD
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913332&extension=ts
+#EXTINF:-1,TR| BEIN MOVIES STARS HD
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913331&extension=ts
+#EXTINF:-1,TR| BEIN MOVIES ACTION HD
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913330&extension=ts
+#EXTINF:-1,TR| BEIN MOVIES ACTION 2 HD
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913329&extension=ts
+#EXTINF:-1,TR| BEIN MOVIES PREMIERE HD
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913328&extension=ts
+#EXTINF:-1,TR| BEIN MOVIES PREMIERE 2 HD
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913327&extension=ts
+#EXTINF:-1,TR| BEIN SERIES 1 HD
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913325&extension=ts
+#EXTINF:-1,TR| BEIN SERIES 2 HD
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913326&extension=ts
+#EXTINF:-1,TR| BEIN SERIES 3 HD
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913323&extension=ts
+#EXTINF:-1,TR| BEIN SERIES 4 HD
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913324&extension=ts
+#EXTINF:-1,TR| BEIN BOX OFFICE 1 HD
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=1175357&extension=ts
+#EXTINF:-1,TR| BEIN BOX OFFICE 2 HD
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=1175356&extension=ts
+#EXTINF:-1,TR| BEIN BOX OFFICE 3 HD
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=1175355&extension=ts
 #EXTINF:-1 cuid="991" tvg-name="J Sports 1 🇯🇵" tvg-id="J.SPORTS.1.jp" tvg-logo="https://github.com/inspirationlinks/m3u/raw/refs/heads/live/LogosTv/JSports.webp" group-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/iconsGrups/sports.png" group-title="Sports • Various 🌍",JSports 1 🇯🇵
 https://mt01.utako.moe/js1/index.m3u8
 #EXTINF:-1 cuid="992" tvg-name="J Sports 2 🇯🇵" tvg-id="J.SPORTS.2.jp" tvg-logo="https://github.com/inspirationlinks/m3u/raw/refs/heads/live/LogosTv/JSports.webp" group-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/iconsGrups/sports.png" group-title="Sports • Various 🌍",JSports 2 🇯🇵
@@ -538,145 +483,115 @@ https://mt01.utako.moe/js2/index.m3u8
 https://mt01.utako.moe/js3/index.m3u8
 #EXTINF:-1 cuid="994" tvg-name="J Sports 4 🇯🇵" tvg-id="J.SPORTS.4.jp" tvg-logo="https://github.com/inspirationlinks/m3u/raw/refs/heads/live/LogosTv/JSports.webp" group-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/iconsGrups/sports.png" group-title="Sports • Various 🌍",JSports 4 🇯🇵
 https://mt01.utako.moe/js4/index.m3u8
-#EXTINF:-1,TR: VIASAT HISTORY
-http://delta8k.xyz/play/live.php?mac=00:1A:79:48:7D:3A&stream=200353&extension=ts
-#EXTINF:-1,TR: VIASAT EXPLORE HD
-http://delta8k.xyz/play/live.php?mac=00:1A:79:48:7D:3A&stream=587195&extension=ts
-#EXTINF:-1,TR: DISCOVERY CHANNEL HD
-http://delta8k.xyz/play/live.php?mac=00:1A:79:48:7D:3A&stream=200346&extension=ts
-#EXTINF:-1,TR: DISCOVERY SCIENCE HD
-http://delta8k.xyz/play/live.php?mac=00:1A:79:48:7D:3A&stream=200347&extension=ts
-#EXTINF:-1,TR: DISCOVERY SCIENCE
-http://delta8k.xyz/play/live.php?mac=00:1A:79:48:7D:3A&stream=200361&extension=ts
-#EXTINF:-1,TR: DISCOVERY ID 4K
-http://delta8k.xyz/play/live.php?mac=00:1A:79:48:7D:3A&stream=200348&extension=ts
-#EXTINF:-1,TR: NAT GEO 4K
-http://delta8k.xyz/play/live.php?mac=00:1A:79:48:7D:3A&stream=200362&extension=ts
-#EXTINF:-1,TR: NAT GEO HD
-http://delta8k.xyz/play/live.php?mac=00:1A:79:48:7D:3A&stream=200332&extension=ts
-#EXTINF:-1,TR: NAT GEO PEOPLE
-http://delta8k.xyz/play/live.php?mac=00:1A:79:48:7D:3A&stream=200364&extension=ts
-#EXTINF:-1,TR: NAT GEO WILD
-http://delta8k.xyz/play/live.php?mac=00:1A:79:48:7D:3A&stream=200363&extension=ts
-#EXTINF:-1,TR: BBC EARTH
-http://delta8k.xyz/play/live.php?mac=00:1A:79:48:7D:3A&stream=200352&extension=ts
-#EXTINF:-1,TR: HISTORY 4K
-http://delta8k.xyz/play/live.php?mac=00:1A:79:48:7D:3A&stream=587194&extension=ts
-#EXTINF:-1,TR: TRT Belgelel 4K
-http://delta8k.xyz/play/live.php?mac=00:1A:79:48:7D:3A&stream=4532&extension=ts
-#EXTINF:-1,TR: TLC 4K
-http://delta8k.xyz/play/live.php?mac=00:1A:79:48:7D:3A&stream=157588&extension=ts
-#EXTINF:-1,TR: TRT BELGESEL 4K
-http://delta8k.xyz/play/live.php?mac=00:1A:79:48:7D:3A&stream=3389&extension=ts
-#EXTINF:-1,TR: TLC HD
-http://delta8k.xyz/play/live.php?mac=00:1A:79:48:7D:3A&stream=281702&extension=ts
-#EXTINF:-1,TR: ANIMAL PLANET
-http://delta8k.xyz/play/live.php?mac=00:1A:79:48:7D:3A&stream=200355&extension=ts
-#EXTINF:-1,TR: Love Nature  4K
-http://delta8k.xyz/play/live.php?mac=00:1A:79:48:7D:3A&stream=736326&extension=ts
-#EXTINF:-1,## TR| BEIN SPORTS GOLD ᴴᴰ ##
-http://delta8k.xyz/play/live.php?mac=00:1A:79:48:7D:3A&stream=868693&extension=ts
-#EXTINF:-1,GOLD: beIN SP⚽RTS HABER ʜᴅ
-http://delta8k.xyz/play/live.php?mac=00:1A:79:48:7D:3A&stream=868692&extension=ts
-#EXTINF:-1,GOLD: beIN SP⚽RTS 1 ᴴᴰ
-http://delta8k.xyz/play/live.php?mac=00:1A:79:48:7D:3A&stream=868691&extension=ts
-#EXTINF:-1,GOLD: beIN SP⚽RTS 2 ᴴᴰ
-http://delta8k.xyz/play/live.php?mac=00:1A:79:48:7D:3A&stream=868690&extension=ts
-#EXTINF:-1,GOLD: beIN SP⚽RTS 3 ᴴᴰ
-http://delta8k.xyz/play/live.php?mac=00:1A:79:48:7D:3A&stream=868689&extension=ts
-#EXTINF:-1,GOLD: beIN SP⚽RTS 4 ᴴᴰ
-http://delta8k.xyz/play/live.php?mac=00:1A:79:48:7D:3A&stream=868688&extension=ts
-#EXTINF:-1,GOLD: beIN SP⚽RTS 5 ᴴᴰ
-http://delta8k.xyz/play/live.php?mac=00:1A:79:48:7D:3A&stream=868687&extension=ts
-#EXTINF:-1,GOLD: beIN SP⚽RTS MAX 1 ᴴᴰ
-http://delta8k.xyz/play/live.php?mac=00:1A:79:48:7D:3A&stream=868686&extension=ts
-#EXTINF:-1,GOLD: beIN SP⚽RTS MAX 2 ᴴᴰ
-http://delta8k.xyz/play/live.php?mac=00:1A:79:48:7D:3A&stream=868685&extension=ts
-#EXTINF:-1,GOLD: beIN SP⚽RTS 1 ʜᴅ
-http://delta8k.xyz/play/live.php?mac=00:1A:79:48:7D:3A&stream=868684&extension=ts
-#EXTINF:-1,GOLD: beIN SP⚽RTS 2 ʜᴅ
-http://delta8k.xyz/play/live.php?mac=00:1A:79:48:7D:3A&stream=868683&extension=ts
-#EXTINF:-1,GOLD: beIN SP⚽RTS 3 ʜᴅ
-http://delta8k.xyz/play/live.php?mac=00:1A:79:48:7D:3A&stream=868682&extension=ts
-#EXTINF:-1,GOLD: beIN SP⚽RTS 4 ʜᴅ
-http://delta8k.xyz/play/live.php?mac=00:1A:79:48:7D:3A&stream=868681&extension=ts
-#EXTINF:-1,GOLD: beIN SP⚽RTS 5 ʜᴅ
-http://delta8k.xyz/play/live.php?mac=00:1A:79:48:7D:3A&stream=868680&extension=ts
-#EXTINF:-1,GOLD: beIN SP⚽RTS MAX 1 ʜᴅ
-http://delta8k.xyz/play/live.php?mac=00:1A:79:48:7D:3A&stream=868679&extension=ts
-#EXTINF:-1,GOLD: beIN SP⚽RTS MAX 2 ʜᴅ
-http://delta8k.xyz/play/live.php?mac=00:1A:79:48:7D:3A&stream=868678&extension=ts
-#EXTINF:-1,## TR| BEIN SPORTS GOLD SD ##
-http://delta8k.xyz/play/live.php?mac=00:1A:79:48:7D:3A&stream=868677&extension=ts
-#EXTINF:-1,GOLD: beIN SP⚽RTS 1 sᴅ
-http://delta8k.xyz/play/live.php?mac=00:1A:79:48:7D:3A&stream=868676&extension=ts
-#EXTINF:-1,## TR| BEIN SPORTS GOLD RAW ##
-http://delta8k.xyz/play/live.php?mac=00:1A:79:48:7D:3A&stream=868675&extension=ts
-#EXTINF:-1,GOLD: beIN SP⚽RTS 1 RAW
-http://delta8k.xyz/play/live.php?mac=00:1A:79:48:7D:3A&stream=868674&extension=ts
-#EXTINF:-1,GOLD: beIN SP⚽RTS 2 RAW
-http://delta8k.xyz/play/live.php?mac=00:1A:79:48:7D:3A&stream=868673&extension=ts
-#EXTINF:-1,GOLD: beIN SP⚽RTS 3 RAW
-http://delta8k.xyz/play/live.php?mac=00:1A:79:48:7D:3A&stream=868672&extension=ts
-#EXTINF:-1,GOLD: beIN SP⚽RTS 4 RAW
-http://delta8k.xyz/play/live.php?mac=00:1A:79:48:7D:3A&stream=868671&extension=ts
-#EXTINF:-1,GOLD: beIN SP⚽RTS 5 RAW
-http://delta8k.xyz/play/live.php?mac=00:1A:79:48:7D:3A&stream=868670&extension=ts
-#EXTINF:-1,GOLD: beIN SP⚽RTS MAX 1 RAW
-http://delta8k.xyz/play/live.php?mac=00:1A:79:48:7D:3A&stream=868669&extension=ts
-#EXTINF:-1,GOLD: beIN SP⚽RTS MAX 2 RAW
-http://delta8k.xyz/play/live.php?mac=00:1A:79:48:7D:3A&stream=868668&extension=ts
-#EXTINF:-1,GOLD: beIN SP⚽RTS 1 RAW
-http://delta8k.xyz/play/live.php?mac=00:1A:79:48:7D:3A&stream=868667&extension=ts
-#EXTINF:-1,GOLD: beIN SP⚽RTS 2 RAW
-http://delta8k.xyz/play/live.php?mac=00:1A:79:48:7D:3A&stream=868666&extension=ts
-#EXTINF:-1,GOLD: beIN SP⚽RTS 3 RAW
-http://delta8k.xyz/play/live.php?mac=00:1A:79:48:7D:3A&stream=868665&extension=ts
-#EXTINF:-1,GOLD: beIN SP⚽RTS 4 RAW
-http://delta8k.xyz/play/live.php?mac=00:1A:79:48:7D:3A&stream=868664&extension=ts
-#EXTINF:-1,GOLD: beIN SP⚽RTS 5 RAW
-http://delta8k.xyz/play/live.php?mac=00:1A:79:48:7D:3A&stream=868663&extension=ts
-#EXTINF:-1,GOLD: beIN SP⚽RTS 1 RAW
-http://delta8k.xyz/play/live.php?mac=00:1A:79:48:7D:3A&stream=868662&extension=ts
-#EXTINF:-1,GOLD: beIN SP⚽RTS MAX 1 RAW
-http://delta8k.xyz/play/live.php?mac=00:1A:79:48:7D:3A&stream=868661&extension=ts
-#EXTINF:-1,GOLD: beIN SP⚽RTS MAX 2 RAW
-http://delta8k.xyz/play/live.php?mac=00:1A:79:48:7D:3A&stream=868660&extension=ts
-#EXTINF:-1,## TR| BEIN SPORTS GOLD ᵁᴴᴰ 3840P ##
-http://delta8k.xyz/play/live.php?mac=00:1A:79:48:7D:3A&stream=868659&extension=ts
-#EXTINF:-1,GOLD: beIN SP⚽RTS 1 ᵁᴴᴰ 3840P
-http://delta8k.xyz/play/live.php?mac=00:1A:79:48:7D:3A&stream=868658&extension=ts
-#EXTINF:-1,GOLD: beIN SP⚽RTS 2 ᵁᴴᴰ 3840P
-http://delta8k.xyz/play/live.php?mac=00:1A:79:48:7D:3A&stream=868657&extension=ts
-#EXTINF:-1,MU| STINGRAY  EASY LISTENING
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:3E:9F:2D&stream=886249&extension=ts
-#EXTINF:-1,MU| STINGRAY  HIT LIST
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:3E:9F:2D&stream=886250&extension=ts
-#EXTINF:-1,MU| STINGRAY ADISQ
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:3E:9F:2D&stream=886222&extension=ts
-#EXTINF:-1,MU| STINGRAY ALTERNATIVE
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:3E:9F:2D&stream=886247&extension=ts
-#EXTINF:-1,MU| STINGRAY CLASSIC MASTERS
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:3E:9F:2D&stream=886239&extension=ts
-#EXTINF:-1,MU| STINGRAY CLASSIC ROCK
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:3E:9F:2D&stream=886245&extension=ts
-#EXTINF:-1,MU| STINGRAY COUNTRY CHRISTMAS
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:3E:9F:2D&stream=1045332&extension=ts
-#EXTINF:-1,MU| STINGRAY COUNTRY CLASSICS
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:3E:9F:2D&stream=886248&extension=ts
-#EXTINF:-1,MU| STINGRAY FLASHBACK 70S
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:3E:9F:2D&stream=886241&extension=ts
-#EXTINF:-1,MU| STINGRAY FRANCO COUNTRY
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:3E:9F:2D&stream=886221&extension=ts
-#EXTINF:-1,MU| STINGRAY HOLIDAY HITS
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:3E:9F:2D&stream=1045330&extension=ts
-#EXTINF:-1,MU| STINGRAY JUKEBOX OLDIES
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:3E:9F:2D&stream=1045325&extension=ts
-#EXTINF:-1,MU| STINGRAY LOUD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:3E:9F:2D&stream=886223&extension=ts
-#EXTINF:-1,MU| STINGRAY NATURE ESCAPE
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:3E:9F:2D&stream=1045326&extension=ts
-#EXTINF:-1,MU| STINGRAY NATURESCAPE
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:3E:9F:2D&stream=1045327&extension=ts
-#EXTINF:-1,MU| STINGRAY NOSTALGIE
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:3E:9F:2D&stream=1045328&extension=ts
+#EXTINF:-1,##### TR BELGESEL #####
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913192&extension=ts
+#EXTINF:-1,TR| TRT BELGESEL 4K
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913191&extension=ts
+#EXTINF:-1,TR| TRT BELGESEL HD
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913190&extension=ts
+#EXTINF:-1,TR| NAT GEO WiLD 4K
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913189&extension=ts
+#EXTINF:-1,TR| NAT GEO WILD HD
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913188&extension=ts
+#EXTINF:-1,TR| ANIMAL PLANET 4K
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913187&extension=ts
+#EXTINF:-1,TR| NATiONAL GEOGRAPHiC 4K
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913186&extension=ts
+#EXTINF:-1,TR| NATiONAL GEOGRAPHiC HD
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913185&extension=ts
+#EXTINF:-1,TR| NAT GEO PEOPLE
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913184&extension=ts
+#EXTINF:-1,TR| DiSCOWERY CHANNEL 4K
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913183&extension=ts
+#EXTINF:-1,TR| DISCOVERY CHANNEL HD
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913182&extension=ts
+#EXTINF:-1,TR| TLC 4K
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913181&extension=ts
+#EXTINF:-1,TR| TLC HD
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913180&extension=ts
+#EXTINF:-1,TR| TGRT BELGESEL 4K
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913179&extension=ts
+#EXTINF:-1,TR| TRT BELGESEL HD
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913178&extension=ts
+#EXTINF:-1,TR|YABAN TV 4K
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913177&extension=ts
+#EXTINF:-1,TR| YABAN HD
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913176&extension=ts
+#EXTINF:-1,TR| DISCOVERY SCIENCE 4K
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913175&extension=ts
+#EXTINF:-1,TR| DISCOVERY SCIENCE HD
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913174&extension=ts
+#EXTINF:-1,TR| DISCOVERY IDX 4K
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913173&extension=ts
+#EXTINF:-1,TR| DISCOVERY IDX HD
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913172&extension=ts
+#EXTINF:-1,TR| BBC EARTH 4K
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913171&extension=ts
+#EXTINF:-1,TR| BBC EARTH HD
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913170&extension=ts
+#EXTINF:-1,TR| HISTORY 4K
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913169&extension=ts
+#EXTINF:-1,TR| IZTV 4K
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913168&extension=ts
+#EXTINF:-1,TR| DMAX 4K
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913167&extension=ts
+#EXTINF:-1,TR| DMAX HD
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913166&extension=ts
+#EXTINF:-1,TR| BEIN GURME 4K
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913165&extension=ts
+#EXTINF:-1,TR| VIASAT HISTORY HD
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913162&extension=ts
+#EXTINF:-1,TR| VIASAT EXPLORE HD
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913161&extension=ts
+#EXTINF:-1,TR| LOVE NATURE 4K
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913160&extension=ts
+#EXTINF:-1,##### TR BEIN SPOR #####
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913462&extension=ts
+#EXTINF:-1,TR| BEIN SPORTS HABER 4K
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=912885&extension=ts
+#EXTINF:-1,TR| BEIN SPORTS HABER FHD
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913461&extension=ts
+#EXTINF:-1,TR| BEIN SPORTS HABER HD
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913440&extension=ts
+#EXTINF:-1,TR| BEIN SPORTS HABER HD (BK)
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=912884&extension=ts
+#EXTINF:-1,TR| BEIN SPORTS 1
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913460&extension=ts
+#EXTINF:-1,TR| BEIN SPORTS 1 HD
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913459&extension=ts
+#EXTINF:-1,TR| BEIN SPORTS 1 FHD
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913457&extension=ts
+#EXTINF:-1,TR| BEIN SPORTS 1 HD 1080
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913446&extension=ts
+#EXTINF:-1,TR| BEIN SPORTS 1 FHD FEED
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913447&extension=ts
+#EXTINF:-1,TR| BEIN SPORTS 1 UHD ULTRA
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913448&extension=ts
+#EXTINF:-1,TR| BEIN SPORTS 1 4K
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913458&extension=ts
+#EXTINF:-1,TR| BEIN SPORTS 2
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913455&extension=ts
+#EXTINF:-1,TR| BEIN SPORTS 2 HD
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913456&extension=ts
+#EXTINF:-1,TR| BEIN SPORTS 2 HD 1080
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913445&extension=ts
+#EXTINF:-1,TR| BEIN SPORTS 3 HD
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913454&extension=ts
+#EXTINF:-1,TR| BEIN SPORTS 3 HD 1080
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913444&extension=ts
+#EXTINF:-1,TR| BEIN SPORTS 4 HD
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913453&extension=ts
+#EXTINF:-1,TR| BEIN SPORTS 4 HD 1080
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913443&extension=ts
+#EXTINF:-1,TR| BEIN SPORTS 5 FHD
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=1091502&extension=ts
+#EXTINF:-1,TR| BEIN SPORTS 5 + FHD
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=1091501&extension=ts
+#EXTINF:-1,TR| BEIN SPORTS MAX 1 HD 720
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913452&extension=ts
+#EXTINF:-1,TR| BEIN SPORTS MAX 1 HD 1080
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913442&extension=ts
+#EXTINF:-1,TR| BEIN SPORTS MAX 2 HD 720
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913451&extension=ts
+#EXTINF:-1,TR| BEIN SPORTS MAX 2 HD 1080
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913441&extension=ts
