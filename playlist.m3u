@@ -421,37 +421,6 @@ https://video-auth1.iol.pt/beachcam/bcvauportimao/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/meiapraia/playlist.m3u8
 #EXTINF:-1 group-title="Diğer",Costa de Caparica - Praia Nova
 https://video-auth1.iol.pt/beachcam/bccaparicanovapraia/playlist.m3u8
-
-#EXTINF:-1,##### TR SINEMA/DIZI #####
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913334&extension=ts
-#EXTINF:-1,TR| BEIN MOVIES TURK HD
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913333&extension=ts
-#EXTINF:-1,TR| BEIN MOVIES FAMILY HD
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913332&extension=ts
-#EXTINF:-1,TR| BEIN MOVIES STARS HD
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913331&extension=ts
-#EXTINF:-1,TR| BEIN MOVIES ACTION HD
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913330&extension=ts
-#EXTINF:-1,TR| BEIN MOVIES ACTION 2 HD
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913329&extension=ts
-#EXTINF:-1,TR| BEIN MOVIES PREMIERE HD
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913328&extension=ts
-#EXTINF:-1,TR| BEIN MOVIES PREMIERE 2 HD
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913327&extension=ts
-#EXTINF:-1,TR| BEIN SERIES 1 HD
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913325&extension=ts
-#EXTINF:-1,TR| BEIN SERIES 2 HD
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913326&extension=ts
-#EXTINF:-1,TR| BEIN SERIES 3 HD
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913323&extension=ts
-#EXTINF:-1,TR| BEIN SERIES 4 HD
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913324&extension=ts
-#EXTINF:-1,TR| BEIN BOX OFFICE 1 HD
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=1175357&extension=ts
-#EXTINF:-1,TR| BEIN BOX OFFICE 2 HD
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=1175356&extension=ts
-#EXTINF:-1,TR| BEIN BOX OFFICE 3 HD
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=1175355&extension=ts
 #EXTINF:-1 cuid="991" tvg-name="J Sports 1 🇯🇵" tvg-id="J.SPORTS.1.jp" tvg-logo="https://github.com/inspirationlinks/m3u/raw/refs/heads/live/LogosTv/JSports.webp" group-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/iconsGrups/sports.png" group-title="Sports • Various 🌍",JSports 1 🇯🇵
 https://mt01.utako.moe/js1/index.m3u8
 #EXTINF:-1 cuid="992" tvg-name="J Sports 2 🇯🇵" tvg-id="J.SPORTS.2.jp" tvg-logo="https://github.com/inspirationlinks/m3u/raw/refs/heads/live/LogosTv/JSports.webp" group-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/iconsGrups/sports.png" group-title="Sports • Various 🌍",JSports 2 🇯🇵
@@ -465,112 +434,110 @@ http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913192&extensi
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b199a733ed1ced4e5a12ec6aaade62bd.png" group-title="BELGESEL KANALLARI", VIASAT EXPLORE
 https://goldvod.org/tv/vavoo?id=10982410761d6faced1faa
 #EXTINF:-1,TR| TRT BELGESEL 4K
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913191&extension=ts
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:18:1C:3D&stream=913191&extension=ts
 #EXTINF:-1,TR| TRT BELGESEL HD
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913190&extension=ts
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:18:1C:3D&stream=913190&extension=ts
 #EXTINF:-1,TR| NAT GEO WiLD 4K
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913189&extension=ts
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:18:1C:3D&stream=913189&extension=ts
 #EXTINF:-1,TR| NAT GEO WILD HD
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913188&extension=ts
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:18:1C:3D&stream=913188&extension=ts
 #EXTINF:-1,TR| ANIMAL PLANET 4K
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913187&extension=ts
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:18:1C:3D&stream=913187&extension=ts
 #EXTINF:-1,TR| NATiONAL GEOGRAPHiC 4K
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913186&extension=ts
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:18:1C:3D&stream=913186&extension=ts
 #EXTINF:-1,TR| NATiONAL GEOGRAPHiC HD
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913185&extension=ts
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:18:1C:3D&stream=913185&extension=ts
 #EXTINF:-1,TR| NAT GEO PEOPLE
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913184&extension=ts
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:18:1C:3D&stream=913184&extension=ts
 #EXTINF:-1,TR| DiSCOWERY CHANNEL 4K
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913183&extension=ts
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:18:1C:3D&stream=913183&extension=ts
 #EXTINF:-1,TR| DISCOVERY CHANNEL HD
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913182&extension=ts
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:18:1C:3D&stream=913182&extension=ts
 #EXTINF:-1,TR| TLC 4K
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913181&extension=ts
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:18:1C:3D&stream=913181&extension=ts
 #EXTINF:-1,TR| TLC HD
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913180&extension=ts
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:18:1C:3D&stream=913180&extension=ts
 #EXTINF:-1,TR| TGRT BELGESEL 4K
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913179&extension=ts
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:18:1C:3D&stream=913179&extension=ts
 #EXTINF:-1,TR| TRT BELGESEL HD
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913178&extension=ts
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:18:1C:3D&stream=913178&extension=ts
 #EXTINF:-1,TR|YABAN TV 4K
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913177&extension=ts
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:18:1C:3D&stream=913177&extension=ts
 #EXTINF:-1,TR| YABAN HD
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913176&extension=ts
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:18:1C:3D&stream=913176&extension=ts
 #EXTINF:-1,TR| DISCOVERY SCIENCE 4K
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913175&extension=ts
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:18:1C:3D&stream=913175&extension=ts
 #EXTINF:-1,TR| DISCOVERY SCIENCE HD
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913174&extension=ts
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:18:1C:3D&stream=913174&extension=ts
 #EXTINF:-1,TR| DISCOVERY IDX 4K
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913173&extension=ts
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:18:1C:3D&stream=913173&extension=ts
 #EXTINF:-1,TR| DISCOVERY IDX HD
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913172&extension=ts
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:18:1C:3D&stream=913172&extension=ts
 #EXTINF:-1,TR| BBC EARTH 4K
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913171&extension=ts
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:18:1C:3D&stream=913171&extension=ts
 #EXTINF:-1,TR| BBC EARTH HD
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913170&extension=ts
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:18:1C:3D&stream=913170&extension=ts
 #EXTINF:-1,TR| HISTORY 4K
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913169&extension=ts
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:18:1C:3D&stream=913169&extension=ts
 #EXTINF:-1,TR| IZTV 4K
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913168&extension=ts
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:18:1C:3D&stream=913168&extension=ts
 #EXTINF:-1,TR| DMAX 4K
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913167&extension=ts
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:18:1C:3D&stream=913167&extension=ts
 #EXTINF:-1,TR| DMAX HD
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913166&extension=ts
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:18:1C:3D&stream=913166&extension=ts
 #EXTINF:-1,TR| BEIN GURME 4K
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913165&extension=ts
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:18:1C:3D&stream=913165&extension=ts
 #EXTINF:-1,TR| VIASAT HISTORY HD
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913162&extension=ts
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:18:1C:3D&stream=913162&extension=ts
 #EXTINF:-1,TR| VIASAT EXPLORE HD
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913161&extension=ts
-#EXTINF:-1,TR| LOVE NATURE 4K
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913160&extension=ts
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:18:1C:3D&stream=913161&extension=ts
 #EXTINF:-1,##### TR BEIN SPOR #####
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913462&extension=ts
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:18:1C:3D&stream=913462&extension=ts
 #EXTINF:-1,TR| BEIN SPORTS HABER 4K
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=912885&extension=ts
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:18:1C:3D&stream=912885&extension=ts
 #EXTINF:-1,TR| BEIN SPORTS HABER FHD
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913461&extension=ts
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:18:1C:3D&stream=913461&extension=ts
 #EXTINF:-1,TR| BEIN SPORTS HABER HD
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913440&extension=ts
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:18:1C:3D&stream=913440&extension=ts
 #EXTINF:-1,TR| BEIN SPORTS HABER HD (BK)
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=912884&extension=ts
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:18:1C:3D&stream=912884&extension=ts
 #EXTINF:-1,TR| BEIN SPORTS 1
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913460&extension=ts
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:18:1C:3D&stream=913460&extension=ts
 #EXTINF:-1,TR| BEIN SPORTS 1 HD
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913459&extension=ts
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:18:1C:3D&stream=913459&extension=ts
 #EXTINF:-1,TR| BEIN SPORTS 1 FHD
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913457&extension=ts
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:18:1C:3D&stream=913457&extension=ts
 #EXTINF:-1,TR| BEIN SPORTS 1 HD 1080
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913446&extension=ts
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:18:1C:3D&stream=913446&extension=ts
 #EXTINF:-1,TR| BEIN SPORTS 1 FHD FEED
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913447&extension=ts
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:18:1C:3D&stream=913447&extension=ts
 #EXTINF:-1,TR| BEIN SPORTS 1 UHD ULTRA
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913448&extension=ts
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:18:1C:3D&stream=913448&extension=ts
 #EXTINF:-1,TR| BEIN SPORTS 1 4K
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913458&extension=ts
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:18:1C:3D&stream=913458&extension=ts
 #EXTINF:-1,TR| BEIN SPORTS 2
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913455&extension=ts
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:18:1C:3D&stream=913455&extension=ts
 #EXTINF:-1,TR| BEIN SPORTS 2 HD
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913456&extension=ts
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:18:1C:3D&stream=913456&extension=ts
 #EXTINF:-1,TR| BEIN SPORTS 2 HD 1080
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913445&extension=ts
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:18:1C:3D&stream=913445&extension=ts
 #EXTINF:-1,TR| BEIN SPORTS 3 HD
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913454&extension=ts
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:18:1C:3D&stream=913454&extension=ts
 #EXTINF:-1,TR| BEIN SPORTS 3 HD 1080
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913444&extension=ts
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:18:1C:3D&stream=913444&extension=ts
 #EXTINF:-1,TR| BEIN SPORTS 4 HD
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913453&extension=ts
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:18:1C:3D&stream=913453&extension=ts
 #EXTINF:-1,TR| BEIN SPORTS 4 HD 1080
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913443&extension=ts
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:18:1C:3D&stream=913443&extension=ts
 #EXTINF:-1,TR| BEIN SPORTS 5 FHD
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=1091502&extension=ts
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:18:1C:3D&stream=1091502&extension=ts
 #EXTINF:-1,TR| BEIN SPORTS 5 + FHD
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=1091501&extension=ts
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:18:1C:3D&stream=1091501&extension=ts
 #EXTINF:-1,TR| BEIN SPORTS MAX 1 HD 720
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913452&extension=ts
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:18:1C:3D&stream=913452&extension=ts
 #EXTINF:-1,TR| BEIN SPORTS MAX 1 HD 1080
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913442&extension=ts
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:18:1C:3D&stream=913442&extension=ts
 #EXTINF:-1,TR| BEIN SPORTS MAX 2 HD 720
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913451&extension=ts
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:18:1C:3D&stream=913451&extension=ts
 #EXTINF:-1,TR| BEIN SPORTS MAX 2 HD 1080
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:78:9B:29&stream=913441&extension=ts
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:18:1C:3D&stream=913441&extension=ts
